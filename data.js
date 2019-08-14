@@ -226,6 +226,10 @@ function html_xr(data_item){
       }
       if(document.getElementById(id_content)){
         document.getElementById(id_content).innerHTML = "";
+		if(!data_all['data'][0]){
+		  var tag = "<p>源站访问失败（宕机或限制）</p>";
+		  document.getElementById(id_content).insertAdjacentHTML("beforeEnd",tag);
+		  }
       }
     }
     for(var i = 0; i < 100; i++)

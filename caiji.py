@@ -1084,15 +1084,15 @@ def parse_toutiao(name):
         if name == 'e':
             jsondict["title"] = "头条5"
         if name == 'f':
-            jsondict["title"] = "头条5"
+            jsondict["title"] = "头条6"
         if name == 'g':
-            jsondict["title"] = "头条5"
+            jsondict["title"] = "头条7"
         if name == 'h':
-            jsondict["title"] = "头条5"
+            jsondict["title"] = "头条8"
         if name == 'i':
-            jsondict["title"] = "头条5"
+            jsondict["title"] = "头条9"
         if name == 'j':
-            jsondict["title"] = "头条5"
+            jsondict["title"] = "头条10"
         for n in data['data']:
             blist = {}
             hot_url = "https://www.toutiao.com" + n['source_url']
