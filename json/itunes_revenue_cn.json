@@ -1,0 +1,606 @@
+{
+  "title":"AppStore收入排行榜(国区)",
+  "time":"2019-08-14 13:23:42",
+  "data":[
+    {
+      "name":"王者荣耀",
+      "url":"get/?url=qprrfu2z1mqbtwu9KEJPMt1CgvpTgBYW0DNrLs3DgvkrtvvPKEfvLsfHgvkrtvvPumNrLs3DgvkrtvvP0qOrLsgHgvkntvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qqdLKnQjts2y0qjzdt2qtn",
+      "num":"游戏",
+      "description":"最新版本:  1.45.1.23\n更新时间:  2019-08-03 13:26:16 (北京时间)\n\n【问题修复】\n1、修复部分场景下出现的闪退问题；\n2、优化蓝牙耳机接入场景下的语音对话质量；\n\n【版本更新内容】\n1.新战士英雄-曜：曜是来自稷下区域的中二热血少年，与孙膑、西施、蒙犽、鲁班大师共同组建“稷下星之队”。形象设计上，曜的服饰以“天之色”为主，辅以星辰元素，寓意“青出于蓝而胜于蓝”；技能贯彻“一招一式，皆随心意”的理念，自由任意强化技能，并依靠不同强化技能的搭配打出绚丽的连招，漫天星辰，我最闪曜！未来，“稷下星之队”将会陆续展开怎样的故事呢？敬请期待！\n2.S16赛季开启：全新赛季开启，赛季专属皮肤盾山-御銮上线。荣耀战令福利更新，新增战令任务刷新功能，助力巅峰。\n3.深渊大乱斗全面升级为——梦境大乱斗：从美术设计到玩法机制全面升级！美术设计，打造全新梦幻场景。玩法体验，新增公共英雄池，更多选择；动态战场，地形崩塌；随机神符，策略博弈；鲲鹏神鸟，助力推进。\n4.限时活动-抢鲲大作战：3V3抢鲲，开局满级六神装，就是团！\n5.福利系统-云端梦境：开启梦境，免费领用皮肤、英雄等道具。积攒筑梦值，筑梦成功可以永久获取奖励。\n6.王者峡谷调整：\n①暴击效果增设上限；\n②兵线、防御塔、野区：提高防御塔收益，降低兵线、野区收益；\n③边路：边路法师小兵射程降低，河道蟹移动更靠近上塔，提升塔后补血包效果；\n④远古生物：提升主宰、黑暗暴君基础生命值，降低刷新间隔；主宰先锋护甲魔抗提升，射程、攻击力降低，对小兵和炮车的攻击提升。\n7.对局环境优化：\n①信誉系统专属奖励：奖励更新，新增狄仁杰信誉专属皮肤——鹰眼统帅，信誉专属回城特效“鹰眼护卫回城特效”。\n②永不投降选项：投降投票界面增加“勿扰”选项，选择后，自动拒绝该局所有投降，不影响之后的对局。\n③晋级赛保护功能上线：处于晋级赛的召唤师享有专属加油界面，晋级赛失败可获得额外补偿。\n④举报不良语音功能测试：判定和处罚游戏对战过程中的不良语音行为。（本功能还处于测试阶段，反馈信息可能有所延时。）\n8.征召模式优化：\n①BP界面展示优化：BP阶段可看到自己选择的英雄及皮肤模型。\n②想玩英雄优化：队友招募、小队、排位赛的想玩英雄数据打通。\n③五排排位赛取消英雄熟练度限制：五排时可使用见习熟练度的英雄。\n9.新皮肤上线：\n①鲁班七号-狮舞东方：史诗品质，S16荣耀战令进阶版限定产出。\n②钟馗-神迹守卫：勇者品质，S16荣耀战令进阶版限定产出。\n【更多优化调整】\n1.英雄调整：盘古、阿珂、夏侯惇、项羽、妲己、孙尚香、梦奇、刘邦、孙策\n2.装备调整：冰霜长刃、破魔刀、冰霜法杖、贤者之书、霸者重装、名刀·司命\n3.玩法优化：克隆&1V1模式增加禁用英雄的流程。\n4.荣耀称号展示优化：每周获得荣耀称号的玩家第一次进入排位赛界面时将展示获取的信息。\n5.定制系统优化：\n①新增“定制”内容浏览界面。\n②全面优化英雄定制界面显示效果。\n6.成就展示优化：新增分类，分为“成长、对局、玩法、社交、战队”五个类型。\n7.社交互动优化：世界频道和战队频道增加组队邀请消息，可发送组队信息到聊天频道，也可通过聊天频道的组队消息快捷加入房间。\n8.游戏内显示优化：可在设置中隐藏游戏内自己和他人的名字显示。"
+    },
+    {
+      "name":"和平精英",
+      "url":"get/?url=amWONyXKdvoD3y610DNrvt51evnTgBYWeEjvLsdHgvkrtvvPKrkvLs5LuvkntvvPKEjvLs1KuvkftvvPerOrLs5TgvkftvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=aE1LKnTS0n1OxBIvttlPvn",
+      "num":"游戏",
+      "description":"最新版本:  1.2.9\n更新时间:  2019-06-25 09:07:01 (北京时间)\n\n【版本更新内容】\n1.创意工坊新模式-暗夜危机：\n1）创意工坊-暗夜危机：创意工坊新模式，5级可以参与，在经典竞赛基础上，增加模拟生化武器泄露演习元素内容，60名参赛者需要在三天两夜的过程中，抵御夜晚丧尸攻击，探寻此次特训背后的缘由；\n2）暗夜危机模式专属天气：三天两夜昼夜变换；\n3）暗夜危机模式专属新枪械：火焰喷射器——通过燃气瓶补充，对范围目标造成伤害，并产生持续的燃烧伤害，消灭丧尸几率获得；\n4）暗夜危机模式专属道具①：诱饵手雷——丢出后会发出声响吸引丧尸靠近，数秒后爆炸，诱饵手雷对丧尸伤害很高，对特种兵影响较弱；\n5）暗夜危机模式专属道具②：液氮地雷——放置后会被附近的目标引爆，瞬间释放大量液氮造成范围减速效果，对特种兵效果较低；\n6）暗夜危机模式专属道具③：并联弹夹（步枪）——大幅增加步枪弹匣容量；\n2.经典模式新玩法：\n1）雪地洞穴破坏玩法：雪地地图中隐藏着神秘山洞，可开载具撞开或用手榴弹炸开洞口的石头获取洞穴中的空投物资；\n【“盛夏狂欢”系列内容将陆续登陆，酷爽激战，狂欢一夏！】\n1）经典模式限时玩法-夏日模式：玩家可以在此模式中畅享夏日冲浪的清凉体验，前往爱心岛还能参与新奇有趣的神秘活动，同时还能发现蕴藏丰富物资的航行游艇和探寻海底宝藏！夏日模式后续开放，请留意官方公告，敬请期待；\n2）创意工坊-队友召回模式：在雨林地图中，玩家可在规定时间拾取被淘汰队友的身份卡片，到地图上标记的通讯塔进行队友召回，被召回队友可重新跳伞继续和队友并肩作战！队友召回模式后续开放，请留意官方公告，敬请期待；\n【优化内容】\n1.经典模式-体验升级：\n1）新增组队交流标点系统：万能标点键功能、队友回应标点功能、点击武器空槽标记功能、优化标记物资剪影表现；\n2）音频功能优化：新增超高音质选项，提供更丰富的音质表现，只针对部分高端机型开放，可在设置面板打开体验；\n3）音频功能优化：合入新版本的语音组件——提供更好的语音体验、解决部分机型的语音卡顿问题、解决部分机型的适配问题、解决部分机型的闪退问题；\n4）音频功能优化：开放部分iPad Pro机型使用蓝牙耳机时可切换手机采集或蓝牙采集两种模式；\n5）开放部分高端机型在HDR高清画质下极限帧率的选项，该选项将在功能稳定后开放，具体开放时间请留意官方通知；\n6）优化了Kar98K、S1897等单发装填枪械的换弹表现；\n7）拾取地图刷新的Kar98K、S1897等枪械时，可以直接开枪射击，不再需要先拉栓或上膛了；\n8）优化开镜状态移动时，瞄准镜动画抖动表现；\n9）侧面瞄准镜优化：添加新的瞄准UI，现有十字形与新的X形UI准星可选，用于区分主侧瞄具；\n10）侧面瞄准镜优化：切枪时，保留枪械的主侧瞄具状态；\n11）侧面瞄准镜优化：新增侧面瞄准镜自动拾取开关；\n12）镜头控制机制优化：在第一、二种操作模式下，左半屏一根手指已控制方向时，第二根手指在左半屏空白区域不能再控制镜头；\n13）在操作设置界面中新增开火按键、探头按键、开镜按键的镜头控制说明；\n14）信号枪召唤空投飞机飞行高度由300米提高到500米，超级空投下降速度由6米/秒提高到7.15米/秒；\n15）在获得冠军时，奖励蛋糕替换成夏日冰雕，为冠军队伍带来阵阵凉意；\n16）优化训练场的美术场景表现；\n2.团队竞技-体验升级：\n1）团队竞技模式专属新枪械：RPG-7火箭筒——通过火箭弹补充弹药，发射之后造成范围伤害，在地图中心固定时间刷新；\n2）团队竞技模式新增道具：破片手榴弹，在地图两侧固定时间刷新；\n3）团队竞技模式下，RPG-7火箭筒和破片手榴弹无队友伤害；\n4）团队竞技模式支持Kar98k的皮肤显示；\n5）每局开始时的武器配置会自动继承上一局结束时的状态，不需要重新拾取；\n6）装配上扩容弹夹的武器，在初始时即会保持满弹夹的状态；\n7）优化地图部分物件的边缘碰撞效果，使移动更加顺滑；\n8）优化团队竞技模式下攀爬高度很高时的动作问题；\n9）淘汰回放的数据统计面板上增加自己对其他人造成的伤害；\n10）邀请好友组队界面中的最近页签，增加团队竞技的组队成员记录；\n11）聊天频道的招募功能，支持团队竞技的显示；\n3.系统优化：\n1）当有好友的未读消息时，该好友会根据消息的时间顺序优先排列在聊天列表前面；\n2）新增大厅快捷入口，可快速切换到指定地图；\n3）获取大厅背景奖励时，可以快速跳转到仓库中的使用页签；\n4）大厅的界面将和背景进行绑定，替换大厅背景时，大厅界面会跟随背景进行变化；\n5）仓库界面中，优化“大厅展示武器、大厅展示头盔”选项的勾选表现，使其更加醒目；\n6）世界聊天频道队伍招募消息优化：根据模式显示对应的消息图标与模式名，显示地图名、人称；\n7）创建招募消息优化：增加发布招募CD显示，CD期间按钮置灰；\n8）组队时，显示成员的赛季手册图标和等级；\n9）商城优化：批量购买时按住“+”号可持续增加数量；\n4.安全系统优化：\n1）针对已知的安全问题，升级安全系统组件及新增数种有效的安全策略；\n5.赛季切换：\n1）SS2赛季开启后，赛季手册将重置为1级，也将开启全新的玩法和福利奖励，请在SS2赛季开启前尽快领取完SS1赛季的奖励，SS2赛季开启时间，敬请留意后续的官方公告；"
+    },
+    {
+      "name":"梦幻西游",
+      "url":"get/?url=qprrfu2z1mqHxue50mrrLt3ffvpTgBYWenjvLs0KuvkjtvvP0rkvLsXuuvkrtvvP0qkvLs1KuvkftvvPKmfvLs5vuvkjtvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=anPjxnFD1s2CtBIvtBlfxn",
+      "num":"游戏",
+      "description":"最新版本:  1.235.0\n更新时间:  2019-07-15 17:47:03 (北京时间)\n\n【全新内容】\n1、工坊系统全新改版，专属培养重磅来袭。\n2、2019盛夏PK狂欢季火热进行中。\n3、宠物神装，各显神通，宠物装备系统正式上线。\n4、海毛虫带你去探险！全新封妖玩法开启测试。\n5、遗迹探险，国宝寻踪。2019暑假活动放出。\n6、稳定战斗节奏，提升战斗体验。新一期战斗平衡调整。\n7、盛夏百宝阁重磅福利来袭。\n【版本优化】\n1、泡泡乐园资格机制优化。\n2、调整千叶莲露可以对珍兽使用。"
+    },
+    {
+      "name":"腾讯视频-全职高手独播",
+      "url":"get/?url=amWONyXKdvpLxte9eEnr0tXefrAbxodjLqwLwt1uvAozKv5fLqwLwu0uvEozKvPffnvn1t0uvAozKvd9unvLwucz1upzKv5ffnvnvt0u1qpzKvd9KqwnLt0u1uozKvtXeERrLs5vuvkvtvvPKmNrLsZuuvkrtvvP0rgvLsgzuvkrtvvPKrkvLsXCgvkrtvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=0tprj3uH9KCmvwlPPuyp1MCT9KAcL2tXz0vLXKulfMnhv2s2yNnlztlxLKn",
+      "num":"娱乐",
+      "description":"最新版本:  7.3.5\n更新时间:  2019-08-06 20:34:45 (北京时间)\n\n1.青少年模式优化。更纯粹，护航青少年成长。\n2.优化了播放体验，看视频更尽兴！"
+    },
+    {
+      "name":"爱奇艺-宸汐缘独播",
+      "url":"get/?url=amWONyXKJEnnZzu5KmJPxt10erAbxodjLqwLwt1uvAozKv5fLqwLwu0uvEozKvd9unvLxudzvEozKvd1unvnvtdzvAozKvd90qwnLucz1uozKvtXKqkvLs1CgvkrtvvP0mNrLsXuuvkftvvPeEjvLs0CgvkntvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=90tuYnvypjhtL9uB4u2tRHxypvxDxvgt20ws2G0vHvdEPrtn",
+      "num":"娱乐",
+      "description":"最新版本:  10.7.5\n更新时间:  2019-08-09 10:17:47 (北京时间)\n\n【精彩看不停】《烈火军校》全网独播，许凯白鹿挥洒青春热血。\n【青少年模式】与爱奇艺一起健康成长。\n【体验新升级】修复已知bug，为你的体验保驾护航。"
+    },
+    {
+      "name":"跑跑卡丁车官方竞速版",
+      "url":"get/?url=amWONyXKdvonZzQ1emNr0t6ffvnTgBYWenNrLs1CgvkntvvP0rSrLs3DgvkvtvvPKrSrLsdzuvkntvvPunjvLsYSgvkjtvvPenRrLsgzuvkftvvPKmfvLsfPuvkrtvvPeENrLs0KuvkbtvvPeEfvLsfHgvkftvvPeERrLsZKuvkrtvvPeERrLsZKuvkrtvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qsTrtnMnuw2uwD2utnHbxnzzty10MmmzJqPXunOjtw1ivzmzJuLXKn",
+      "num":"游戏",
+      "description":"最新版本:  1.0.10\n更新时间:  2019-07-25 22:51:26 (北京时间)\n\n1、新增小屋系统\n2、新增活动中心\n3、新增师徒功能\n4、新增挚友功能\n5、新增无限氮气模式"
+    },
+    {
+      "name":"龙族幻想",
+      "url":"get/?url=amWONyXKdroftvQ5eErr1t6ffvnTgBYWKEjvLs6DgvkjtvvP0qkvLs1KuvkftvvP0rOrLsZSgvkjtvvPunRrLsgPuvkvtvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=GEp9wn30My1avzWvJw2iMn",
+      "num":"游戏",
+      "description":"最新版本:  1.1.3\n更新时间:  2019-08-09 18:14:55 (北京时间)\n\n1.剧情模式新增章节\n2.新增代号系列组队挑战副本\n3.新增自由一日等竞技战场\n4.新增部分成就异闻条目\n5.优化游戏体验，提升流畅度\n6.修复部分已知游戏BUG"
+    },
+    {
+      "name":"神雕侠侣2",
+      "url":"get/?url=0tpb5uo4CfzFLevortte9enJr1t5verAbxoP1KEfvLsgPuvkbtvvP0DfvLsgPuvkbtvvPumRrLsdXgvkvtvvPKrSrLsXuuvkntvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=0tpN1KA2WunNzdt1yvDAztzxztn",
+      "num":"游戏",
+      "description":"最新版本:  1.4.0\n更新时间:  2019-08-10 12:58:13 (北京时间)\n\n1、优化游戏性能2、修复部分已知BUG"
+    },
+    {
+      "name":"优酷视频-九州缥缈录精彩呈现",
+      "url":"get/?url=amWONyXKdvontuu1emfPMt61erAbxod10qwnLu0uvEozKvd9envnvt1u1uozKvt9KqwnKudz1uozKvtj1qwLwtdzvEozKvt5unvnKudz1uozKvd9envLxudzvEozKvt5KqwLxudzvEozKvtjvnvLNtdz1uozKvdjvnvn1tdz1qozKvtXeERrLs5vuvkvtvvPKmNrLsZuuvkrtvvP0mjvLsXCgvkvtvvPenRrLsePuvkbtvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=0tpbn3tL9uAsDvzXLZv1zxELvgB5C1tPHtzLbhoLvNBZCvzUvZuLXKulfMnhv2s2mZvzztw5Xun",
+      "num":"娱乐",
+      "description":"最新版本:  8.1.0\n更新时间:  2019-08-06 09:36:21 (北京时间)\n\n1. 新增精彩好内容《一起乐队吧》《少年威计划》\n2. 电视剧评分功能即将上线，各位考评官可以点评和Mark每一部喜欢的电视剧\n3. 缓存下载支持HDR清晰度，随时随地畅享极清观影\n4. 可以自定义管理顶部频道啦，有你才酷是我们最大的追求~"
+    },
+    {
+      "name":"精灵盛典:李连杰黎明代言-奇迹MU正版",
+      "url":"get/?url=90tqoLdoxr2xvrKtXufrpftwQ5emfrKwWLZqprtvt9envLNtgzvEnjKvdjLqwLMtgz1uKrhBQffBzTwuSDgvsX2ye9eBvrvuSvfvsXgmd1envn0tcz1qpzKv51KqwLwudz1qozKvtjfnvn0t1uvAozKvtjfnvLwudz1upzKvd10qwnKu1uvAozKvtjvnvLMudz1qpzKvtjfnvnKu1uvAozKvtXenjvLsXCgvkftvvP0qSrLsdXgvkntvvPumjvLs4DgvkntvvPKrkvLs5LuvkntvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=0tpbLMsL1YB0fwzw5eB3y3BMLfCSnZqN9wAT82ntvNAzfwDQDtBpnhzHvNBFLwDQrwy19enxLvnIvxn1eZr0utllDtn",
+      "num":"游戏",
+      "description":"最新版本:  200.4.1\n更新时间:  2019-08-10 13:31:23 (北京时间)\n\n1、增加更多策略竞技乐趣，强化职业特性；\n2、绚丽外观随你定义，变装系统随心所欲；\n3、增加探索自由度，优化日常玩法时长；\n4、强化社交玩法，语音功能体验优化；\n5、其他优化，全面提升游戏性能，运行更流畅。"
+    },
+    {
+      "name":"快手",
+      "url":"get/?url=qprrfu2z1mqDxru1enrr1t3ffroTgBYW0qOrLs1CgvkjtvvP0qgvLshPuvkftvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=WuBVvJCTiwn",
+      "num":"摄影与录像",
+      "description":"最新版本:  6.7.0\n更新时间:  2019-08-09 14:25:54 (北京时间)\n\n- 问题修复以及性能提升\n- 优化用户体验"
+    },
+    {
+      "name":"石器时代M：官方正版手游",
+      "url":"get/?url=0tuubLDwndu5vevpPxtu10DvrKt4f1vHz3zQffBNPwuSLfvsXwsf9eBRr0tSLfvsX2ze9eBRr0tSngvsXwtuffBrvvuSLfvsX2AQffBzr1tSLfvsX2zu9eBvvvuSvfvsXgmtjMEfvLsdPuvkbtvvPKmjvLsZSgvkjtvvPenfvLs1SgvkftvvPKEjvLshXgvkntvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=90tq1rtyTKMsH9uAkvwlVrxyLv3vH9uB1DvDTHtlLrLA1XunYugC18wBAvJETutn",
+      "num":"游戏",
+      "description":"最新版本:  0.58.1\n更新时间:  2019-07-31 06:05:12 (北京时间)\n\n1.新增在登陆界面联系客服的按钮\n\n2.新增账号绑定奖励功能，绑定账号后可领取奖励\n\n3.新增举行婚礼立即完成的功能（不影响奖励获得），举行婚礼的时间段延长至次日2点\n\n4.世界聊天等级提升\n\n5.人龙系和暴龙系宠物技能提升\n\n6.弓、斧头的装备技能提升\n\n7.功能体验优化及BUG修复"
+    },
+    {
+      "name":"魂斗罗:归来-烬城猎影",
+      "url":"get/?url=0tpb5uo4CfzFvevoLxsQ1eEnr0t1e1vHzxrQffBrTwuSvfvsXwvf9eBnv0tSngvsXwvf9eBzv1tSvfvsXwtvffBnr0tSngvsXgmt5KqwnKu1uvAozKvP1unvnKudz1uozKvtX0mRrLsfPuvkntvvP0mRrLsYSgvkjtvvPuENrLsfzuvkvtvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qpfjMDSDtsQ52n04gB6zZzUnZuWrwy1Twoxv3tyjZn1GvyWvZqYeMn",
+      "num":"游戏",
+      "description":"最新版本:  1.21.60.6258\n更新时间:  2019-07-31 23:57:51 (北京时间)\n\n【全新内容】\n1、新玩法-“烬城猎影”[入口：挑战-烬城猎影]：烬城猎影是60级开放的挑战模式玩法，玩家可以4人组队参与该模式。与队友配合消灭幽灵，挑战全息领主，赢取丰厚奖励！\n2、暗区裂缝：新增“冰霜之狼-布莱德·方”和“空之领主-战痕”关卡，有几率获得对应英雄的碎片。\n\n【全新资源】\n1、新S级英雄“百变召唤师-芙蕾雅”：芙蕾雅在传送到虚空幻境的过程中与哥哥弗雷失散，之后她给自己做了一个飞行器——骇电幽浮，在幻境中找寻了很多年。芙蕾雅是古灵精怪的机械宠物制造大师，能利用骇电幽浮喷射出波波球，在指定地点召唤不同的机械宠物协助自己战斗。\n2、新SS级伙伴“V字蝰蛇”：格兰迪斯星球的超时空宇宙巡航机，它摧毁了沙罗曼蛇的基地，凯旋而归，属于它的英雄战绩传遍了整个宇宙。\n3、新武器：新增橙SS级机关枪-“荒野猎网7S”。\n4、全新武器觉醒：\n1）二次觉醒：“C16创造者：寒武之誓”。\n3、新皮肤：\n1）史诗级皮肤：“静谧之眼-百里守约：电玩勇士”、“复生王爵-伯吉斯：电玩恶魔”；\n2）典藏级皮肤：“炸弹专家-奎因特：西部牛仔”、“百变召唤师-芙蕾雅：星光秀场”；\n3）勇者级皮肤：“百变召唤师-芙蕾雅： 玫瑰涂鸦”、“流光飞刺-芬奇：玫瑰伯爵”、“兰斯·比恩：加勒比船长”。\n4、全新武器配件：\n1）旋转光刃：突击步枪通用弹幕配件；\n2）磁暴光刃：镭射步枪专属弹幕配件；\n3）高弦残影：突击步枪通用核心配件；\n4）超弦残影：镭射步枪专属核心配件。\n\n【更多优化】\n1、增加了枪魂一键升级功能，统一选择材料，按照优先级顺序对枪魂进行批量升级；\n2、优化了竞技模式奖励，将竞技模式奖励整合在一起，参与任意竞技模式可以获得竞技值，积累竞技值获得对应奖励；\n3、优化了角色详情界面，玩家可以互相查看彼此武器中枢的成长详情；\n4、优化了备战界面，有推荐英雄时，被推荐的英雄会被置顶，方便选择；\n5、修复了异维探险护送无效时，仍会显示红点提示的问题；\n6、修复了异形入侵拍卖信息提示红点异常的问题。"
+    },
+    {
+      "name":"大话西游",
+      "url":"get/?url=amWONyXKdrnbtre5KmnrLt4fevnTgBYWenjvLs0KuvkjtvvP0rkvLsXuuvkrtvvPurSrLshzuvkrtvvP0mfvLsWuuvkftvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=anPjxnFD1s2qwllzJBtfwn",
+      "num":"游戏",
+      "description":"最新版本:  1.1.197\n更新时间:  2019-08-08 13:45:11 (北京时间)\n\n龙族现世：龙吟东方，三界迎新\n再续前缘：呼朋唤友，齐聚长安\n超越送福：龙族有礼，惊喜不断\n夏季活动：全新时装，龙兔登场\n【最新动态】\n1.全新龙族 , 震撼登场 \n  龙吟东方，声动九霄！大话西游龙族全面来袭，物理系全新输出体系，每个技能都神威赫赫！独有特性“逆鳞”也将带来强大技能特效，游戏内格局也将因龙族而不同，龙族所能带给你的绝对不止于此！全新大话，只等你来！ \n2.2019大话嘉年华 \n  2019大话嘉年华活动将于8月10日~8月11日在西安举行，三界侠士，风云际会； \n3.超越惊喜，龙族有礼 \n  三界奇遇杨超越，龙族现世蓬莱间！惊喜小龙女火箭少女101成员杨超越倾情加入大话西游手游，代言人福利不断加码，福利几率从天而降！小龙女与你相约大话畅玩龙族，快进入游戏领取你的龙族专属惊喜吧！ \n4.鎏金宝鉴，绝世珍藏 \n  九天八方风云变，鎏金宝鉴现三界！龙族特别版本重磅回馈，超强宝鉴诚意巨献。绝版瑞兽时装，三个不同版本，抢到就是赚到！俏丽龙兔，东走西顾，调皮的龙兔会是你最爱的那个宝宝吗？各位少侠们，敬请期待吧！ \n5.龙回大话，再话江湖 \n  再寻前缘，相聚长安！ 大话世界诚邀各位少侠齐聚一堂再话江湖！专属称谓、聊天标志，还有深受玩家们喜爱的萌宠“小五叶”即将再次登场！快召集你身边的小伙伴一起来吧！ \n6.国韵新装，青花玲珑 \n  青花玲珑衣，精妙世无双！绝版时装“青花玲珑”即将献世，一泓碧水微荡漾，青衣靛裳浮云望。暑气扫七月，穿一袭绝版凉衣，你就是整个大话最靓的仔！ \n7.寻芳副本新关卡：寻芳副本新开放15关和16关，队伍中拥有2转120级及以上的角色即可挑战新关卡。大侠们赶快叫上小伙伴，协力战胜狡诈的妖怪，解救芙蓉仙子和鸢尾仙子吧！ \n8.无差别争霸赛线下4大赛区比赛已圆满结束，全国总决赛将于大话嘉年华期间在西安举行；\n9.《大话西游》文化探索情景秀《国风话江湖》第二季震撼上线，节目采用严肃认真的历史素材，以及幽默趣味的演绎，让观众在哈哈一笑中，了解《大话西游》背后的历史故事； \n10.师徒任务奖励积分支持隔天领取，但只会保留最近一天遗漏的奖励哦。再也不用担心徒弟完成任务太迟、师父布置任务太晚啦~"
+    },
+    {
+      "name":"闪耀暖暖",
+      "url":"get/?url=amWONyXKdrnrtu61KENrLtXefvnTgBYWKmRrLscXgvkjtvvPKmRrLscXgvkjtvvP0DNrLs3DgvkrtvvPKqgvLsZSgvkvtvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=WvXbxnxfhC1e0qjztCLPLn",
+      "num":"游戏",
+      "description":"最新版本:  1.02\n更新时间:  2019-08-09 11:45:08 (北京时间)\n\n1.新增开场视频\n2.优化游戏体验，提升流畅度\n2.修复部分BUG"
+    },
+    {
+      "name":"完美世界",
+      "url":"get/?url=amWONyXKdvpLxtQ1unfrKt3ffvnTgBYWerOrLsXSgvkntvvPKmRrLs0KuvkbtvvPKrOrLsgPuvkntvvPerOrLsgzuvkftvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qtxvtnxLgt18Kn3utt2ewn",
+      "num":"游戏",
+      "description":"最新版本:  1.282.2\n更新时间:  2019-06-24 04:58:56 (北京时间)\n\n1.新增跨服PK赛——寰宇争锋，突破天际与更多修真者6V6同场竞技，赢取跨服巅峰奖励；\n2.新增野外争夺BOSS——赏金猎人，全新的BOSS争夺玩法，夺取全区稀缺资源；\n3.新增地图——刺骨之地、疾风草原、龙战之野；\n4.新增12人团队副本——覆霜·元，覆霜秘境的全新区域开启，贺兰秋雪的宝藏等待修真者们的探索；\n5.新增修真境界——仙魔混元、至真至圣；\n6.新增灵仙、天魔的仙魔专精；\n7.新增传奇任务、隐藏任务,修真者可以探索全新的完美大陆；\n8.新增师徒任务、传道任务，各位师父可以发布任务，徒弟完成后可以获得相应奖励；\n9.新增拜师收徒信息平台，修真者可以通过平台选择心仪的徒弟或师父；\n10.新增结婚婚礼内容——鹊桥相会、找绣鞋、闹洞房，喜结良缘后可以体验更多的婚礼玩法；\n11.新增119级修真副本——怨灵之门·鬼， 全新副本玩法等待修真者的探索；\n12.新增119级挑战副本——黄昏圣殿·真，更需要团队技巧的副本等待修真者的体验；\n13.新增浮屠塔层数至150层，修真者可迎接全新的挑战；\n14.新增帮派语音系统，修真者可与帮派内其他修真者进行语音互动；\n15.新增精灵内丹功能，精灵突破自我，全面提升精灵能力；\n16.新增镌刻附魔功能，修真者通过附魔可以增强自身属性；\n17.新增镌刻套装属性，全身装备达到某一等级可额外提升属性；\n18.新增9军装备，全新装备外观，更强装备实力；"
+    },
+    {
+      "name":"倩女幽魂",
+      "url":"get/?url=amWONyXKdvojtt65ennPxt6fevnTgBYWuENrLsfzuvkvtvvPurkvLs1KuvkftvvPKEjvLsXuuvkftvvPunfvLs3DgvkftvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=WqYeMn50My1O3vHvdCdLvn",
+      "num":"游戏",
+      "description":"最新版本:  1.3.5\n更新时间:  2019-07-25 02:57:33 (北京时间)\n\n飞星传信佳期如梦，此情可待浪漫七夕！全新嘉年华庆典邀你传承国风经典！全新逃脱主题副本无间地狱，带来不一样的刺激体验！\n1.魔气炽盛，深渊再临——全新逃脱主题副本无间地狱来袭！\n1）为维护得来不易的人间安宁，英雄们通过裂缝进入令人胆寒的无间地狱，为夺回八颗解脱果而直面从未有过的挑战。\n2）成功获得解脱果，躲避魔物追击，即可获得胜利，获得丰厚奖励。\n\n2. 以战为名，全民狂欢——第三届全民争霸赛开启。\n1）全民争霸赛开启，50万人民币现金大奖和海量珍贵奖励等你来拿。\n2）本届比赛在之前的基础上增加了灵兽结伴技能和鉴定技能配置，属性搭配策略更加丰富。\n3）参与本届比赛可继续获得吉祥物剑心琉璃，同时在之前的基础上为每种形态增加了一套外观。\n\n3. 国韵流芳，三界同庆——新一届嘉年华盛夏开幕。\n1）集印章，赢好礼！一年一度的嘉年华重回三界，与你共赏唯美国风。\n2）嘉年华现场将揭晓嘉年华投壶活动结果，惊喜就在你身边。\n\n4.精彩新玩法：\n1）神兵新外观——女刀客神兵全新迭代，惊艳登场。\n2）周边新体验——全新周边商城上线，更有嘉年华现场门票等你抢哦。\n3）节日新惊喜——浪漫七夕活动，趣味中元节活动好戏连台，为你点亮夏日星空，更有服务器唯一珍稀坐骑鸳鸯于飞，静待佳期。\n\n5.更多精彩外观：\n1）七月七日夜半私语，全新情侣主题时装缘梦系列浪漫上架。\n2）七夕主题服务器唯一坐骑鸳鸯于飞，七夕佳节与你相约。"
+    },
+    {
+      "name":"率土之滨",
+      "url":"get/?url=qprrfu2z1mqL3Ae1eEfPwt1eevpTgBYWenfvLsdPuvkjtvvP0qOrLs1KuvkbtvvP0rSrLseXgvkftvvP0mNrLsgHgvkntvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=WB1jxnm1gt1ywEAvds2qtn",
+      "num":"游戏",
+      "description":"最新版本:  2.3.2\n更新时间:  2019-08-07 10:12:40 (北京时间)\n\n【新征服赛季“八阵图”】\n-与国家图书馆联合推出新赛季“八阵图”玩法\n-全新赛季地图\n-全新地图迷雾机制\n-全新八阵赛季战法\n-全新河流出征规则及河流建筑\n【全新武将】\n-增加新征服赛季武将【5星·魏·徐晃】【5星·群·于吉】【5星·群·李儒】\n【群雄讨董新增阵营】\n-群雄讨董赛季增加讨董联军阵营"
+    },
+    {
+      "name":"QQ飞车",
+      "url":"get/?url=0tuubLDwnduXeKEobtqu5umnPwt4f1vHzxwuffBrTwuSDgvsXwvv9eBnrvuSTgvsXwrynMDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=9Kvy292n18gCizvv",
+      "num":"游戏",
+      "description":"最新版本:  1.14.0.21901\n更新时间:  2019-07-11 01:06:27 (北京时间)\n\n1.新系统-自由组装，赛车革命\n想要自由组装部件，创造专属赛车？想要自由搭配颜色，定义个性风格？想要体验炫酷动感悬浮轮，尽享极限狂飙？全新的组装车玩法震撼来袭，车头、驾驶舱、车尾、引擎、轮胎部件自由组装，更有主漆、副漆、轮毂色、特效色和喷焰颜色任意组合，快来新版本打造属于自己的专属组装车吧！\n2.新剧情-四大车神，首次登场\n飞车大陆一年一度的QS音乐节盛典开始啦！新剧情拉开序幕，四大车神首次亮相，陆续揭晓飞车大陆不为人知的秘密……盛典现场为车手们准备了全息投影的3D炫酷地图，地图上遍布空间传送点，让你畅游整片大陆！更有四大车神之一、极光动力车神兼知名歌姬镜惊艳登场，全新A车S-追光者、组装车以及迅捷流星在剧情中开放试驾！解锁神秘关卡更可获得永久的限定套装奖励哦！\n3.新升级-大厅升级，车库焕新\n游戏界面美术优化，大厅全新升级！通透澄澈的全新大厅、风格鲜明的四大车厂车库、焕然一新的个人空间展示、空间场景化的三人匹配房间等各项美术优化将给车手们带来耳目一新的体验！  \n4.新资源-新车新装，惊喜登场\n全新赛车携新宠物、新时装惊喜登场，S联赛系列A车S-追光者将在新版本中正式亮相！\n一、基础体验优化\n1.登录流程优化：登录界面进入游戏，加载至大厅界面的整体流程更加快速流畅。\n2.对局体验优化：优化了起步倒计时和对局内的卡顿问题；提升了对局内的平均帧率，并减少了帧率抖动。\n3.大厅优化：大厅进入其他界面的响应时间更短，体验更顺畅；降低从其他界面返回大厅的时间，切换更流畅。\n4.休闲区优化：优化了休闲区的卡顿情况，体验更流畅。\n5.网络异常问题优化\n①当对手网络极不稳定时，优化了其赛车的异常拉扯表现；\n②修复了起步时对手赛车速度异常问题。\n6.操作异常问题优化\n①修复了漂移过程中，因发生碰撞而导致的锁胎及按键失灵的问题；\n②修复了漂移后，立刻反向甩尾轨迹异常的问题。\n7.道具赛异常问题优化：修复了被闪电和香蕉皮等道具攻击后持续锁胎的问题。\n二、师徒玩法优化\n1.拜师收徒的条件由历史最高段位相差1个大段改为1个小段；\n2.拜师收徒的流程优化：未填写名片或报名表时也能进行拜师收徒；\n3.师徒任务难度全面降低；\n4.观战快捷跳转入口优化；\n5.师徒沟通方式优化；\n6.师徒关系解除优化：再拜同一人为师的冷冻时间调整为7天;\n7.任务标题显示优化：师父点击查看详情进入任务列表界面后，标题改为“徒弟任务”;\n8.新增可保留师徒考试录像的功能。\n三、邂逅模式优化\n1.落后队友较远时，飞马的最高速度会得到提升；\n2.降低了比翼齐飞的持续时间；\n3.比翼齐飞时会显示剩余时间进度，玩家可提前降落；\n4.与好友或情侣一起开启心之容器可获得额外的亲密值；与伴侣一起开启心之容器可获得额外的亲密度和恩爱度。\n四、每日任务优化\n新版本对每日任务进行了全面的减负优化\n1.【每日登录】任务的奖励活跃值增加到10；\n2.【收获日】任务奖励的活跃值增加到25；\n3.【排位赛】任务奖励的活跃值增加到20；\n4.【许愿池】任务奖励的活跃值调整为5；\n5.【呼朋唤友】任务完成条件优化为：和好友玩1局并结算；奖励的活跃值增加到10；\n6.【富有挑战的任务】和【勤于练习】的完成条件优化为：参加并正常结算；其中【富有挑战的任务】奖励的活跃值调整为25；\n7.【这个车手真棒】任务的完成条件优化为：单局结算给其他车手点赞1次；\n8.【道具赛】任务的完成条件优化为：参加1场道具赛并正常结算。\n五、训练场优化\n1.道具训练场新增【设置旗点】功能，具体规则与竞速训练场一致；\n2.修复了竞速训练场和道具训练场的【设置旗点】的按钮适配问题；\n3.修复了重新开局而导致的部分赛车特性失效的问题；\n4.竞速训练场中新增地图-TROY-熔炼车间、TROY-零号试验场；道具训练场中新增地图星星火车站、TROY-零号试验场；\n5.训练场新地图刷新规则：新地图上线两周后会加入训练场中。\n六、美术升级\n1.大厅改版：大厅进行了大幅度的升级美化，UI设计更轻薄、玩法交互更合理、信息展示更清晰。\n2、车库升级：新版本中车库迎来全面升级，赛车将根据其所属车厂在专属的车库中进行展示。四大车库颜色各异，风格鲜明，彰显厂牌特色。\n3、主界面新增个人生涯入口：融合原有的【训练】和【剧情】入口，玩家可通过个人生涯入口体验全新剧情、新图揭幕或进行技巧训练。\n4.三人匹配房间改版：运用场景化设计，打破原有的独立小方格，玩家可与队友在同一空间场景内亲密互动，增进友谊。\n5.Loading界面改版：loading界面迎来大革新，更震撼的全屏原画和更合理的头像排布，玩家可在等待开局的过程中尽享飞车世界的美景。\n七、新赛季优化\n1.排位赛优化\n1)使用组装车完成每日排位任务，可以额外获得+1分奖励。\n2)组队竞速加分：组队竞速新增冲线+1分。\n3)组队禁图优化：可以看到组队队友之间的禁图结果。\n4)新增禁图取消：当禁图结束前，可自由更换禁用的地图。\n5)禁图时长缩减：禁图的时间从10秒缩减至8秒\n排位排名优化：优化了排位赛中的排名统计，名次更加精准。\n6)段位排行优化：传奇车神由原来的排行前100名改为固定分数。\n7)结算界面优化：调整优化了结算界面的布局。\n8)历史战绩优化：可以查看最近比赛的上分情况。\n9)战报细节优化：数据细节展示，好友展示优化，展示内容更个性丰富。\n10)排位专属音乐：QS音乐节赛季的排位赛支持电音专属BGM。shi'yi\n11)萌新排位任务：萌新任务中新增排位赛的参与任务。\n12)排位兑换上新：排位兑换上新套装紫愿罗兰。\n二、车队优化\n1.车队推荐优化：优化了车队推荐算法，更容易找到适合自己的活跃车队。\n2.车队MVP优化：优化了车队MVP的结算周期，每周车队赛结束后都会评选本周的MVP，车队MVP头衔持续一周。\n3.车队段位升级优化：优化了车队赛段位的升级规则，只要达到升段所需分数即可升段，不用再额外获得分数。\n4.车队远征优化\n①提示优化：当有可领取的远征奖励时，车队界面和游戏主界面将出现红点提示，防止漏领奖励；\n②任务优化：原有的超能竞速任务替换为排位赛任务，参与1局排位赛结算即可完成。\n5.车队商店优化：车队商店上新，满足活跃条件即可兑换专属奖励。\n八、其他优化\n1.优化了休闲区PK的体验，在非“保护失效”状态下，每次进入休闲区将获得一定时间的保护，无法被他人攻击。\n2.提高好友列表的人数上限，额外增加50人的容量。\n3.优化了对战房间经典模式的匹配机制，缓解匹配等级相差过大的问题。\n4.优化了房间频道中的赛道选择排序，车手将更容易找到最近更新的赛道。\n5.新增角色等级的升级提速buff，低等级玩家每周可自动获得一定场次的经验获取加速效果。\n6.新增新手创建角色的背景大厅和全新的新手套装。\n7.赛道鸭鸭水乐园和狂鲨水世界进入怀旧频道。\n8.备战优化：拓展了备战中的赛车分类页签，可根据赛车的类型和等级，更加方便快捷地选择合适的赛车参赛。\n9.背包扩容优化：商城新增背包容量+50扩容卡，每使用一次可额外增加背包容量上限50，增加的格子总上限为500。\n10.道具箱标识优化：道具赛赛道中的道具箱标识由小金猪替换为冰块，在炎炎夏日中为车手们带来清爽感受。\n11.结婚关系解除优化：结婚关系解除冷冻期的前两天，宝宝会给车手发送一封贴心信件，表达希望父母们能再谨慎考虑、重修旧好的心愿。\n12.排位拉力赛奖励关卡优化：可获得奖励的关卡会变为金色，更具指引性；金色关卡在车手通过后会恢复为普通形态。\n13.修复了部分赛道中飞机和飞马不飞近道的问题。\n14.修复了排位拉力赛-星跃迷城地图中，部分复位点向前复位、复位位置异常的问题。\n15.修复了部分机型比赛单局内音效消失的问题。\n16.修复了长期未登录的车手偶现注册大区不显示的问题。\n17.优化了邮件系统，玩家本地最多显示200封，超出的部分会存在服务器端，需玩家将本地邮件领取并删除后，重新登录才能显示出剩余的邮件。"
+    },
+    {
+      "name":"神武3",
+      "url":"get/?url=0tpb5uo4CfzFTMAnvZyu1unjr0t5verAbxo51KmfvLsfzuvkjtvvPKrSrLsXuuvkntvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=90ZDn1MmXvtzxztn",
+      "num":"游戏",
+      "description":"最新版本:  3.0.47\n更新时间:  2019-08-12 10:25:41 (北京时间)\n\n1.《神武3》手游——快乐社交回合网游！\n2.全新暑期内容“海洋乐园”，丰富玩法陪你清凉一夏！\n3.全新玩法“长安乐园”，20人组队探索自由沙盒世界\n4.全新海洋时装，畅享夏日清凉\n5.全新暑期活动“深海捕鱼”“夏日大作战”等，打造更生动的游戏世界！\n6.全新120级装备，感受星辰之力！\n7.全新国风头像，梦回大唐舞袖添香！\n8.全新时装挂件，情意绵绵锦上添花\n9.全新双人坐骑上线，“鹤舞丹青”献祥瑞\n10.六技能雨师、龙虾通灵珠，升级必得！\n11.全新生存大挑战玩法上线，百里挑一胜者为王！\n12.木偶机关玩法来袭，游戏里也能夹公仔！\n13.各门派法术动画升级，更加酷炫的法术效果\n14.家具资源焕新，庭院新增养鱼玩法\n15.“九州谱大招”来袭，战斗中释放魂技，让对战更加酣畅淋漓！\n16.强袭点穴玩法来袭，潇洒江湖快意恩仇\n17.地图全面升级，更精美的风景享受\n18.庭院玩法全新升级，个性定制更大家园"
+    },
+    {
+      "name":"红警OL",
+      "url":"get/?url=0tuubLDwnduYmgrnbtvu9emnPwt4f1vHz3DYiMmfvLsfzuvkrtvvPuEfvLscPuvkntvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=9Chmu1MmlztAXDtn",
+      "num":"游戏",
+      "description":"最新版本:  1.4.96\n更新时间:  2019-08-05 10:02:22 (北京时间)\n\n一、版本内容更新：\n【全新装备系统】\n全新指挥官装备系统上线，指挥官穿戴装备后可以提升大量战斗力及获取额外的属性加成，穿戴相同类型的装备还可以激活对应的套装效果，各位指挥官可以通过“装备研究所”进行装备打造获取各种品质的装备。\n\n【主战坦克英雄】\n新增SS级主战坦克英雄凯恩，凯恩利用泰伯利亚晶体为主战坦克部队的火炮进行了改造升级，新型的火炮系统能聚集能量并对敌方部队造成毁灭性的打击！\n\n【鬼武者机甲】\n新增主战坦克机甲-鬼武者，鬼武者是全新开发的第4代战斗机甲，手持两把动能光刃，身披反重力装甲，尤为擅长近距离作战，看似庞大的身躯实则极其敏捷迅速，进入战斗状态的“鬼武者”犹如疾风般对敌方部队发动毁灭性打击！\n\n【指挥官战略技能】\n新增指挥官50级战略技能，并且将指挥官战略技能的等级上限由50级调整至60级。\n军事战略技能：对决光环、地面支援、空中打击、战场意识；\n工业战略技能：矿场提升、急速采集II、金币采集II、急速生产II；\n后勤战略技能：高能磁场、伤员中心扩容II、急速修复II、战争动员；\n\n【新增稀有芯片】\n新增1个军事战略稀有芯片及4个后勤战略稀有芯片。\n新增军事战略芯片：弱点打击，狙击兵在攻击时，有一定概率造成两倍伤害。\n\n【全新等级野怪】\n调整野外敌军、幽灵兵营、幽灵叛军、幽灵基地的等级上限，由30级调整至35级。\n\n【超能实验室】\n超能实验室新增一键激活功能，指挥官可以界面中展示最近激活过的4个核心，在一键激活时，将会自动分解所有能量源并自动合成所需要的能量源。\n\n二、版本优化内容\n【泰伯利亚战场优化】\n1.优化泰伯利亚报名时间段，将报名时间段从6个调整为4个，移除18点和19点的报名时间选择，同时将每个时间段的报名联盟上限由500个提升至1000个；\n2.调整泰伯利亚战场的治疗时间，战场内的治疗时间减少75%;\n\n【装备系统优化】\n1.优化装备套装特效，当指挥官穿戴7件相同颜色品质的套装时，第7件装备也会增加特效展示; \n2.优化装备打造时的动画播放特效;\n3.调整装备系统附加属性展示，当装备附加属性为当前品质最高值时，括号内的“当前最高”修改为“完美”;\n4.调整装备背包上限，由原先的500格调整至1000格；\n5.调整装备分解的数量上限，将分解上限由原先的50个调整为无分解上限；\n\n【其它系统优化】\n1.在芯片库界面中新增“批量分解”功能；\n2.调整了进攻方在战斗失败后获取防守方详细战报的计算公式，适当提高了进攻方在战斗失败后获取详细战报的门槛；\n3.调整所有阵地、伏击类型芯片图标；\n4.调整侦察报告中玩家资源数量的显示；\n5.优化游戏内部分界面图标及动画特效；"
+    },
+    {
+      "name":"QQ音乐 - 让生活充满音乐",
+      "url":"get/?url=0tuubLDwndu41eroPxqQ5emfrKtRXMmmD3AuPunjvLsWuvvkPxsvP0rSrLs1uvvkHxrvP0qkvLsYuvvkfZzuPumNrLsXuvvknKsvPemjvLsYuvvkDeBuPemRrLsZuvvkvtrvPKrgvLs0uvvkrxqu9eBRPwuSffvsXwtQffBzv1tSTgvsXwrynMDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=0tqAv3AqDJBWHKn11gwzHgB2XeDT9LsS5MBXj3BenftNfKw1Tgu34gCizvv",
+      "num":"音乐",
+      "description":"最新版本:  9.2.8\n更新时间:  2019-08-09 14:23:56 (北京时间)\n\n「播放页」音乐电台播放页改版，更沉浸于音乐探索"
+    },
+    {
+      "name":"开心消消乐®",
+      "url":"get/?url=qprrfu2z1mqHxsQ1uEnrLt4TMEoTgBYW0DRrLs1KuvkbtvvPenNrLsYKuvkjtvvPenNrLsYKuvkjtvvPKENrLshPuvkftvvP0DNrLsePuvkftvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=9qtC3fvBmvtsHjxnjfMC1qulIvtq5jwn",
+      "num":"游戏",
+      "description":"最新版本:  1.70\n更新时间:  2019-07-29 11:03:24 (北京时间)\n\n最强8月版本更新：全新的换装和组队玩法，充满回忆的迪士尼IP，让你的声音上太空的清空计划，更多好玩活动，更多超值福利，盛夏嘉年华，激爽不停！\n1、【七夕换装】双人组队开启新玩法，6300种装扮搭配任你选择！浪漫七夕，开启栗雄和么么狐的甜蜜约会！\n2、【迪士尼松松】米奇、米妮以及辛巴等松松带来超强闯关特效，童年经典角色助你闯关，关卡难度直降100倍！\n3、【清空计划】参与太空垃圾消除计划，获得丰富道具，还可以将自己声音送上太空，更有机会亲眼见证火箭发射！\n4、【福利好礼】丰富的风车币、高级道具大量免费发放，更有绝版头像框、限量玩偶等你拿！\n5、【全新关卡】一大批玩法新颖、结构独特的关卡上线！这里面有秘密等你来发现哦~\n6、【更多优化】优化不断，体验更佳！一些功能改进和难度调整都是为了更好的游戏体验，快进游戏检查一下程序小哥的成果吧！"
+    },
+    {
+      "name":"火影忍者",
+      "url":"get/?url=qprrfu2z1mqrtuQ5KmRPxtXufvpTgBYWumNrLs3DgvkrtvvPurOrLshPuvkftvvPeEjvLsfPuvkftvvP0qgvLs4DgvkntvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=GrdLKno1Iy1GNmIvJChrtn",
+      "num":"游戏",
+      "description":"最新版本:  1.34.26\n更新时间:  2019-07-21 23:43:34 (北京时间)\n\n决斗场功能优化和体验升级，提升交互和战斗体验；追击晓组织玩法升级，新的BOSS新的挑战；通灵兽进阶，属性加成和技能强化；巅峰对决功能和体验优化；积分赛跨服挑战开启；超影服务新增特权；忍者/通灵/秘卷平衡性调整。\n\n全新内容\n新忍者\n小南[夏日泳装]、秋道丁次[忍界大战]、李洛克[夏日泳装]、手鞠[忍界大战]、麻布伊。\n新界面\n主场景更换为夏日主题；登录和加载界面更换为长门主题。\n新秘卷\n新增秘卷：忍体术•反。\n\n全新玩法\n追击晓组织2.0\n针对追击晓组织玩法进行系列优化和体验升级。\n1. 新增2个晓组织BOSS，同时调整BOSS挑战规则，学员击杀上一个BOSS后，才能挑战下一个BOSS；\n2. 取消最后一击奖励，相应奖励合并到击杀BOSS奖励；同时，击杀BOSS奖励新增通灵兽进阶材料；玩法整体奖励全面升级；\n3. 每周有3次挑战次数，可以花费金币购买额外的挑战次数；\n4. 全新的界面和交互，体验全面升级。\n通灵兽进阶\n新增通灵兽进阶系统，学员可消耗声望和铜币或培养石和铜币提升培养进度，每次培养成功都会获得一定的属性加成；培养进度达到100%后，可消耗通灵卷轴完成进阶，获得大量的属性加成；通灵兽进阶达到5/10/15/20阶时，会分别解锁相应的通灵兽天赋，获得属性加成或通灵技能的强化。\n决斗场3.0\n针对决斗场进行系列功能优化和体验升级，提升决斗场的交互和战斗体验。\n1. 优化现有帧率模式，同时支持高帧率模式，游戏画面更流畅；\n2. 练习场支持更换秘卷和通灵兽；支持战斗场景选择；\n3. 决斗场界面全新升级和效果优化；决斗场音效更换为纲手版本；忍者列表支持按品级查找，方便学员快速选择忍者；阵容列表支持查看忍者/通灵兽/秘卷的详情介绍；\n4. 决斗场等PVP玩法中，忍者奥义伤害不受浮空保护的减伤机制影响，让奥义伤害可以打完整，也便于释放奥义前更加准确地预估伤害；同时，整体的奥义伤害统一略微降低（PVE玩法不受影响）；开场奥义技能增加短暂的冷却时间，无法在开局时立即释放；\n5. 提高了摇杆精度，缩减了触控范围，避免误触碰；\n6. 在决斗场里设置的按键位置，将适用于所有的战斗场景；\n7. 新增“与其再战”功能，在符合条件的情况下，可以向上一场战斗的对手再次发起挑战；\n8. 系统设置中新增表情管理功能。\n\n功能优化\n巅峰对决优化\n1. 赛事竞猜调整为四强竞猜：在生成对战分组后到八强诞生前可参与竞猜，根据竞猜结果发放奖励；\n2. 增加观战中的助威功能；\n3. 可以在精彩回放中观看上一届全部对战录像；\n4. 优化界面展示和交互体验。\n积分赛优化\n1. 积分赛跨服挑战开启\n每相邻的4个服务器为一组，组内全部服务器开启天数达到180天，则开启积分赛跨服挑战；积分计算规则不变，学员仍在本服范围内进行排名结算发放奖励；新增跨服名人堂，展示组内服务器积分排名前20的学员。\n2. 积分赛商店优化\n取消原有的金币重置功能，道具购买优化为每周限定次数；秘术之尘替换为积分赛专属随机宝箱，宝箱的购买价格随着每周购买次数递增，购买后有几率获得金币、绑定符石、精炼石等道具。\n头像框系统优化\n1. 头像框新增属性加成：获得头像框后将获得属性加成，头像框属性可叠加；限时头像框过期后将无法使用，对应的属性加成也会失效；\n2. 新增查看大头像功能：在角色信息界面，点击角色头像即可查看头像大图；\n3. 优化头像框系统的交互和展示。\n超影服务新增特权\n1. 任务集会所最多可以同时接取9个任务；\n2. 在体力足够的情况下，装备进阶可以一键自动补齐所需材料。\n奥义击杀图和替身碎片合成\n部分奥义击杀图和替身支持通过碎片合成获得；如果已拥有奥义击杀图或替身，获得相应的碎片会自动转换为铜币；碎片获取请关注后续活动。\n其他优化\n1. 主界面左上角头像恢复显示为忍者头像；\n2. 使用金币和点券，会触发二级密码保护；\n3. 领取邮件附件时，如果体力将超出上限，会弹出二次确认提示；\n4. 优化截图分享的交互体验，避免遮挡游戏界面；\n5. 忍具系统界面展示和交互优化；\n6. 新增改名卡道具，学员可以使用改名卡来修改角色昵称；\n7. 点击忍者碎片图标将显示当前拥有的碎片数量；\n8. 全面屏的摇杆位置以决斗场为基准，在PVE和PVP场景里保持一致。\n\n忍者平衡性调整\n夕日红[和服]：\n幻术•霞：减少了反击的判定范围；略微减少了分身的持续时间。\n猿飞日斩[火影继承人]：\n增加忍术形态下普通攻击的连击性，最后一段火遁忍术攻击增加扫地功能。\n艾[四代目雷影]：\n雷遁•绝牛雷犁热刀：在雷遁爆炸开始时，将敌人扔出；整体缩短奥义时长，开始阶段会暂停关卡倒计时以及技能冷却时间；奥义技能后摇阶段可以被雷我爆弹技能取消。\n长门[秽土转生]：\n地爆天星•毁灭射击：略微增加吸附的时间；在石块聚集的过程中增加地面攻击判定。\n萨姆依[夏日泳装]：\n普通攻击：略微增加持伞攻击的伤害；\n花蝶之舞：略微增加伤害，调整打击节奏，技能冷却时间由12秒减少为10秒；\n飞燕之舞：调整技能伤害配比，略微增加持伞攻击的伤害。\n宇智波佐助[万花筒写轮眼]：\n1. 千鸟锐枪冷却时间增加2秒；\n2. 略微减少千鸟刃和组合技的无敌时间；\n3. 使用技能后按住普攻键释放的豪火球之术调整为技能判定，无法被对方的普攻打断；如果释放的技能未命中对方，但豪火球之术命中了对方，也会增加奥义点。\n猿飞日斩[火影继承人]：\n1. 释放奥义时增加霸体判定；\n2. 增加体术状态下普攻连击的稳定性；\n3. 猿魔•落仙石增加扫地功能。\n迪达拉：\n1. 起爆粘土•枭：长按技能键，粘土枭自行向前飞行，忍者自身在原地落下；\n2. 绒毯轰炸：略微增加在地面释放时的技能伤害。\n我爱罗[疾风传]：\n1. 普攻最后一击会将敌人拉近，并且减少后摇时间；\n2. 流砂瀑流：最后一击会将敌人拉近，并且减少技能的后摇时间；\n3. 砂缚牢：略微减少技能的冷却时间；爆炸时增加浮空高度；减少技能的后摇时间。\n春野樱[百豪]：\n1. 略微增加奥义攻击范围；\n2. 奥义开始释放时，技能冷却和关卡时间会有短时间的暂停；\n3. 奥义最后爆炸时会将敌人移回场内。\n鬼灯幻月[二代目水影]：\n水铁炮•扫射在地面释放的技能冷却时间机制从释放开始进入冷却（冷却12秒）调整为释放结束进入冷却（冷却10秒）；空中释放的技能冷却时间依然为8秒。\n\n通灵兽平衡性调整\n猿魔：缩小猿魔下落砸地的范围；\n乌鸦：增加了Y轴的攻击范围。\n\n秘卷平衡性调整\n风遁•气旋：略微缩短气旋的持续时间；优化吸附效果，吸附范围保持不变；\n解术•复：降低技能冷却时间的效果提升10%，该调整适用于所有等级；\n土遁•地动：秘卷的冷却时间从15秒调整为12秒；\n冰遁•燕吹雪：秘卷的冷却时间从15秒调整为12秒；\n火遁•豪炎矢：前方将出现三次火冲攻击，略微降低秘卷伤害。"
+    },
+    {
+      "name":"一刀传世-大哥传奇·爆率叠加",
+      "url":"get/?url=0tuubLDwndu5vKEnfttu1KmnrKt4f1vHzxquffBfv0tSvfvsXwquffBzv0tSvfvsX2ye9eBvv0tSngvsXwwe9eBNr0tSngvsXgm55envnLtcz1uozKvd1KqwLxudz1qozKvt5KqwLxt1u1uozKv55KqwnKtcz1uozKvtXKmRrLs0KuvkbtvvP0DfvLsePuvkbtvvP0DNrLs0CgvkftvvP0DNrLs0KuvkbtvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=WzXLvnN1sw1GKn0uZrPrtnZSeoOX2vp9gotvgCuDvlWT2vLX0vPXunNLht1euAzvtqPXun",
+      "num":"游戏",
+      "description":"最新版本:  2.3.0\n更新时间:  2019-05-13 00:37:10 (北京时间)\n\n1、【全新仙府地图】新增行会强盗、蓬莱仙岛等仙府遗迹，部分地图优化\n2、【轮回匹配模式】全新跨服匹配模式，打破传统单局比拼，增强跨服匹配策略性"
+    },
+    {
+      "name":"天龙八部手游",
+      "url":"get/?url=amWONyXKJAnvtw65umjPwt6vevnTgBYWenjvLs0KuvkjtvvP0qOrLs1CgvkjtvvPenfvLs6DgvkvtvvP0qgvLsXCgvkftvvPunRrLsgPuvkvtvvPunfvLsWuuvkftvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=0KMC1WuBVvZBpLLnYDvw1OLnIzdCtfwn",
+      "num":"游戏",
+      "description":"最新版本:  1.56.2\n更新时间:  2019-07-23 23:55:09 (北京时间)\n\n全新资料片“神秘海域”更新内容一览：\n\n1、精彩新玩法：\n1）震撼新门派——全新场景“海底世界”震撼上线\n2）激情新副本——全新十人副本上线，超高掉落\n3）甜蜜新恋情——恋爱季活动将在8月1日上线开启\n\n2、游戏稳定性优化：\n优化部分机型闪退、发热、耗电过快等问题，提高游戏运行的稳定性。"
+    },
+    {
+      "name":"守望黎明",
+      "url":"get/?url=amWONyXKdvnHxqe1unjPwtW0evnTgBYWKrOrLs0SgvkjtvvPKrOrLsdPuvkvtvvP0qSrLseXgvkjtvvPenNrLsgzuvkftvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=WtPbxnpvNy2iwEWvts2ewn",
+      "num":"游戏",
+      "description":"最新版本:  1.250.133\n更新时间:  2019-07-20 12:20:20 (北京时间)\n\n联盟\n1. 优化，「联盟信件」使用资格现仅限于R4与R5成员。\n\n修复\n1. 开拓者配件加成之属性，现已可正常于战报中显示。\n2. 以碎片合成英雄，现已可正常计入每日任务得分。"
+    },
+    {
+      "name":"乱世王者",
+      "url":"get/?url=amWONyXKdrobtse50DfPwt6LevnTgBYWumNrLs3DgvkrtvvP0qOrLsgHgvkntvvPKmRrLs0KuvkbtvvPeEjvLs1KuvkbtvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=GrdLKnmzdn1CvAmvdETXun",
+      "num":"游戏",
+      "description":"最新版本:  1.6.66\n更新时间:  2019-08-07 16:13:09 (北京时间)\n\n【鸿蒙巨鲲】\n1.普通兵种可以在全新的城内建筑“鸿蒙殿”元化为鸿蒙兵种，元化后比原兵种基础属性增强，并且可以通过新的城内建筑“盘古圣殿”研究鸿蒙科技来增强鸿蒙兵的实力。\n2. 新增建筑“聚武堂”，可存放彻底死亡的鸿蒙兵并可使用资源和灵气进行复活。灵气会随时间恢复，也可通过使用道具增加灵气。\n3. 新增玩法远古缝隙和上古秘卷-鸿蒙秘宝来获取鸿蒙相关材料。\n\n【悬赏·奇遇】\n特殊的悬赏任务，无需发布，满足条件随机触发，奖励丰厚。\n\n【二周年庆珍宝台武将-芈月】\n全新珍宝台武将-芈月，即将上线。作为骑射手武将，芈月即将为战场带来不可忽视的变化，主公们需要潜心研究新的策略搭配，为自己在战争中开辟新的路径！\n\n【二周年庆典开启】\n精彩纷呈的各类庆典活动正式开启，许庆典心愿，做周年锦鲤，消灭异兽，建盛世盟约，更有丰厚奖励等您领取。\n\n【版本优化】\n1. 部分界面iPad适配优化；\n2. 名城奖励提升；\n3. 侦查战报优化；\n4. 增加君主等级上限；\n5. 优化辅助特权的体验；\n6. 新增神兽注灵(全橙)的攻击特效；"
+    },
+    {
+      "name":"穿越火线:枪战王者",
+      "url":"get/?url=0tpb5uo4CfzFferprtve5umjrKt3verAbxot5envnut0u1qpzKvPffnvnLu0uvEozKvd9unvn0t0uvAozKvtfLqwnLu1uvAozKvtX0rkvLscPuvkntvvP0qgvLs4DgvkntvvPKqOrLsYKuvkrtvvP0rkvLs1uuvkntvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=90tuOfuATK2tL9uBjfwDXvwy190xXDtnYDen1SuymzZxTztn",
+      "num":"游戏",
+      "description":"最新版本:  1.0.80\n更新时间:  2019-07-05 05:03:00 (北京时间)\n\n1.新增模式：终极生化\n2.新增地图：决战赤壁、新生化酒店\n3.新增武器：M4A1-武圣、加特林-炼狱、王者之戮、AK47-Rush-星速、M4A1-Rush-夜袭、源·浴火麒麟-初心、M14EBR-炎龙、巴雷特-炎龙、沙鹰-炎龙、尼泊尔-炎龙、AK103-甜心、CBJ-MS、改装GLOCK-土星\n4.新增角色：幽灵刀锋、幽灵刀锋-觉醒、大老师\n5.“经典排位”改名成“自由排位”\n6.排位赛新赛季：2019-S4土星季，试炼地图轮换为供电所、卫星基地\n7.新增王者轮回系统\n8.新增收藏家系统\n9.生化优化：新增高阶跳跃、新增小局结算、新增阵营语音和战术语音、优化计分规则、优化跳跃拉扯、减少打僵尸无伤害的情况\n10.竞技优化：新增玩家头顶编号显示、新增死亡回放功能、新增开火轨迹线、优化顶部头像、优化擦弹音效与被击音效、优化死亡面板、近战辅助瞄准可设置为开火后吸附\n11.战队发展计划S4赛季，补给奖励更新"
+    },
+    {
+      "name":"抖音短视频",
+      "url":"get/?url=amWONyXKdvovZze1eEfPwtWuevnTgBYWeERrLs5vuvkvtvvPKmNrLsZuuvkrtvvPurgvLshXgvkntvvPKEjvLshXgvkvtvvPKmRrLscHgvkjtvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=i1sHzZrLTKn01sn1OxlAzZvX9wn",
+      "num":"摄影与录像",
+      "description":"最新版本:  7.6.0\n更新时间:  2019-08-13 11:51:53 (北京时间)\n\n性能改善让你的体验更流畅！"
+    },
+    {
+      "name":"QQ",
+      "url":"get/?url=0tpb5uo4CfzFLLAojtu61unrrKtWe1vHzxrynMDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qpfzvv",
+      "num":"社交",
+      "description":"最新版本:  8.1.0\n更新时间:  2019-07-26 10:48:38 (北京时间)\n\n- 简洁模式，化繁为简，尽享极致舒适畅聊；\n- 空间日志开启手帐之旅，精美模板随心选，记录生活点滴；\n- 支持发长图说说，多图浏览，展示更多精彩内容；\n- 储存空间清理能力全新升级，与好友轻松畅聊；\n- 聊天记录页面改版，分类查找更高效；\n- 多人视频通话支持等比或放大模式，随心控场，畅聊更自在；\n- 支持好友列表字母排序，快速查找更高效。"
+    },
+    {
+      "name":"明日方舟",
+      "url":"get/?url=amWONyXKdvpP3A61KmzrKtXefvnTgBYW0rSrLs0CgvkrtvvPunjvLsYSgvkjtvvPumfvLsZSgvkjtvvPKrOrLs0SgvkjtvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=GzPLKn1egC1WwzWvZtPbxn",
+      "num":"游戏",
+      "description":"最新版本:  0.7.31\n更新时间:  2019-07-09 10:02:38 (北京时间)\n\n-主线第五章正式开放\n-部分干员语音实装\n-道具:理智合剂实装\n-修复及优化了部分干员的技能\n-修复基建内部分功能描述及显示错误\n-修复了游戏内部分已知bug\n-优化了游戏内部分系统功能\n-优化了游戏内部分UI及贴图显示\n-进一步优化了游戏客户端稳定性\n-本次更新详细修复内容请参考官网相关公告"
+    },
+    {
+      "name":"权力的游戏 凛冬将至",
+      "url":"get/?url=0tpb5uo4CfzF1eroDxqQ1KmnPNt6verAbxo510qwLNt0u1qpzKvP5envnutdz1uozKv5fLqwLMt0u1uozKvPfvnvLNt0u1uozKvtX0rOrLs0CgvkjtvvPenjvLs0KuvkjtvvPemNrLscXgvkntvvP0qSrLscHgvkftvvPKENrLsfXgvkjtvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qp9C3CiLwDOD3vpj3rx1sBiD1tjbvAVvdnPjxnffxn1iwCzvdrYaxn",
+      "num":"游戏",
+      "description":"最新版本:  1.3.10\n更新时间:  2019-07-10 21:09:24 (北京时间)\n\n1、优化主城视觉效果\n2、优化指挥官系统、聊天系统易用性\n3、新增天气效果和昼夜效果\n4、新增流亡者来袭活动玩法\n5、新增叛军营地玩法\n6、新增科技和建筑的队列\n7、新增SLG战斗引导\n8、新增联盟缩略图功能\n9、修复特效贴图丢失等已知问题"
+    },
+    {
+      "name":"网易云音乐-音乐的力量",
+      "url":"get/?url=amWONyXKJAnjtte9KEnrut1ufrAbxoPjfnvLNt0u1upzKvPfvnvnvu0u1uozKvd5envnvu1uvEozKvd1unvn1tdz1qozKv510qwLMu1u1upzKvtX0DRrLs1KuvkbtvvPKEjvLshXgvkvtvvPeERrLscPuvkbtvvPKERrLs0SgvkjtvvPeERrLsfPuvkntvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=0tp3PgsT1sBlD1tOfwzpTwnt1YCM1wzmfvBmvJETOLnsfht1qvAWvJuYCtn",
+      "num":"音乐",
+      "description":"最新版本:  6.3.1\n更新时间:  2019-08-07 10:48:27 (北京时间)\n\n1.私信支持一键已读功能。\n2.mlog支持标记不感兴趣，让我们更懂你。\n3.歌曲下的mlog支持按时间排序，一键查看最新鲜的mlog。\n\n使用中遇到任何问题，请通过\"帐号\"-\"关于\"-\"帮助与反馈\"告诉我们，我们会尽快与你联系！"
+    },
+    {
+      "name":"QQ炫舞",
+      "url":"get/?url=0tuubLDwnduWKeroPxtQ1unfPwt4f1vHzxvv9eBNr0tSDgvsXwsvffBjr0tSngvsXwrynMDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=9qJsP9MDXDMBizvv",
+      "num":"游戏",
+      "description":"最新版本:  2.6.2\n更新时间:  2019-07-11 01:09:25 (北京时间)\n\n【全新社区登场】\n炫舞世界全新开辟了三块美景区域作为社区范围，暑期大版本带你遨游古风庭院、和风小镇、童话森林！\n「唯美交互场景」昼夜系统全社区覆盖！孔明灯、棋盘石凳、樱树温泉、古风秋千应有仅有，快换上你的唯美服饰，在新社区中一览各式美景吧！\n「逗趣互动设施」每日签运、互动投掷、全新采集钓鱼，更多乐趣等你发掘！\n「全新活动体系」 每日料理王组队挑战、周末净化作战……众多新活动来袭，奖励丰厚乐趣无穷！\n\n【夏日冰爽节活动】\n吃货66被热坏了，需要舞者们投喂冰激淋续命！夏日冰爽节活动期间，完成指定条件，即可获得各式冰激凌，投喂66即可获赠丰厚谢礼！满足66的需求，可以获得「专属套装」奖励，更有机会获得「多款限定飞行翅膀」！\n\n【拍照功能开启】\n拍照功能全新开启！即日起舞者们可以在3D房间、休闲社区使用拍照系统，丰富的拍摄功能只为奉上完美留念！\n「全能拍摄」镜头全自由度调整、动作/特效定格功能、场景内容过滤、九宫格定位线、UI隐藏\n「个性选项」景深效果开关、多种风格滤镜、多种相框/边框装饰\n\n【背包衣柜功能】\n背包提供衣柜空间，即日起舞者们可以便捷整理背包，将不常用的饰品衣服暂存在衣柜之中。\n\n【贴心优化】\n加入画质性能设置选项，更精美还是更流畅随你选择。"
+    },
+    {
+      "name":"阴阳师",
+      "url":"get/?url=qprrfu2z1mqDxwu90DJPMtXSgrpTgBYWenNrLs0KuvkftvvPKEjvLs0SgvkvtvvPemjvLs0SgvkvtvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=jLMy1OxAAzdmPPLn",
+      "num":"游戏",
+      "description":"最新版本:  1.0.67\n更新时间:  2019-08-02 10:56:56 (北京时间)\n\n新式神：海国鬼王，啸浪之敌！全新SSR阶式神大岳丸降临平安京！ \n狂涛怒涌，英姿再临。全新SP阶式神骁浪荒川之主迎战海国！ \n新皮肤：魂牵梦萦，稚子之忆·神乐、青莲蜕梦·玉藻前新装面世，八岐大蛇、鬼切、小鹿男、山风、骨女、吸血姬新装上线！ \n新BOSS：逢魔之时首领Boss鬼灵歌伎震撼登场！ \n新体验：高帧率模式上线，斗技玩法与神秘商店迎来全新改版！ \n新福利：集结召唤，福利多多，平台新区「晴空日和」等待大人们共同开启！"
+    },
+    {
+      "name":"欢乐斗地主",
+      "url":"get/?url=qprrfu2z1mqbttQ1emjPxtYefroTgBYW0qkvLs0KuvkbtvvP0DjvLseXgvkftvvP0mRrLsYSgvkjtvvP0DRrLs1KuvkbtvvPuEfvLsezuvkjtvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=CtAmvZD5PvnyfgC1evBmvtA5fxn",
+      "num":"游戏",
+      "description":"最新版本:  6.162.001\n更新时间:  2019-08-02 09:23:26 (北京时间)\n\n【组队2V2玩法】上线，可以和好友一起组队斗地主啦~\n-2副牌，4人玩，两两组队对抗，一人出完，队伍获胜。\n-4张以上相同的牌都是炸弹，还有双王炸、三王炸、四王炸，炸到手软！\n现在就邀请好友一起开黑，虐翻全场吧~"
+    },
+    {
+      "name":"问道",
+      "url":"get/?url=amWONyXKdvprtv65unNrvt6fevnTgBYWKERrLs4DgvkvtvvPKrgvLsZSgvkvtvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=q1rzztDLPLn",
+      "num":"游戏",
+      "description":"最新版本:  2.042.0806\n更新时间:  2019-08-09 14:36:48 (北京时间)\n\n1、新增娃娃养育系统，萌娃伴你闯中洲；\n2、开放的等级上限至129级；\n3、新增全服排行榜，可查看全服排行信息；\n4、新增暑假活动系列；\n5、新版跨服战场上线；\n6、其他体验优化与BUG修复。"
+    },
+    {
+      "name":"斗罗大陆-官方正版魔幻修仙手游",
+      "url":"get/?url=0tpb5uo4CfzFDgrnLxw65unvrKtWuerAbxod90qwn0tdzvAozKvPffnvn1t0uvAozKvt9unvLwudz1qozKvtjLqwLMudz1qozKvPf1qwn1tdz1uozKvd5unvnKucz1upzKvd9envn1t0uvEozKv51KqwnKuczvAozKvt90qwLMt1uvAozKvd9unvnLucz1uozKvtXKmNrLs1SgvkvtvvP0mfvLsWuuvkftvvP0mRrLsfPuvkntvvP0mRrLsYSgvkjtvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=90tq1rtyTKMsHvwB3mvDY91uTuxnx9eB012tPPuzT8gDHvwDxf2tTv3vLX0rTPLnUnvy1GLm3udwHbxn",
+      "num":"游戏",
+      "description":"最新版本:  20\n更新时间:  2019-06-29 02:10:18 (北京时间)\n\n1.解决部分机型闪退问题。"
+    },
+    {
+      "name":"崩坏3",
+      "url":"get/?url=0tpb5uo4CfzFngrpvtse1emnrKt4verAbxo510rOrLsfXgvkftvvPunfvLsWKuvkftvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=90ZDnbLmAvdCtjwn",
+      "num":"游戏",
+      "description":"最新版本:  3.3.0\n更新时间:  2019-07-18 07:32:09 (北京时间)\n\n【新角色】理之律者登场、游侠增幅核心开启！\n【新活动】荒岛冒险开启，夏日服装免费解锁！\n【新剧情】孤独之月：主线十一章间章更新！\n【新装备】真理之钥、瓦尔特·杨开放获取\n\n【理之律者】\n追逐着你的身影，从迷失的世界起航，直到深海的尽头……\n布洛妮娅S级灵魂觉醒角色——「理之律者」登场！\n小兔化身重力摩托，解锁全新战斗模式，以自由意志，开辟未来之路！\n“重装小兔……Ride On！”\n\n【增幅核心·天穹游侠】\n于废墟中重生——女武神·游侠增幅核心开启！\n空之律者的能量在她的体内沉睡，而这一路上收获的友情与温暖，铸就了她更加强大的意志！\n“我会努力去改变，这个不完美的世界！”\n\n【奇异漂流】\n夏日，是冒险的季节。奇异漂流大冒险正式启动！\n岛屿深处的文明遗迹、神秘的线索留言……这一切究竟是冒险途中的巧合还是另有隐情？\n旅程尽头更有神秘宝藏——空之律者、希儿、丽塔夏日新装，静候开启！\n\n【孤独之月】\n从律者形态中苏醒的琪亚娜，发现眼前的一切再也不复往昔的模样……\n为了克制体内的律者能量，怀抱着悔恨、愧疚与期望，琪亚娜再度踏上了冒险的征途。\n即便月色如此孤独，仍有群星追随，终有一日，她会获得自由……\n\n【装备更新】\n以精准、严谨的攻击，击溃一切混乱与无序，「真理之钥」开启正义之门。\n第一律者「瓦尔特·杨」于海之深处缓缓走来，助力舰长一同对抗崩坏！"
+    },
+    {
+      "name":"三国群英传:霸王之业",
+      "url":"get/?url=0tpb5uo4CfzFnMAnrtqu1emNrut5verAbxotfvnvn0tdz1qozKvPffnvn1tdz1qozKvPffnvnLu0uvEozKvd90qwLxu1u1upzKvtX0DfvLsePuvkbtvvPeEjvLsdHgvkrtvvPemfvLsgPuvkntvvPurkvLsdXgvkftvvPunNrLs0KuvkbtvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qp9CwB0mvlPvZuTK2tL9uDJ1wDpDwEmvdE1LKnRzZn1KtDAvJsPXun",
+      "num":"游戏",
+      "description":"最新版本:  1.0.9\n更新时间:  2019-08-07 09:31:45 (北京时间)\n\n【跨服远征】\n全新跨服玩法上线！活动持续时间为2周，可分为三个阶段：匹配、战备、战斗。参战的两个服务器攻守身份各持续一周，备战期攻击方需选择及建设驻扎地，在战斗期进入敌方服务器进攻敌方建筑及城市获得积分，活动不产生真实伤兵。真正进入敌方服务器，感受服务器间的巅峰较量！\n\n【神州远游】\n全新个人转服系统上线，在目标服皇帝审批通过的情况下，主公们使用四方福辏令即可在七日内随时转去心怡区服。为了平衡各服务器实力，每个服务器会拥有一个英雄值限制，若主公目标服务器英雄值已超上限，则无法转入哦！\n\n【界桥之战】\n白漫磐水俱兵气，临垒界桥是剑光，全新联盟跨服活动上线。活动期间,玩家将在界桥展开一次激烈的战斗，两个联盟分别代表袁绍和公孙瓒，凭借谋略部署以及巧妙分配联盟兵力夺取星数，星数高的一方将获得元宝、资源、天赋秘册等奖励！\n\n【夺玺干戈】\n据传，传国玉玺亦遗失于岘山之中，得之可得天下。主公在雨林中搜索地图可获得玉玺线索、资源、武器、甚至宝藏。但雨林中的毒雾不断扩散，探险部队必须不断前行至安全地带，否则会元气大伤。最终，寻找到最多玉玺线索或存活到最后的主公，即可获得丰厚的奖励！\n\n【精彩新功能】\n1.皇朝系统：普天之下，莫非王土！权倾天下，唯我独尊！全新皇朝系统霸气上线。区服帝皇可以拥有比普通玩家更多的权力，可以颁布皇朝诏令禁令，还有封官加爵、全区通缉、批阅奏折等等新玩法让主公实现帝王梦！\n2.外城地图缩放：担心无法纵览战局？新增外城地图缩放功能，外城地区与世界地图可任意缩放切换，主公可以根据使用场景调整外城地图的显示。\n3.荆州大厅：随时随地感受荆州争夺战的酣畅淋漓！每支队伍有5位主公，3支匹配到的队伍将各自代表一个阵营，进入荆州战场，通过持续占领战场建筑来获取物资。经过30分钟的激烈争夺，物资最高的阵营将赢得最终胜利！"
+    },
+    {
+      "name":"新剑侠情缘",
+      "url":"get/?url=amWONyXKJAnrtuQ1emNPMt0eevnTgBYWenRrLsePuvkntvvPumNrLs6DgvkjtvvP0DfvLsgPuvkbtvvPeERrLs1CgvkftvvP0DjvLsYSgvkjtvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=KvE3uJrp9wnNzdt1ivBzvZDHbxn",
+      "num":"游戏",
+      "description":"最新版本:  2.16.1\n更新时间:  2019-08-01 17:01:48 (北京时间)\n\n国民情缘手游《新剑侠情缘》2019 夏季资料片「墨问江湖」今日开启，全新门派万花风雅而至。笔染风月，墨论乾坤！\n【全新内容】\n全新门派，万花现世 —— 凌空绘形唤虎同战，写意风流；\n丐帮少女，掌出玲珑 —— 全新丐帮体型，萌动江湖；\n八军对决，决胜长白 —— 公平多阵营玩法，越战越燃；\n强袭龙门，勇夺至宝 —— 家族夺标战场，精英对决；\n执手共舞，风华绝代 —— 首套双人互动外装，浪漫可人；\n池中嬉戏，鹦鹉传情 —— 焕新自定义互动家具，温柔时光；\n震泽渡口，茶马商道 —— 全新地图热血升级，戮斗不停；"
+    },
+    {
+      "name":"芒果TV",
+      "url":"get/?url=0tpb5uo4CfzFnMEobtu650mRPwtYe1vHzxwirgrSrLsgXgvkjtvvPuERrLscHgvkrtvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=9KLrwnMnWvZuXLKn",
+      "num":"娱乐",
+      "description":"最新版本:  6.3.9\n更新时间:  2019-08-13 09:11:33 (北京时间)\n\n饭团频道全新改版，给你不一样的互动体验~~\n-新增最佳饭贴，精华饭贴，由你来挺！\n-新增明星直播间，火速来预约！你的明星即将空降~\n-优化部分使用体验"
+    },
+    {
+      "name":"一梦江湖-楚留香现已全面升级",
+      "url":"get/?url=0tpb5uo4CfzF1KAnbtvu90mRr0t3verAbxo55KqwnvudzvEozKv55envnKu0u1uozKvP1KqwnKu1u1upzKvd9KqwnLt0u1uozKvP10qwLNtdz1uozKvd10qwnLu0uvEozKvt9unvLMtcz1upzKvt9unvnLt1uvEozKvtfvnvnLtczvAozKvtXKmRrLs1KuvkjtvvP0rSrLs4LuvkjtvvPKmfvLs5vuvkjtvvP0DNrLs0KuvkbtvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=0tp3bNnL1cAoDvDVrwBpfNrxv3CZC1tZ9uzL1wBTvwBwvwDTXwyLX0vTjxnMDKC102sXvtqPXun",
+      "num":"游戏",
+      "description":"最新版本:  1.1.6\n更新时间:  2019-07-26 06:32:11 (北京时间)\n\n美术重制启动，场景、人物、外观等多个内容全面革新。\n驾驭纸偶，掌控厌胜之术，新门派太阴正式降临。\n全新情缘系统开启，解锁恋爱模式，邂逅“有缘人”。\n海量免费福利放出，绝版挂件、时装、基金重置…切莫错过！\n全新主线剧情登场，群侠并肩，迎接江湖新命运。"
+    },
+    {
+      "name":"一起来捉妖",
+      "url":"get/?url=amWONyXKJAortqQ1enRPwtYKevnTgBYWKmRrLsYuuvkftvvPunNrLsfHgvkjtvvPumfvLsfXgvkjtvvP0mjvLsXKuvkrtvvP0DNrLs0KuvkbtvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=CvyHvJsY8wnSjdC1mZvmztqPXun",
+      "num":"游戏",
+      "description":"最新版本:  1.8.238.1\n更新时间:  2019-07-25 23:52:58 (北京时间)\n\n【神灵召唤新玩法】\n 终结孤军奋战，告别无聊等待。神灵召唤玩法上线，御灵师可以提前在心仪地点预约挑战，预约人数到达5人后神灵必定降临！御灵团战趣味升级，等待房间新增弹幕聊天，和你的队友一起high翻全场！\n【擂台玩法焕新】\n擂台荣光再现，所有挑战的御灵师均有机会获得擂台奖章，兑换珍稀游戏道具！好友助威团即刻出发，协助守擂，情义共享。\n【神秘妖灵画灵现身】\n神秘妖灵画灵变身成其它妖灵的样子藏匿在捉妖世界里，有缘的御灵师方可穿越画境，见到画灵的真身。追寻倩影，一探芳踪，快来寻找美丽神秘的画灵吧！\n【御灵团战新神灵降世】\n赤炎旱空，晴光万里，御灵团战首位五星女神灵——旱魃即将降临！御灵师们，准备好迎接新挑战了吗？"
+    },
+    {
+      "name":"喜马拉雅FM「听书社区」电台有声小说相声评书",
+      "url":"get/?url=adm6jwm5q0t6DMAoPxtQ50mNrKwWLtAojKvt90qwnKtgz1qortvPjLqwn0tgz1qnnKv51KqwnLtgz1qpnKvPfvnvLNtgz1qonKvPjLqwn0tgzvAsrtvd10qwnLtgz1qnnKv51KqwnLtgz1uprtv5fvnvLMtgz1qnnKvPjfnvnLtgz1uonKvd5unvLNtgz1umjKsvPerOrLsXuvvkzKsvPemfvLsZuvvkjtrvPunjvLsWuvvkrKrvP0DRrLsXuvvkrhmTPvmNrLsdXgvkvtvvPunNrLsdHgvkjtvvPergvLs1uuvkvtvvPerSrLsYSgvkftvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=9Kvy1Tgv0i3BeDZBSP2nT5gv3i3BFL0CSr0nVXMBj5wBeDJASHftS52mjDMAYXKASDdtW5MyHv3A6T0ASPxsNP2mRjLr1PLnkv3B1mxBHzZyHPvn",
+      "num":"图书",
+      "description":"最新版本:  6.6.3\n更新时间:  2019-08-07 10:24:39 (北京时间)\n\n【UI升级】首页清爽的卡片式风格，更直观的视觉冲击\n【听更新】重磅上线，在「我听-听更新」里可以查看订阅专辑每天更新的声音，收听更便捷~\n【评论】节目评论支持图片回复啦， 快来用图片表达你的态度吧~\n【直播】语音房全新上线，K歌游戏欢乐互动\n【直播】皇帝贵族重磅登场，即刻升级，睥睨天下\n【直播】夺宝商城狠货上新，超稀有座驾礼物限量领取，欧皇手气就是你\n【未成年模式】不展示看小说相关内容\n\n使用中如果有任何问题或建议，请前往【账号】-【帮助与反馈】中告诉我们噢~"
+    },
+    {
+      "name":"酷狗音乐-就是歌多",
+      "url":"get/?url=amWONyXKJAoHxqe90DjPwtZefrAbxotfvnvnKtcz1uozKv5ffnvnKuczvAozKvPjLqwn0t1uvAozKvt10qwnutdz1uozKvtX0DRrLs1KuvkbtvvPKEjvLshXgvkvtvvP0mRrLsdHgvkntvvP0mjvLsXCgvkvtvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=90ZzTT2vpPgDH1ICzfwzZD3vLXuuTXun61Iw2GvD0uZmxLLn",
+      "num":"音乐",
+      "description":"最新版本:  9.3.0\n更新时间:  2019-08-07 15:33:10 (北京时间)\n\n酷狗音乐，就是歌多！\n\n【听】\n1、分享歌曲支持制作音乐影集\n2、个人空间上线酷狗超人体系\n3、歌单页增加多期歌单\n4、音乐圈增加歌手动态专区\n5、歌曲评论区增加歌手问答\n6、播放页更多菜单中添加定时关闭\n7、音乐工具-酷狗Play可连接历史设备\n8、家长控制模式升级为青少年模式\n\n【看】\n解决了一些已知问题\n\n【唱】\n1、给作品送礼可增加其在单曲排行榜热度\n2、K房可直接付费置顶麦序\n3、作品播放页可查看合唱列表\n4、K房和K歌直播送礼更酷炫\n\n【如果您在使用过程中遇到问题，请您添加官方QQ号：2943662891，或在App Store评论下留下QQ号，方便我们与您取得联系】"
+    },
+    {
+      "name":"QQ华夏",
+      "url":"get/?url=0tuubLDwndu5vfrpbtwu1KmrPwt4f1vHzxwf9eBrrvuSvfvsXwvf9eBrv0tSvfvsXwrynMDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=9GtsWX2nzPgBizvv",
+      "num":"游戏",
+      "description":"最新版本:  2.3.1 (128)\n更新时间:  2019-08-08 03:06:14 (北京时间)\n\n装备系统相关优化：\n1)开放角色10档装备；\n2)装备打造增加预览功能，可以查看该档次装备的打造属性范围。\n坐骑优化：坐骑骑乘术开放进阶等级。"
+    },
+    {
+      "name":"熹妃Q传—新派3D古风交友手游",
+      "url":"get/?url=90tqoLdoxr2xrrLtZKKAobtw65uEfrKwWLZqpnKvd90qwLMtgzvArrtvt9envLMtgzvArrtvPjfnvnLtgz1qojKvtf1qwnKtgz1usrtv51Kqwn1tgz1qojKvPjfnvnLtgz1qAPxvRffBrPwuSLfvsXwqQffBzr1tSLfvsXgmd1KqwLxudz1qozKvtnMENrLsYuuvkftvvPunjvLsYCgvkntvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=anPjxnm12B1WulzvZAXXunp9uy2SwlzvtroPMDWe2tZDvypXwql90B4mvzvruyHvtnHrtn",
+      "num":"游戏",
+      "description":"最新版本:  1.8.2\n更新时间:  2019-08-09 13:50:16 (北京时间)\n\n1．新增主线剧情第59、60章； \n2．新增师徒功能：桃李知心； \n3．新增组队副本悬赏地图-凉州沙漠； \n4．新增主角时装：浴凰凤舞-影舞、踏青行-桃姬、水月花影； \n5．新增组队副本时装：执事恋人·娓、大漠孤烟、乡愁、蛋黄酥酥； \n6．新增宝石一键镶嵌功能； \n7．新增心谋第二张图； \n8．修复优化已知BUG问题；"
+    },
+    {
+      "name":"新诛仙",
+      "url":"get/?url=amWONyXKJEnjZz61umJr0t0eevnTgBYWunRrLsdPuvkbtvvP0qSrLshzuvkrtvvP0DjvLsYSgvkjtvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=Avht1iwllzZDHbxn",
+      "num":"游戏",
+      "description":"最新版本:  1.717.1\n更新时间:  2019-08-07 23:02:04 (北京时间)\n\n新功能：1. 全新职业天华登场全新职业天华登场，以琴声音律为攻击手段，他们的乐律是队友的天籁之音，是敌人的死亡弥撒曲。在无形中即可使周围对手陷入困境。天华不仅能够提供群体治疗、减益控制，还能减免伤害，反弹技能，可可谓攻防两端样样精通，势必打开崭新的战斗格局2. 官方联动敦煌场景植入西沙净土，仙界现世。全新官方联动新功能：1. 全新战场 都广灵丘10V10跨服战场都广灵丘全新开启，上古灵丘现世，引动仙界争锋，争夺天地灵果夺取积分，团队协作共赴巅峰对决2. 周年庆典 狂欢揭幕诛仙手游三周年庆典狂欢来袭，参与特别活动“夏日花火会”，邀请好友品尝清凉西瓜、燃放浪漫河灯、参加美食盛会，重重好礼等你来拿3. 情定七夕 甜蜜一夏七夕特别活动“情缘对对碰”限时开启！与仙侣、好友挑战2V2趣味副本，心有灵犀触发情缘碰撞，欢声笑语秀出甜蜜恩爱4. 婚礼巡游 全城见证婚礼玩法增加花车巡游流程，与仙侣乘坐花车尽览河阳城美景，仙友送上祝福还有惊喜礼物5. 全新外观 配饰系统【外观-配饰】玩法全新解锁，百变配饰萌翻仙界，随心搭配即可打造超个性外观6. 夫妻特权 精彩升级夫妻特权全新升级，完成夫妻副本、任务，获取恩爱值，解锁更多专属交互动作、个性标识与家园道具7. 全新挑战 神武天极神武天极塔进阶难度开启，副本随机生成五行场景，每种环境都有不同场景BUFF，多重机制影响关卡BOSS刷新，极限挑战体验刺激加倍"
+    },
+    {
+      "name":"妖精的尾巴：魔导少年",
+      "url":"get/?url=0tpb5uo4CfzFLKEovZyQ5KmRPwt5verAbxod50qwn1tdz1uozKvt1unvnutdz1uozKv5f1qwLMucz1uozKvd5unvnKucz1upzKvtXemjvLsZKuvkftvvPKrkvLs3LuvkftvvPemNrLscXgvkntvvPKrkvLs5LuvkntvvPKmRrLsYuuvkftvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=amTjwnsnKy1GtlHvtvYeMnHL3n3atzIvtldjwnffxn10Ys3uZvHfwn",
+      "num":"游戏",
+      "description":"最新版本:  4.5.201\n更新时间:  2019-07-15 10:29:39 (北京时间)\n\n1.公平竞技场跨服匹配功能，实现全服务器玩家共同匹配PK；\n2.公平竞技场功能升级：完整体验的公平竞技场功能，可以调阵法等；\n3.新增玩法：最强小队，基于固定队的八强淘汰赛；\n4.新增玩法：魔导传说之战，基于固定队的跨服天梯战；\n5.新增玩法：魔导士凭证，根据玩家达成目标，给予玩家奖励的玩法；\n6.新时装上架：上架新时装——异域风情；\n7.新的成长系统：魔法研究；\n8.增加新的魔法兽：澜鲸；\n9.增加新的助战：S级柯布拉、SS级乌璐蒂亚；\n10.增加新的助战合体技：艾芭葛琳和艾尔夫曼的合体技；\n11.增加弹劾公会会长功能：让玩家能够更换不能负担起公会管理功能的会长；\n12.增加公会会长自动转让功能：公会会长7天未上线，将会自动转让职位；\n13.极限考验增加后续关卡；\n14.魔力巅峰增加后续挑战；\n15.异世界挑战增加后续挑战；\n16.新增互赠礼物系统：玩家之间可以互赠模具、料理、药品、咒文；\n17.高评分宠物放生时增加二次确认，避免玩家不必要的损失；\n18.为背包增加安全锁功能；\n19.公会活跃红包：公会可以根据活跃度，为本公会玩家发放红包；\n20.职业平衡调整：针对用户反馈，对几个特定职业进行了技能调整；\n21.用户减负：挑战巴拉姆已通关的部分关卡可扫荡；\n22.用户减负：挑战杰拉尔玩法可以自动进行战斗；\n23.用户减负：玩家在挖宝时，可以自动连续点击宝图；\n24.装备打造调整：将无附件属性，无附加技能的紫装更改为固定属性；（注：此类紫装在交易行中以推荐浮动价格进行交易，并且在熔铸之后无法上架交易行）\n25.游戏内其他系统优化和BUG修正；"
+    },
+    {
+      "name":"MOMO陌陌",
+      "url":"get/?url=adm6jwm5OwtYCgvojtre9emrrKwWLtErrtvt9unvn1tgzvErrtvt9unvn1tgzvEIrxoxjMDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qp9eKAA12tQPvBTqLt5ufv",
+      "num":"社交",
+      "description":"最新版本:  8.19.3\n更新时间:  2019-08-07 12:07:14 (北京时间)\n\n我们会定期更新APP，修复已知问题，并提升APP性能，请你保持更新，以获得最佳体验。\n感谢使用陌陌！我们定期会在App Store更新应用，请前往手机“设置”\"iTunes与App Store\"“自动下载的项目”，打开“更新”，保证良好的用户体验。"
+    },
+    {
+      "name":"剑网3：指尖江湖",
+      "url":"get/?url=0tuubLDwndu0eeronZAu9eEJPwt4f1vHzxwu9eBRPwuSLfvsXwwv9eBfPwuSLfvsXwwu9eBbPwuSvfvsX2ye9eBnv0tSLfvsXgm51eERrLsfPuvkntvvPeERrLs1CgvkftvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=0tpNXwnH1IB4fwDSD3vTGwtHvxB40slnjLm3uJuTLvn",
+      "num":"游戏",
+      "description":"最新版本:  1.3.1\n更新时间:  2019-06-13 02:01:17 (北京时间)\n\n【阵营战场：热血豪情 荣誉之争】\n全新战场玩法，正式上线！\n拔塔摧城，英雄气概。少侠可随亲友为阵营征战出击，参与大型团队战场玩法。\n三路兵戈，打野发育，谋略搭配，合作制胜。全新战场玩法给少侠带来燃情肆意的战斗乐趣。无差距同起点公平竞技玩法，呼朋唤友，指尖开战！\n全新阵营战场【神农洇】为少侠带来5v5的团队联合作战玩法。阵营战场中，少侠可代表浩气盟或者恶人谷出征，除了侠客的精炼等级与特性保留外，对战双方都将统一装备，通过击杀敌人，小兵，箭塔，野怪等方式获得【荣誉值】，荣誉值可在场内购买装备。率先击溃敌方大将的少侠，将获得战场的胜利。\n\n【心眼探索：以心为眼 鉴所未见】\n心眼玩法升级归来！独创心眼玩法，给少侠带来寻踪觅宝、万物有灵的互动乐趣。\n少侠可以通过进入心眼模式进行各类探索，或是美景、或是宝物，还可发现蛛丝马迹的痕迹，看到曾经发生过的故事。\n全场景探索机制覆盖游戏全部内容，上至屋顶高树，下至幽深水井。打开心眼，江湖百态，皆可一试。\n\n【试炼之地：进阶战斗 挑战自我】\n新增试炼之地玩法。\n湖之上五大门派武学精深，各有所长，亦有无数武林豪杰独树一帜，自有所学。少侠自门中学艺多年，行走江湖自当以武会友，以德服人。若有闲暇之时，不妨前来试炼之地闯荡一番，通过各大门派的精英试炼，追求武学的至高境界。\n少侠可以前往试炼之地一试身手，与江湖各门各派精英弟子切磋武艺。试炼之地挑战无穷无尽，关卡难度也越来越高，少侠将遇到前所未有的敌人，挑战自己的战斗极限。\n\n【宴席聚餐：菜品佳肴，共享美食】\n宴席玩法优化调整，将给少侠带来全新的食用体验。\n少侠可以在主城的宴席区域，邀请友人一同享用菜品，还可以增加上场侠客的好感度。此外，少侠也可以邀请自己的侠客共同聚餐，食用过的餐盘也有了新的表现效果。\n爱吃的人运气总不会太差，少侠每一口食用菜品都可能获得【幸运值】的奖励，且可以互相叠加。\n\n【九州引：博览天地 江湖见闻】\n全新江湖见闻与成就系统，正式开放！\n九州引内含多本藏书，记录少侠闯荡江湖的风闻见事，有物，有人，也有事。还有少侠突破自我时的成就记载。\n此外，少侠也可以在九州引的记录中观看剧情故事，章节MV，剧情动画等等。\n\n【排行榜：风靡武林 名震江湖】\n全新排行榜功能正式上线，记载了少侠战斗力与各类玩法在武林中的排名地位。包括了少侠的名剑大会，阵营战场等等排名。\n\n【羁绊技：缘分羁绊 相助同行】\n新增侠客招式技能——羁绊技。\n少侠行走江湖，将结缘武林各路名侠，借其武学相助，则可事半功倍。\n少侠可以设置每个侠客的专属技能【羁绊技】，在战斗状态下可以召唤其他侠客入阵相助。\n\n【外观商城：锦衣华服 助战江湖】\n全新商城系统，正式上线！\n琳琅百态静待选择，少侠可于商城中挑选购买【表情包】【跟宠】【外观】等珍稀物件。部分外观购买资格需要满足一定前置条件方可解锁哦！\n\n【寻签问卜：每日运势，算尽乾坤】\n全新抽签玩法，正式上线！\n少侠可以在每日上线后，卜算今日运势，每种运势都将会直接影响少侠的游戏内容！\n【上上签】将会给少侠带来不同的增益效果，【下下签】也会给少侠带来减益效果，少侠可以通过重复的抽签，将【上上签】的效果覆盖于【下下签】之上，改变运势，不在话下。\n\n【剧情重溯：剑起稻香 动画优化】\n稻香村剧情重新制作，将以全新的面貌与诸位少侠见面。此外，游戏主线中的历程动画，以及梦境剧情中的剧情动画都有大幅度的优化，等待少侠前往观看。\n\n【界面重塑：图标美化，更新换代】\n视觉效果全面升级：提取唐代图标国画绘制工艺，结合游戏美术风格，创造国风界面新高度。在更新优化过后，按键风格更加立体化与风格化，搭配山水纹络，更加容易被辨别与操作。\n\n此外，部分界面图素也进行了优化，以剪纸风格拼接而成，更具国风气息。"
+    },
+    {
+      "name":"FIFA足球世界",
+      "url":"get/?url=90tqoLdoxr2xRrLtXSgvpftve1KEfrKwWLtErrtvt5unvLNtgzvAovtvd90qwnKtgzvEnrtvd1unvLNtgzvEnnKvP50qwn0tgz1uz1gBTPLDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=90tqQzvz1Xgnt1YzrvwlZjtALf1rSTMu",
+      "num":"游戏",
+      "description":"最新版本:  8.0.01\n更新时间:  2019-07-31 23:33:55 (北京时间)\n\n【新增内容】\n1，新增球员交换系统，可以使用该系统消耗一定委托条件的球员来获取新球员。"
+    },
+    {
+      "name":"明日之后",
+      "url":"get/?url=amWONyXKdrnDxq65KmvrLt6ffvnTgBYWKrOrLs3TgvkftvvP0qOrLs1KuvkbtvvPumfvLsZSgvkjtvvPKrOrLs0SgvkjtvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=WtdPvnm1gt1WwzWvZtPbxn",
+      "num":"游戏",
+      "description":"最新版本:  1.0.42\n更新时间:  2019-07-18 08:05:23 (北京时间)\n\n欢迎收听101广播电台，我是播音员西奥德罗。为了更好的明天，接下来我将为您播报本次联盟颁布的一系列新内容。\n1、位于母体残骸的深渊附近的教会第三大学的诺贝利学院，承受着病毒感染和核辐射的双重威胁，在逐渐被人遗忘的时候，教学楼里传来了微弱的信号，科技会、帝国、商会提供了高额的悬赏，寻求核辐射下掩埋的真相……\n2、为了提升庄园的安全性，联盟将试行推出庄园地下金库，以及奖励性的安保计划。\n3、拱廊街外观商城焕新上线，欢迎各位幸存者前往选购。\n4、科技会将无人机系统进行升级，现在无人机可以更便捷的操作了。"
+    },
+    {
+      "name":"探探－超火爆社交App",
+      "url":"get/?url=adm6jwm5q0tWeevnvZzu1KmNrKwWLZqJDNrh5Kqwnvudz1qozKvtj1qwnKtczvEozKvP5envn0t0uvEozKvPfLqwnvt0uvEozKvt5envLMtdz1qpzKvtXuEfvLsgHgvkjtvvPuEfvLsgHgvkjtvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=3jewrTwCmvtltztnhLgn1i3r0uJrHXKnoL3n3KMnVvtA28wn",
+      "num":"社交",
+      "description":"最新版本:  3.6.2\n更新时间:  2019-08-09 15:11:01 (北京时间)\n\n大家好，我又来更新了\n说出来你可能不信\n秃头程序猿经过无数个通宵的加班\n这次更新为您带来了0项新功能\n \n-【优化】修复了一些说了你们也听不懂的bug\n \n真诚的邀请各位用户爸爸下载新版本体验\n好了不说了\n我的大刀已经按耐不住了\n我要催秃头程序猿开发新功能去了！\n用户爸爸们记得去更新啊！"
+    },
+    {
+      "name":"微博",
+      "url":"get/?url=qprrfu2z1mqntru1uEzr1t3vLEnTgBYWKqSrLsfHgvkftvvPKrgvLsgPuvkftvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=eMmzvtD2iwn",
+      "num":"社交",
+      "description":"最新版本:  9.7.1\n更新时间:  2019-07-11 10:12:34 (北京时间)\n\n1. 支持在群聊中检索图片、微博、文件等聊天记录\n2. 视频社区全新上线！独家专辑，精选播单，热门排行，精彩内容看不停～\n3. 微博视频上线投稿，快把优质内容投稿到视频社区让粉丝先睹为快！"
+    },
+    {
+      "name":"王国纪元(Lords Mobile)",
+      "url":"get/?url=90tqoLdoxr2xJPwt6LLEovtr650DfrKwWLZuAnhBTLLDXCft6jvBJzhExXKENrLsXCgvkftvvPKqgvLscPuvkntvvPurkvLsdXgvkftvvP0qOrLsgHgvkntvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=9S2uAnhBTLLDXuus6jvBJzhEfTerxLvnXf3n1KtDAvdt2qtn",
+      "num":"游戏",
+      "description":"最新版本:  2.1\n更新时间:  2019-07-20 00:04:36 (北京时间)\n\n英雄领战，兵员冲锋，「魔物觉醒」，最强助攻！\n黑暗之力日益浓厚，契约魔物满蓄力量，正是此时，觉醒你的魔物，组合你的战法，震撼你的敌人，巅覆你的战场！\n\n#开放契约魔物随军出战：\n契约魔物将陆续觉醒军团战法，研发「魔物出战」，配合契约魔物「军团战法」觉醒，即可携带契约魔物出战\n#新增「魔物出战」科技树，学院等级21开放\n#水晶商店新增：「微光魔物结晶」、「闪耀魔物结晶」\n#限时冒险将再度开启，这次又会是哪个英雄的冒险旅程？敬请期待~\n#界面优化调整"
+    },
+    {
+      "name":"全民K歌–抢麦新玩法",
+      "url":"get/?url=0tpb5uo4CfzFTgroHxtu1umbrvt1e1vHzxvu9eBnPwuSLfvsX2AuffBvv0tSngvsXwqQffBzr1tSLfvsXwwuffBfTwuSTgvsXwsuffBfv0tSLfvsXgm5ffnvnKuczvAozKv5fgERrLs3LuvkjtvvPenfvLsXCgvkftvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qp9efB6fwzX9uzpn3vHvhC20wDVTuyTSwql9KA0fwltj1qYvZBxLvn",
+      "num":"娱乐",
+      "description":"最新版本:  6.6.8\n更新时间:  2019-08-12 14:29:37 (北京时间)\n\n【新增】音质音效全新升级，助你打造完美歌声\n【新增】带背景音乐的图文动态，让表达充满旋律"
+    },
+    {
+      "name":"百度网盘",
+      "url":"get/?url=qprrfu2z1mqHxq65KmzrvtZefvoTgBYWenRrLsdXgvkntvvPeERrLsfPuvkntvvPKmfvLscPuvkftvvPKrkvLs1SgvkntvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qw1vtnsjZn10wCIvtlTvtn",
+      "num":"效率",
+      "description":"最新版本:  10.0.40\n更新时间:  2019-08-12 11:01:09 (北京时间)\n\n1、优化了音频播单功能，添加音频更方便\n2、优化了图片【精选】分类，查找图片更高效\n3、全局搜索优化，更快捷地触达你的美好"
+    },
+    {
+      "name":"腾讯欢乐麻将全集",
+      "url":"get/?url=qprrfu2z1mqPxsu10DNrvt1CMAoTgBYWKmNrLsdXgvkvtvvPenfvLsXCgvkftvvPKmNrLs3LuvkftvvP0qkvLscPuvkvtvvP0DRrLs1KuvkbtvvPuEfvLsezuvkjtvvP0rgvLsgzuvkrtvvPKrkvLsXCgvkrtvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=CuDAzZBxLvnhnKy1CtCIztuTXunPLxC1yNnlztlxLKn",
+      "num":"游戏",
+      "description":"最新版本:  7.2.12\n更新时间:  2019-07-19 09:50:19 (北京时间)\n\n1.全新玩法，翻倍血流，连胡翻倍更爽快！\n2.上线健康游戏约定系统，君子之诺，守约有奖！\n3.优化部分游戏体验。"
+    },
+    {
+      "name":"忍者必须死3",
+      "url":"get/?url=0tpb5uo4CfzFvfvpLxr650DbPwt3verAbxo510qkvLsfzuvkjtvvP0qkvLs4vuvkvtvvPumNrLshPuvkftvvPumNrLs3DgvkrtvvPurOrLshPuvkftvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=90ZDnDJmXvZnhfMng1Iy1y0qjzJtTiwn",
+      "num":"游戏",
+      "description":"最新版本:  1.0.15\n更新时间:  2019-07-14 19:41:47 (北京时间)\n\n在这个暑假，《忍者必须死3》迎来了史上最重磅的首部剧情资料片《忍界大战·序》！新章节、新玩法、新挑战、新福利等诸多新内容全面来袭！希望忍忍们能够在忍界里尽情享受乐趣，放松身心，积蓄能量，迎接未来更大的挑战。 \n\n【全新章节】上线以来的首度主线剧情推进，第八章激燃开启！隼白建立的“鹰”组织在忍神山迅速集结壮大，成为一股强大的力量，隼之四天王正式登场。 \n【海岛探险】暑期活动中推出了单人PVE探索玩法，将跑酷与迷宫探索相结合，并加入一定的Roguelike元素，是对于玩法模式的又一次探索和创新。 \n【新的成长】经历了近一年时间的战斗，刻苦修炼的忍者们终于迎来了等级上限的突破，新的天赋能力也已蓄势待发。 \n【夏日福利】炎炎夏日，清凉的补给自然必不可少，忍村长老们已为忍忍们准备好了丰厚的福利。 \n【忍界巡礼】全民福利节，新老玩家齐欢庆。完成巡礼任务，更可以免费领取SSR武器。 \n【忍魂重燃】响应忍神召唤，重燃忍者之魂，开启新玩家招募与老玩家召回活动，海量珍贵奖励等你来拿！ \n【悬赏挑战】距离隼白队长上次出现在忍村已经过去了很久，这次为了更大的阴谋，隼白卷土重来，并且带来了更为强大的帮手，大战一触即发。"
+    },
+    {
+      "name":"航海王 启航2",
+      "url":"get/?url=0tpb5uo4CfzFvfvpHxu65umrrKt1e1vHzxsufLqwn0t0u1qpzKvPjLqwnut1u1uozKvtX0qOrLsgHgvkntvvP0mjvLsXKuvkjtvvPKqgvLs0CgvkrtvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=9KKAXLuATixux9usmzdn1mZvYvtCPLKn",
+      "num":"游戏",
+      "description":"最新版本:  20.0\n更新时间:  2019-08-08 18:02:08 (北京时间)\n\n2.0大海战 | 千人海战火力全开！\n中国大陆首款ONE PIECE官方授权手游！ \n\n\n【全新内容】\n新动画\n正版授权制作《航海王 启航》独家片头动画\n\n新界面\n-美术界面全面更新，以《航海王》原著中各出处的场景以及世界观为背景进行还原制作\n-登录界面更新\n\n新序章\n优化前期的战斗展示体验\n\n新剧情\n优化游戏剧情展现方式，全新形式采用动画+剧情对话+游戏对话的方式，增加了互动体验和IP代入感\n\n新特效\n新增海面拟真特效\n新增船只战斗特效\n\n新头像\n新增一批海盗旗特殊头像\n\n新功能-大海战玩法\n1.海战玩法\n-码头：船只补给、维修、更换、出航的地方\n-探索：通过探索可寻找到新的岛屿\n-跑商：在岛屿之间进行跑商交易可赚取航海货币\n-打劫：对其他海盗船只进行打劫，夺取资源\n2.船只系统\n-造船厂：船只制造，多艘《航海王》原版海盗船面世\n-船坞：船只图鉴，每搜船只都拥有不同的战船属性、船只配件、船员技能\n-船只养成： 船只可进行升级、升星、重铸等培养\n-船只战斗：3V3船只战斗即刻打响荣誉海战\n-船员技能：其他各功能中会激活触发船员技能\n\n新功能-海盗归来\n老玩家回归即送高额好礼\n\n新功能-大妈茶花会\n四皇夏洛特玲玲专属产出玩法\n\n【功能优化】\n-优化新手引导\n-优化操作手感\n-优化酒馆产出\n-增加一键升技能功能\n-增加专属珠宝信息显示功能\n\n【角色更新】 \n1.SSS角色 四皇 夏洛特·玲玲\n首位多属性伙伴 怪力登场 \n\n2.草帽团原创皮肤陆续上架"
+    },
+    {
+      "name":"第五人格",
+      "url":"get/?url=amWONyXKdvoLxt61KmNrut61evnTgBYWerkvLs3vuvkjtvvPKqkvLscPuvkbtvvPemRrLscPuvkbtvvPergvLsezuvkntvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=aodfxn2eht1uvCmvZC5ztn",
+      "num":"游戏",
+      "description":"最新版本:  1.5.36\n更新时间:  2019-08-08 10:43:06 (北京时间)\n\n【女神异闻录5联动活动-给怪盗团的挑战书】\n时间：2019年8月8日-2019年8月19日\n心之怪盗团入侵，参与活动，搜寻怪盗团散布于庄园的身份线索，揭露其身份，可获得怪盗团限定头像，完成所有任务，并寄送挑战书，更可获得奇珍随从摩尔加纳：\n1.活动期间每日参与对战，便可获得身份线索。（每日上限为5，总上限为40）。\n2.收集足够的身份线索后，可前往活动界面交换怪盗身份。\n3.将怪盗身份分享至社交平台，可揭示其身份。\n4.所有怪盗身份确认后，可向怪盗团寄送挑战书，获得最终奖励。\n\n【女神异闻录5联动宝箱-Persona5联动精华第一弹】\n时间：2019年8月8日-2019年8月29日\n1.女神异闻录5联动第一弹开启，联动宝箱【Persona5联动精华】上线，玩家可从中获取联动相关稀世时装-雨宫莲、奇珍时装-坂本龙司、奇珍时装-高卷杏、奇珍时装-喜多川祐介、觉醒道具反抗之魂、头像和涂鸦等物品。\n2.反抗之魂-觉醒系统上线，通过宝箱中掉落的觉醒道具【反抗之魂】，玩家可对联动时装进行觉醒，觉醒完成后，玩家可获得新的稀世时装-JOKER、 奇珍时装-SKULL、奇珍时装-PANTHER、奇珍时装-FOX。\n3.反抗之魂为通用道具，可用来觉醒第一弹中所有可觉醒时装，以及稍后上线的第二弹中所有可觉醒时装。\n4.在所有联动结束后，还未消耗的反抗之魂，将以1：200的比例兑换为碎片，返还给玩家。\n5.第一弹联动期间，推理之径上的精华将全部替换为Persona5联动精华\n6.获取精华后，请尽早开启，若在第一弹联动结束时玩家还持有未开启的精华，系统将为玩家自动开启，并将所得奖励通过邮件自动发放给玩家。\n\n※玩家在获取全部奇珍时装前，不会再获得已拥有的奇珍时装。\n※玩家对时装进行觉醒后，觉醒时装和常规时装可随时切换。"
+    },
+    {
+      "name":"御龙在天",
+      "url":"get/?url=amWONyXKdvovtqu1umbrvtYeevnTgBYWunfvLsWuuvkftvvPenfvLseXgvkftvvPunRrLsgPuvkvtvvPeEfvLsgPuvkftvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=aCtfwnVLNw1OLnIzdA2iwn",
+      "num":"游戏",
+      "description":"最新版本:  1.255.0.1\n更新时间:  2019-04-25 06:16:28 (北京时间)\n\n【精彩新战场】\n1、【大国崛起】国战策略升级，攻防战术博弈，谁能谋略群雄？\n2、【三国志】跨服城池战，流浪军玩法来袭，谁能左右战局？\n3、【坠星屿】跨服联盟战，策略抢夺诸侯印，谁能一统天下？\n4、【家族精英赛】跨服家族战，兄弟携手一起战，谁能问鼎天下？\n\n【精彩新玩法】\n1、【家族龙舟庆典】跨服龙舟赛，公平竞技，其利断金；\n2、【龙魂】战力进阶，龙魂系统全面开启，更有酷炫外显特效，内外兼修，秀翻全服。\n\n【其他优化】\n1、边境地图全面革新，感受夏天的来临；\n2、游戏稳定性优化：优化部分机型闪退、发热、耗电过快等问题，提高游戏运行的稳定性。"
+    },
+    {
+      "name":"一拳超人：最强之男",
+      "url":"get/?url=0tpb5uo4CfzFfernP3ze9KmRrKtWuerAbxo550qwnKt1uvEozKvPffnvn1tdz1qozKvtf1qwLxudz1uozKvd1envLxu1uvAozKvtXKqkvLscPuvkbtvvPumNrLsYKuvkrtvvPKEjvLsdHgvkjtvvP0DNrLs0KuvkbtvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=Zmvn1WuBmvJn5jwnbLhC1ewE3CJnXXungfgt2OxDVvtqPXun",
+      "num":"游戏",
+      "description":"最新版本:  1.1.4\n更新时间:  2019-07-23 10:48:06 (北京时间)\n\n【重要更新】\n\n1、新增角色天赋养成。通过养成角色天赋可以进一步增强角色的属性，在属性提升的同时还可以增加全队实力，解锁更多的策略玩法。\n\n2、新增天赋试炼全新玩法。天赋试炼副本开启，层级挑战领取丰厚奖励。\n\n3、家园社交开启。家园可以互访了~可以在家开派对邀请你的好友一起来嗨皮。同时可以在家园中展示更多的角色了，和角色互动还能获得很多奖励呦~\n\n4、新增一批趣味成就等你探索。\n\n\n【体验优化】\n\n1、优化王者挑战组队机制，房主长时间不在线自动解散房间\n\n2、调整组织BOSS的开启时间，改为每天8:00-24:00\n\n3、提高组织BOSS伤害箱子的奖励，第1、2个boss将有机会获得更高品质的扩展卡\n\n4、优化家园委托玩法，正在进行的任务新增星星数目的显示\n\n5、优化了家园委托任务要求的难度星级，进行了下调\n\n6、优化王者挑战单人模式结算界面，新增“再次挑战”按钮可以快速进入下一场战斗\n\n7、新增原子武士、蚊女、黄金球、兽王和甜心假面超觉醒技能动画\n\n8、卡片商店增加精良装备的扩展属性刷新几率\n\n9、优化了带有扩展属性的扩展卡的特效，使其更加明显\n\n10、优化了组织商店以及对决赛商店的ssr碎片的产出\n\n11、增加了钻石购买双周福利卡时弹出二级确认界面\n\n【问题修复】\n\n1、修复了被蚊女复活的角色在复活后被动没有及时生效的bug\n\n2、修复了自动战斗中当己方晕眩的队友死亡被复活时晕眩标志不消失bug\n\n3、修复了对决赛查看玩家信息不显示组织和成就详情的bug\n\n4、修复了埼玉任务显示的掉落与实际掉落不符的bug\n\n5、修复了王者挑战玩法布阵界面角色速度排序和实际战斗角色速度排序不符的bug\n\n6、修复其他已知bug"
+    },
+    {
+      "name":"梦幻模拟战",
+      "url":"get/?url=amWONyXKJAnvtsQ1uEnPMt41evnTgBYWenRrLs0CgvkjtvvP0rSrLsdHgvkjtvvPeEfvLs0uuvkjtvvP0qkvLs1KuvkftvvPKmfvLs5vuvkjtvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=KvAVvJz19wnOLwC1CtBIvtBlfxn",
+      "num":"游戏",
+      "description":"最新版本:  1.16.2\n更新时间:  2019-07-18 00:01:18 (北京时间)\n\n【新英雄-浦饭幽助、藏马】\nSSR英雄-浦饭幽助：原本是座屋敷中学的高中生，一名擅长打架的不良少年。在交通事故中为了就过路的孩子而意外身亡，在小阎王的安排下转生为灵界侦探，帮助灵界解决人界的各种事端。\n--【阵营】： 时空枢纽、主角光环、超凡领域\n--【最终职业】：魔界王选/灵界侦探\n\nSSR英雄-藏马： 本体是千年妖狐，被猎人追捕后逃入人间，以人类的身份转生并受到了人类母亲慈爱的感化，拥有了人类的情感，与幽助一同对抗魔界强敌。\n--【阵营】： 时空枢纽、传说彼端、战略大师\n--【最终职业】：前世之力/魔蔷薇之棘\n\n【新限时召唤-激燃！魔强世代！】\n灵力强劲的少年们在冒险中斗志不息…..也正是他们，勇敢地力抗魔界，奋力前行！\n更新完成后，“激燃！魔强世代！”限时召唤开启，SSR英雄浦饭幽助、藏马出现概率提升！\n*注：SSR联动英雄浦饭幽助、藏马只能从“限时召唤-激燃！魔强世代！”中获得，无法从普通召唤卡池中获得。\n\n【新限时活动-少年们的见面礼】\n    幽游少年们初来乍到，光辉军团携手他们，带来了丰厚见面礼。\n活动期间，累计登陆达到指定天数即可领取金币，源铸元素，灵魂元素，华彩心灵之钥等多重精彩奖励；更有超然之心，魔导石等终极好礼。指挥官们千万不要错过哦！\n具体活动详情见游戏内 [活动]-[限时登陆]。\n\n【新主线剧情和新功能开启】\n1. 新主线剧情开启\n成长的脚步从不停歇，故事的新篇已经开启。\n更新完成后，主线剧情开启四十八章~五十章。指挥官们可以完成主线关卡，获得精彩奖励和新道具“梦见之石”。\n*注：安杰丽卡不会从英雄卡池中获得。\n\n2.新功能开启-主角职业重置\n主角马修的职业重塑功能解锁，让他成为大家心目中无愧的战斗伙伴吧！\n在更新完成后，通过主线关卡五十章即可获得主角马修重置职业的专用道具：梦见之石。在背包中使用“梦见之石”后，可以重新选择马修的职业路线。\n*注：在修改职业后，马修会恢复成初始职业，所有已穿戴的装备会自动卸下放入背包。马修的等级、星级、羁绊将会保留，而之前转职消耗地魔导石会通过邮件全部返还；但转职消耗材料和职业精通石不做额外的返还。\n\n【限时活动-光之回响】\n黑暗依旧威胁着艾露萨利亚大陆，光之女神的信仰是世人最后的救赎。指挥官，再一次握紧你的剑，将新的力量纳入手中吧，让整个世界……再次听闻英雄的传说！\n活动期间，累计充值达到指定额度，即可获得“6选2皮肤礼包”，其中包含：\n浦饭幽助[魔族大隔世]、藏马[蔷薇妖狐]，欧米伽[喧哗上等]，尤利娅[崩坏之刃]，克拉蕾特[急急传送令]，艾拉斯卓[荒蛮猎手]。\n在背包中打开“6选2皮肤礼包”可在6款皮肤中任选心仪的2款。\n\n【其他新增内容】\n1.【秘境商店】新增x，x的专属装备。\n2.开放以下英雄的告白：\n--SR英雄：安杰丽卡\n--R英雄：蕾蒂西亚\n3.【秘境限时活动-协力战】中添加了4张新地图，新地图中敌人的等级开放至65级。\n4.【商店】中新增了回归指挥官礼包。"
+    },
+    {
+      "name":"Fate/Grand Order（命运-冠位指定）",
+      "url":"get/?url=amWONyXKdvpnZy65unnr0t3vevnTgBYWKqSrLsgzuvkftvvP0mNrLseHgvkjtvvPurOrLsfPuvkbtvvP0DfvLsYCgvkftvvPeDbr1tSL1ArX2zujfBrTwuSvevpXwvujfBWK2ySjvBJzxmdPvDg12yUfZuAbJrTPLDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=0ZAjzNDYbNCSzwsQ12mzz3AefhASnZqR9vALzNux9uA40sDJXMuTngucnKw1zuBJHuotPfmg1Mu",
+      "num":"游戏",
+      "description":"最新版本:  1.45.6\n更新时间:  2019-07-12 10:32:58 (北京时间)\n\n（1）游戏内UI调整\n（2）其他文本优化"
+    },
+    {
+      "name":"宫廷秘传-小宫女逆袭紫禁城",
+      "url":"get/?url=0tpb5uo4CfzFLerorttu9unnrKtWuerAbxotjfnvLMu1u1uozKvt1envLMtczvEozKvPfLqwnKtdzvEozKvdjLqwLwtcz1qpzKvP5envnut0u1upzKv510qwnLtcz1uozKvPfLqwnLucz1uozKvPjfnvnutdz1uozKvtX0DfvLsePuvkbtvvPenRrLsZuuvkntvvP0mjvLsdPuvkftvvP0qgvLsgzuvkftvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qp9CMAMDvzN1wzTehmLvMCPLwDOfuBTmhBx1sC1DvlQD3vLX0z5XunzvMn1mtDIvJC2ewn",
+      "num":"游戏",
+      "description":"最新版本:  1.0.6\n更新时间:  2019-06-06 12:03:31 (北京时间)\n\n一、新增内容：\n1. 为向玩家们更延续的剧情体验，我们开放了主线第55至60章的全新剧情；\n2. 为了给后宫生活增添几许乐趣，我们推出了全新的灵囿玩法，小主们可以于其中收集、喂养灵宠，与灵宠互动；\n3. 新增5个身份等级：温庄公主、靖端公主、雍穆公主、淑惠公主、淑哲公主；\n4. 新增“易容”功能：由换装页面进入，可通过消耗玉如意替换小主的容颜；\n\n二、玩法调整：\n1. 为了拓宽知己系统深度，新增知己友情等级，友情等级百分比提升知己技能对伙伴的加成值；\n2. 新增知己送礼道具：可提升知己友情值，分为琴、棋、书、画四种类型，分别可赠送给四类知己；\n3. 出城新增“一键寻访”功能；"
+    },
+    {
+      "name":"天天爱消除",
+      "url":"get/?url=qprrfu2z1mqrZAe10mRr0tWuLAoTgBYWemfvLs1SgvkvtvvPenNrLsYKuvkjtvvPeEjvLs0CgvkntvvPunfvLsWuuvkftvvPunfvLsWuuvkftvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=SwBAztsHjxn4Lgn1a3uHvdCtfwn",
+      "num":"游戏",
+      "description":"最新版本:  1.77.0\n更新时间:  2019-08-07 20:04:27 (北京时间)\n\n【全新玩法】\n喵星星与小浣熊进行赛跑对决，快来帮助喵星星优先到达终点获得胜利吧！还有多种玩法换新装，解救被冰封的大娃、连击葫芦串串，等你体验~\n\n【周赛更新】\n快来协助大娃收集葫芦，躲避路上巡逻的蛤蟆精。被抓走的爷爷等你拯救！\n\n【周年新装】\n全新装扮：收集闪耀华丽的裙装，在周年庆典盛装登场吧！\n\n【爷爷的宝葫芦】\n葫芦兄弟怎么少的了爷爷！爷爷带着超多福利来回馈大家啦，每日完成活跃任务即可获得爷爷的宝葫芦，全新大娃稀有宠在等着你哟！\n\n【全新关卡】\n周年狂欢！45个全新冒险关卡等你来挑战！\n\n【生日邀请函】\n六周年生日到啦！还不赶快邀请好友上线，一起为喵星星庆生？邀请多多，奖励多多哦！"
+    },
+    {
+      "name":"PP体育-看中超英超高清足球视频直播",
+      "url":"get/?url=0tuubLDwndu1eKEnH3z650mjPMtRXMmmvKrvPuERrLsYuvvkbtsvP0qSrLsZuvvkH3AuPuEfvLs1uvvkjZzuP0mfvLs0uvvkP3zuP0DRrLsZuvvkPxsvPKmjvLs0uvvkfZzuPenjvLsYuvvkrZAuP0qgvLs1uvvkfZzuPKmjvLs0uvvkHxsvP0qOrLs0uvvkfZzuPKmjvLs0uvvkvKrvPenjvLsWuvvkneAuPerSrLsZuvvkrxsQffBjr0tSDgvsXwtu9eBrTwuSffvsXwqinMDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=aDlbxnWuxn1i1sHzZrLTKnenun1OxymzJrPjxnzvxy2yuymzdE1LKngfgt2qxAmvdt5vtn0LKCN9guAz3Aezuv",
+      "num":"体育",
+      "description":"最新版本:  5.14.1\n更新时间:  2019-08-12 07:51:30 (北京时间)\n\n体验优化与bug修复"
+    },
+    {
+      "name":"哔哩哔哩-弹幕番剧直播高清视频",
+      "url":"get/?url=amWONyXKJAnLxqQ5KEvPMt6ngrAbxot1unvLwtcz1upzKvP5envLNtcz1qpzKvt5envn0tdzvAozKvd9unvLwucz1upzKvdjLqwLwt1uvAozKvd50qwLwu1uvEozKv55Kqwn1t0u1uozKvtfLqwnLt1uvEozKvt5unvn1tdz1uozKvt90qwLxudz1uozKvtXunfvLs6TgvkftvvPemRrLs6TgvkftvvPunfvLs6TgvkftvvPemRrLs6TgvkftvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=90tuRLwB1HMBPvgA0e2tTjxBLj3uH9eDIvwlWP0v1fNvLvgB1Cvz1HZvLXeCpPvnv9Kw1a3tAvtvpPvn",
+      "num":"娱乐",
+      "description":"最新版本:  5.46.1\n更新时间:  2019-08-12 12:11:37 (北京时间)\n\n手机投稿自定义贴纸支持裁剪，完美遮挡不翻车"
+    },
+    {
+      "name":"执剑之刻",
+      "url":"get/?url=amWONyXKdvovtw61umzrutYefvnTgBYW0qkvLs0CgvkftvvP0qOrLs1KuvkbtvvPeERrLs1CgvkftvvP0mfvLs1CgvkjtvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=WnPLvnm1gt1ivBzvJBT9wn",
+      "num":"游戏",
+      "description":"最新版本:  1.0.1\n更新时间:  2019-08-09 10:31:08 (北京时间)\n\n更新内容：\n1、优化用户体验"
+    },
+    {
+      "name":"QQ阅读-看小说大全的电子书阅读神器",
+      "url":"get/?url=0tuubLDwndu0uLAortqQ50mNrKtRXMmmrtrvPunRrLsXuvvkzeBuPumfvLsZuvvknKsvP0rgvLs0uvvkfZzuPenRrLs1uvvkjtrvPunjvLsWuvvkD3AuPurgvLsXuvvkftsvPemRrLsZuvvkbZzuPKqSrLsZuvvkrtrvPumNrLsXuvvkntrvPemfvLsXuvvkbtsvP0rgvLs0uvvkDeAuP0DjvLsXuvvkneAuPerSrLsZuvvkrxsRffBzvvuSDgvsXwve9eBNr1tSTgvsXwrynMDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=WBTPvnLDLn1CtllzJrPPLnT1gt1eLmHvtmtvtnffxn182vzvJBtfwnW0Ys2a1qIvdt5vtn0n3nY9gwj1gCizvv",
+      "num":"图书",
+      "description":"最新版本:  7.0.70\n更新时间:  2019-07-31 16:43:56 (北京时间)\n\n【更新内容】\n1、优化听书性能，听书更顺畅\n2、问题内容一键举报，方便更安心\n\n【热门书籍】\n《长安十二时辰》：文字鬼才马伯庸作品，同名电视剧雷佳音、易烊千玺主演。盛世长安，杀机暗藏。 《蜜汁炖鱿鱼》：杨紫、李现主演《亲爱的，热爱的》原著，看“童言夫妇”撒巨糖。 《九州·缥缈录》：铁甲依然在。江南幻想史诗巨著，刘昊然、宋祖儿主演同名电视剧。 《时间都知道》：所有的回去与归来，都是为了与爱重逢。同名电视剧唐嫣、窦骁、杨烁主演。 《九星毒奶》：一名稀有的医疗系觉醒者，变成了众人眼中的剧毒，这一切故事都从一个巴掌开始…… 《药门仙医》：凤炅最新古言作品，一个是堂堂药门至尊，一个是世家传承少主，一朝易魂重生，风起云涌。 漫画《师父又掉线了》：漫画改编自同名小说， 路痴少女沈萤遇到剑修羿清，加上富可敌国牛爸爸的三人行。 这是一个正直温柔徒弟与逗逼强者师父画风不同的搞笑修仙故事。"
+    },
+    {
+      "name":"狂野飙车9: 竞速传奇",
+      "url":"get/?url=0tuubLDwndu00erpnZy61emnrKt4f1vHz3ye9eBvrvuSvfvsXwquffBnTwuSffvsXwwv9eBbr0tSTgvsXwvv9eBjvvuSngvsXgmt9KmfvLsfPuvkrtvvPunRrLs6vuvkvtvvPKrOrLsZCgvkvtvvPuENrLsdHgvkntvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=iDvy1CwEmvJzdLLnLvNn1C2Bu9uBYWKnA9uy28uzzzZq1rtn",
+      "num":"游戏",
+      "description":"最新版本:  1.3.7\n更新时间:  2019-08-08 15:00:00 (北京时间)\n\n正版Gameloft 官方授权，2019暑期登陆国服，全新版本，传奇归来！发动引擎，加入全世界最优秀，最无畏的街头车手职业圈，再次成为下一代的狂野飙车传奇。\n\n《狂野飙车9：竞速传奇》中为您准备了大量的真实顶尖超跑，如Ferrari、Porsche、Lamborghini和W Motors等。您可以自由挑选所需的梦幻飞车驶过风景壮美的地点，与来自全国的速度怪兽一较高下。在高速道路上狂飙，超越极限，成为赛道传奇吧！"
+    },
+    {
+      "name":"葫芦娃-王祖蓝代言●正版授权手游●年度重磅更新",
+      "url":"get/?url=adm6jwm5qLt0ufvpntre9enbrvtRXMmmDxsvPKmRrLsYuvvkbtsvP0qSrLsYuvvkfZzuPKEfvLsZuvvkveAuP0mNrLs1uvvkjtrvPKqkvLsXuvvkbtsvPunjvLsXuvvkr3zQffBNPwuSLfvsXwsf9eBRr0tSLfvsXwte9eBrv1tSLfvsX2ze9eBvv0tSLfvsX2ze9eBRr0tSngvsXwtuffBrvvuSLfvsXgmd1envn0tcz1qpzKv51KqwLwudz1qozKvdjvnvLxt1u1qpzKvP5unvnLtczvEozKvPffnvnLu0uvEozKvtXKENrLs0uuvkftvvPKmfvLscHgvkrtvvP0qgvLs4TgvkrtvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=0tpbn3vH9eDIfwzOPwzLPgsTvhC2C1t0vZvTOgwl9uD0ewlPPuyTCgzH9uApf2tPPuzT8gDH1IAyT0tN9wAT82ntvMBuLwDSXwzTK2tLvgteLwy10wCjzJChPKn",
+      "num":"游戏",
+      "description":"最新版本:  4.0.0\n更新时间:  2019-08-12 11:26:50 (北京时间)\n\n1、新增武装&器灵觉醒；\n2、活动优化；\n3、网络环境优化；"
+    },
+    {
+      "name":"圣斗士星矢（腾讯）",
+      "url":"get/?url=0tpb5uo4CfzFLeroL3zQ1enbr1t3verAbxoPjLqwnLucz1qpzKvtj1qwnLt0u1qpzKvtXuEfvLshXgvkntvvP0rSrLs0SgvkjtvvP0qgvLs6vuvkftvvP0mRrLsYSgvkjtvvPKEfvLseXgvkftvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=kL3n3yNnlztlxLKnjL3n3Kwl1uJzPbxnY9uy1GvyWvJA5Pvn",
+      "num":"游戏",
+      "description":"最新版本:  1.6.34.1\n更新时间:  2019-08-01 09:59:38 (北京时间)\n\n【重要更新】\n1、全新圣衣系统上线，玩家可以选择不同斗士的圣衣图鉴进行圣衣部件的修复，修复后可以激活对应的圣衣部件，完成该斗士全部圣衣部件的激活后，可以前往圣衣技能页面觉醒该斗士的新技能；圣衣材料可以通过开启“圣衣材料箱”获得，也可以分解不需要的圣衣材料获得山铜粉尘，在“圣衣材料商店”中兑换所需要的材料。\n本次开放圣衣系统的斗士为：天蝎座·米罗、摩羯座·修罗、水瓶座·卡妙、处女座·沙加、地狱犬座·丹迪、美人鱼·狄蒂丝及英仙座·亚鲁歌路；\n2、全新主线/番外剧情第29卷“死界蝴蝶！妖精之卷”上线（39级以上玩家可参与），身为反叛者的撒加等人的小宇宙突然从圣域中消失了，而冥王哈迪斯的正规冥斗士已经深入圣域！被称为死界蝴蝶的地妖星缪将穆死死困住在巨蟹宫，而被称为蚯蚓的地伏星莱密也将守卫狮子宫的艾欧里亚紧紧束缚…面对人数众多，实力强劲的冥斗士，黄金圣斗士们为守护脚下的圣域在黑暗中苦苦战斗着…\n3、炸裂！周年庆典！周年庆典赢实物手机大奖、1周年狂欢送史昂限定皮肤、历史消费回赠等精彩纷呈的周年庆主题活动将于8月1日陆续开启！\n4、活动期间，在生日许愿池进行许愿必得S卡！快来参加吧！\n\n【系统优化】\n1、为迎接周年庆的到来，周年庆相关主题loading图、大厅界面、登录界面即将在更新后降临圣域！\n2、新增8个Q版表情，玩家可以在世界聊天频道使用，部分可以在组队战斗中使用！\n3、优化日常活动中的泰坦、遗迹、次元副本任务次数统计逻辑，使用双倍和4倍次数攻打以上副本将会按照双倍和4倍进行统计；\n4、军团副本开战倒计时由3秒调整为40秒，大家有充足的时间备战啦!\n5、优化战斗重开逻辑，斗士传说、封印魔星塔的副本战斗失败后可以直接重新开启，不用退出再进入啦！"
+    },
+    {
+      "name":"征途-三国版",
+      "url":"get/?url=0tpb5uo4CfzFDMEnnZz610DRr0t3verAbxod9envn1t0uvEozKvdj1qwLwu1u1uozKvt9envn0tdz1qozKvtXemRrLs3DgvkvtvvPeENrLsgPuvkftvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=90tqPPuzLzNyxvwA0mvzmv1qzzJq2iwn",
+      "num":"游戏",
+      "description":"最新版本:  2.1.0.0\n更新时间:  2019-07-26 07:56:51 (北京时间)\n\n1、征途战令开启\n2、大盟区boss，竞技无缝跨服\n3、神位战开启，神王虚位以待\n4、日常焕新，激情pk爽不停\n5、天马转生，元神突破能力暴涨\n6、图鉴飞升开启 战力2.0时代来临\n\n【国战领军之作，万人同屏激战】\n十三年底蕴，经典国战缔造者！传承“征途”的经典，引领新时代国战潮流！万人同屏，激情对战！丰富战术，燃烧热血！更多玩法，交互升级！你不是一个人在战斗，既好看又好玩的极致国战体验触手可及！\n \n【图鉴飞升开启 战力2.0时代来临】\n全新图鉴飞升功能，多款图鉴飞升进阶，全新外形脱颖而出，光环特效将立刻让你成为全场焦点。成吨战力加持，助战勇士征途战力2.0时代。\n \n【全新地图战神大陆，大盟区玩法无界竞技】\n全新地图战神大陆，大盟区竞技战场，跨服竞技，拓征战疆域！\n \n【大盟区boss，血拼珍稀奖励】\n神秘boss占据战神大陆，守卫数不清的稀世宝藏，盟区勇士集结讨伐，征战收获战利品！ \n\n【家族擂台赛，角逐最强家族】\n全新战争玩法，家族擂台赛，跨服匹配，非对称对抗，力战不休选拔出最强家族！ \n \n【神位战开启，神王虚位以待】\n全新战场开启的全新战斗，激爽pk，神卫军团，所向披靡，角逐战神之位！ \n \n【助力跨服远征，免费装备兑换】\n为了迎接跨服远征，开启免费装备兑换活动！\n \n【跨服国战驰骋疆场，犯我同胞者虽远必诛】\n翻云覆雨，指点江山！磅礴国战热血加码，万人同屏驰骋疆场，英雄豪杰同服竞技，一决雌雄！这是一场关乎国家荣誉的实力对话，这是一场举世瞩目的福利争夺战！金戈铁马，谁主沉浮？数风流人物还看今朝！"
+    },
+    {
+      "name":"得到-知识就在得到",
+      "url":"get/?url=0tpb5uo4CfzF1evnbttQ1KEzrvt3verAbxod10qwn0t0u1uozKv55unvnLudz1uozKvd9KqwLxu1u1uozKvt10qwnutdz1uozKvP5envLMucz1qpzKvt5KqwLMu1uvEozKvtX0DjvLs0CgvkftvvP0mRrLsgPuvkftvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=90tqZL0vTWwlx9uCJDvzZD3v1HMDPvgCMvwzmDxAzvdw2iwn",
+      "num":"图书",
+      "description":"最新版本:  7.0.0\n更新时间:  2019-08-13 09:59:46 (北京时间)\n\n【每天听本书】\n每天听本书限免功能上线，现在每位非听书VIP用户，都可以任选7本听书免费听完整版，快去挑选你喜欢的书，如果你听完受益匪浅就分享给好友一起听吧！\n【电子书书】\n1. 电子书支持离线下载，任何环境都能看看喜欢书。\n2. “最近试读”改为“最近阅读”，你读过的电子书都可以在这里找到。\n【讲座】\n讲座支持视频小窗播放，点击左上角的收起，就可以小窗播放啦，快去试试吧！\n【Apple Watch】\n在Apple Watch上播放时支持显示播放器，更加便捷调整收听进度。"
+    },
+    {
+      "name":"实况足球",
+      "url":"get/?url=amWONyXKdvnLxrQ50mJPNtW0evnTgBYWKENrLs3TgvkntvvPKEjvLsYKuvkrtvvPumjvLsYCgvkftvvPKrSrLsgzuvkftvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=ardvtn6fgt2etyzvtz2ewn",
+      "num":"游戏",
+      "description":"最新版本:  3.3.0\n更新时间:  2019-07-16 09:51:44 (北京时间)\n\n1、周年庆活动——7月19日拉开序幕，包括庆典赞助商、登陆充值馈赠、免费经纪人等10多个庆典活动将陆续开启。\n   2、绿茵赛——自由创建房间组织比赛；定期开放全服绿茵赛活动。\n   3、赛季声望——扩充赛季声望等级，可获得《实况足球》纪念周边；优化赛季声望界面。\n   4、球员训练优化——优化球员升级、技巧训练、位置训练界面。\n   5、玩家改名——可定期对玩家名称进行修改。\n   6、部分球员、教练数据进行了调整，新增了球员和教练。"
+    },
+    {
+      "name":"放置奇兵 -全球同服放置类游戏",
+      "url":"get/?url=0tpb5uo4CfzFvfvnvtrQ5emnrLt4verAbxoPjfnvn0t0uvAozKvd90qwn0tdzvAozKvPf1qwnvtdzvEozKvtjLqwnKudzvEozKvtj1qwnKt1uvAozKvdjfnvLxu1uvAozKv5ffnvnut1u1uozKv51envnut1uvEozKvd9KqwnLt0u1uozKvtXumjvLsXCgvkftvvP0mNrLsXuuvkftvvPKrgvLsfPuvkntvvPKrkvLsWSgvkjtvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=0dojLwBQXuDTzNyZ52nHzNB3WeBTntsU1MEjTgBqL0AUPwyOX2mdLumxLvniDvy1uNm3utltbxn",
+      "num":"游戏",
+      "description":"最新版本:  1.23.0\n更新时间:  2019-08-08 10:37:10 (北京时间)\n\n1. 新的深渊刺客：娜克娅登场。\n2. 新魔兽：凤凰上线。\n3. 新加公会科技：当目前的公会技能满级之后，可开启进阶的公会技能，详情请在公会科技界面查看。\n4. 游戏性优化和BUG修复。"
+    },
+    {
+      "name":"Boss直聘-招聘求职找工作神器",
+      "url":"get/?url=90tqoLdoxr2xnPMt1efvnP3ye9enrDvy2DgvrX2Au9eBvrLuSvvvpXwvuffBJrLuS1uvpXwuRffBrrLuSvfvrX2yQffBvrLuSv1ArX2Ae9eBzrLuS1urpXwre9eBNrLuSLerpXwrQffBzrLuSDgvpXwre9eBNrLuSLuvpXwsf9eBzrLuSbZqpvtvt1envn0tgz1qonKvPfvnvLNtgzvEJPxoTLLDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qpNfwBSDJwW5MEAz3AyzdDSDJyP1MEzD2BmL1CTPMwN9MD1KwBZmuBcL2t0jwzTmME50wu",
+      "num":"商务",
+      "description":"最新版本:  7.070\n更新时间:  2019-07-26 09:20:02 (北京时间)\n\n夏天太热，不想出门找工作？\n海投简历太累，何必浪费时间！\nBOSS直聘，海量高薪工作等你聊~\n\n本次更新：\n【对招聘者】\n1.优化了招聘数据中心的显示内容，更多信息可直接查看；\n2.迭代了分享页面的UI设计，分享页信息展示更加清晰；\n3.新增了“离开公司”功能，Boss离职后可主动脱离原公司；\n【对求职者】\n1.优化了求职者在线简历的填写功能和展示效果，使用更顺畅。\n\n持续迭代，让求职招聘更畅快！"
+    },
+    {
+      "name":"人生若只如初见-古风换装手游",
+      "url":"get/?url=0tpb5uo4CfzFverpnZye5KEbPNtWuerAbxod90qwn0tdzvAozKvPffnvn1t0uvAozKvt5envLxtcz1qpzKvP1KqwnKu0uvAozKvtjfnvLxtcz1upzKvd5KqwLMu0u1uozKvtXeENrLsZuuvkrtvvPurSrLs0CgvkftvvPuENrLsYuuvkftvvPKqgvLshHgvkftvvPumfvLsdHgvkrtvvP0rSrLsWSgvkntvvPKqkvLscPuvkbtvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=0tpbvhnH1sAkfwzOPwA19MtHvNAQ12tWb1vLXKqLTKnKLww1muyHvtCTKvnSvxs2y2u1uJnXXun",
+      "num":"游戏",
+      "description":"最新版本:  1.0\n更新时间:  2019-08-10 17:39:42 (北京时间)\n\n"
+    },
+    {
+      "name":"奇迹暖暖",
+      "url":"get/?url=qprrfu2z1mqPxvQ1uEjrut0ufvpTgBYWKmRrLscXgvkjtvvPKmRrLscXgvkjtvvPunjvLshPuvkrtvvP0mNrLsXuuvkftvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=WvXbxnxfhC1utlmzdsxfwn",
+      "num":"游戏",
+      "description":"最新版本:  6.6.1\n更新时间:  2019-07-24 15:12:05 (北京时间)\n\n1.主线剧情更新，揭开奇迹大陆被遗忘的历史。\n2.献给真王的颂歌—绝美套装“图兰斯传说”永久上架。\n3.小屋愿之庭上架全新长期阁，精美家具等你收集。\n4.bug修复，优化玩家游戏体验。"
+    },
+    {
+      "name":"宫廷计手游",
+      "url":"get/?url=amWONyXKdrojtwQ5enzPxtW0evnTgBYWenjvLs0KuvkjtvvP0qOrLs1CgvkjtvvPeEfvLsgzuvkrtvvP0mjvLsdPuvkftvvP0qgvLsgzuvkftvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qtAYvdtT9wnOzZs2mtDIvJC2ewn",
+      "num":"游戏",
+      "description":"最新版本:  1.2.7\n更新时间:  2019-07-08 17:42:48 (北京时间)\n\n1.新增宠物孵化功能 \n2.新增宠物助阵功能 \n3.限时玩法奖励调整优化 \n4.每日福利调整优化 \n5.皇子二期玩法拓展新增皇子升学以及皇子社团 \n6.新增江山画卷跨服组队机制 \n7.新增橙色随从李清照 \n8.新增宠物升级功能 \n9.新增宠物突破功能 \n10.答题大会，心有灵犀，百花演武，天灯祈福奖励优化"
+    },
+    {
+      "name":"部落冲突:皇室战争(Clash Royale)",
+      "url":"get/?url=9efvqzNvZafnbPxt5vernPxve1eErDvy2v1rIHgBZiwEXmuy6z0rIPwmt9envnvudz1qozKvd9unvn0t0uvAozKvd5KqwnLucz1uozKv55envnvu1uvEozKvtXeENrLsczuvkntvvPuEjvLsYCgvkftvvPurkvLs3TgvkrtvvPenfvLs6DgvkvtvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=aCvDKyOX2mInLqdfMEgDKyeH2uPzZup1wsH9eC1DvlOfwz19KqXztn5fww1KZqkzZBpLLn",
+      "num":"游戏",
+      "description":"最新版本:  2.9.0\n更新时间:  2019-08-01 18:29:16 (北京时间)\n\n小问题修复和游戏优化\n隆重推出：皇室令牌！\n\n• 获取皇室令牌，赢取专属皇家塔皮肤、表情、特权，还有更多奖励等着您！\n• 特权包括：自动解锁宝箱、参加特别挑战活动不限次数，还有更多特权等您解锁！\n• 主题季火热登场！每一季都将推出新的全球主题活动，刺激又好玩，一起嗨翻天！\n• 每个主题季都有新的皇室令牌奖励。皇家塔皮肤、卡牌、宝箱，还有更多惊喜哦！\n• 全新传奇卡：渔夫！带上这位“船奇”渔夫，与敌人来一场精彩的搏斗吧！"
+    },
+    {
+      "name":"风之大陆",
+      "url":"get/?url=amWONyXKdrojtvu5KmnPMt41evnTgBYWKmNrLs1SgvkvtvvP0mfvLsWuuvkftvvP0qOrLs1KuvkbtvvPKrOrLs6vuvkvtvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=WrTPLnUnvy1WuBmvZtpfMn",
+      "num":"游戏",
+      "description":"最新版本:  1.53.0\n更新时间:  2019-08-12 10:31:40 (北京时间)\n\n【内容更新】\n1.周年庆典烟花盛会燃情绽放中！一起来圣城欣赏美丽的烟花夜景吧~\n2.缤纷庆典礼盒开启制作！通关龙之秘宝、捉虫总动员，收集礼盒制作材料，赠送好友即可获得双份奖励！\n\n【内容调整】\n1.修复冒险通行证历练值获取异常的问题；\n2.修复夜晚模式下建筑显示异常的问题；\n3.修复守护排行榜进化守护评分显示异常的问题； \n4.修复守护进化喂养料理时，概率出现料理消耗异常的问题； \n5.修复批量分解战纹时，勾选概率出现异常的问题； \n6.修复龙之秘宝玩法中掉落符文图标概率出现显示异常的问题。"
+    },
+    {
+      "name":"《炉石传说》",
+      "url":"get/?url=qprrfu2z1mqPxwe10Drrvt4ffrpTgBYWemjvLshzuvkrtvvP0DfvLsePuvkbtvvPKEjvLshXgvkntvvPunNrLs5DgvkntvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=mnen0atllzZz5Xun61sn1O0s0uZsdrdn",
+      "num":"游戏",
+      "description":"最新版本:  15.0.32826\n更新时间:  2019-08-02 04:01:30 (北京时间)\n\n“奥丹姆奇兵”将于8月7日正式上线——探险者协会再度归来！和雷诺、伊莉斯、布莱恩还有芬利一起携手，对抗邪恶的怪盗军团！\n \n135张全新卡牌——快来《炉石传说》最新扩展包里发现神秘且魔幻的全新卡牌吧。\n\n新关键词和新机制——本次扩展包引入了复生、灾祸、任务牌等内容，用135张全新卡牌去制霸奥丹姆的无尽沙漠吧！\n\n欲了解更详细的补丁说明请访问9.163.com"
+    },
+    {
+      "name":"剑与家园：龙牙远征",
+      "url":"get/?url=0tpb5uo4CfzFvLEnftue5unfPxt4verAbxot1envnLudz1uozKv5fvnvLMudz1qpzKvt9unvn1t0uvEozKvt9unvnLudz1upzKvtXurgvLsdXgvkftvvPKmjvLsgzuvkftvvPKrOrLs0KuvkbtvvPeERrLs1CgvkftvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=czJy1mwlmzJwTrtnAzJy2ewE3CdD1PvnYyty18uAmvJuTLvn",
+      "num":"游戏",
+      "description":"最新版本:  1.21.16\n更新时间:  2019-08-13 10:11:52 (北京时间)\n\n亲爱的领主大大，在本次更新中，平衡性调整和反击相关优化和为领主提供更好的作战体验，快来下载吧！\n\n新版本主要内容：\n1、平衡性调整\n2、反击相关优化\n3、秘境寻宝相关优化\n4、其它优化与调整"
+    },
+    {
+      "name":"起点读书-正版小说漫画阅读中文网",
+      "url":"get/?url=amWONyXKJAovZye50mfrKt6vfrAbxot1unvnKudzvEozKv55envLMt1uvAozKvdjLqwn0tdz1qozKvPf1qwLMucz1qpzKvt5envn0t1u1upzKvPf1qwnKt1uvEozKvPfLqwLxudzvAozKvd50qwLMucz1qpzKvPjfnvnutdz1uozKvd9envn1t0uvEozKv51KqwnKuczvAozKvtXKmfvLs1KuvkbtvvP0qkvLshzuvkrtvvPunjvLs5DgvkntvvP0mjvLsXKuvkrtvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qp9e1A5uwlODvyLjhnt1sD2LwzOLvBTuxvL1sC4e2t0zxATO2Dx9uAkvwlVrxyLXuBTXun30Ys2uZs0uZmxXKn",
+      "num":"图书",
+      "description":"最新版本:  5.9.3\n更新时间:  2019-07-18 10:29:41 (北京时间)\n\n【签到奖励】看视频连续7天领礼包，赚点币的机会越来越多！\n【BUG】修复部分已知问题。"
+    },
+    {
+      "name":"梦幻家园 (Homescapes)",
+      "url":"get/?url=0tuubLDwndu0SgvoHxsQ5umRrvt4f1vHzxtyP1Dgjtw6z1vIzhAxXurgvLsdXgvkftvvPKmjvLsgzuvkftvvP0qkvLs1KuvkftvvPKmfvLs5vuvkjtvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=90tulPNvhngAojZySfJmILeAdLeD1PvnYyty1CtBIvtBlfxn",
+      "num":"游戏",
+      "description":"最新版本:  2.8.0\n更新时间:  2019-07-15 17:02:31 (北京时间)\n\n梦幻家园即将推出夏季更新！\n \n结婚纪念日\n• 八月上旬将进行一项精彩活动——为奥利维亚和威廉筹备一次难忘的典礼！\n• 通过关卡，获得贴纸。用贴纸换取结婚纪念日的花园装饰！\n• 集齐所有装饰物，即可获得免费的婚礼马车，以及一款新头像！\n \n故事情节更新\n• 客房迎来第一批客人！欢迎罗比和他可爱的小女儿寇伊！\n• 为孩子们建造绳网乐园和森林学校！\n• 帮助朋友们支帐篷，用篝火做晚餐！\n \n三消游戏更新\n• 花盆！种植所有花朵，将花盆从场地中移除。"
+    },
+    {
+      "name":"珍爱网-成就天下姻缘",
+      "url":"get/?url=amWONyXKdvpH3zQ5emNrLtZufrAbxod9unvLxudzvEozKvPf1qwLNtcz1uozKvPffnvn0tdz1qozKvt9KqwnKtcz1uozKvt10qwnutdz1uozKvd1unvn0t0uvAozKvtXeERrLsfPuvkntvvPeEjvLs0CgvkntvvPurOrLshHgvkntvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qp9euB4uwl152vTKgntvwCRDvzZD3vpTwsHvgtsjZn1GxA0uJtTqtn",
+      "num":"社交",
+      "description":"最新版本:  6.18.0\n更新时间:  2019-08-05 09:49:20 (北京时间)\n\n【动态】小组功能上线，帮你发现志趣相投的人。读书、电影、摄影、健身、厨艺等小组，总有一款适合你。\n更多体验优化，等你来发现~"
+    },
+    {
+      "name":"斗罗大陆-新斗罗大陆",
+      "url":"get/?url=0tpb5uo4CfzF1evpDxwQ50Dbrut6verAbxoP5envn1t1u1upzKv55KqwnKtcz1uozKv55unvnKudzvEozKv55unvLMt1uvAozKvd10qwLMt1uvAozKvtXKmNrLs1SgvkvtvvP0mfvLsWuuvkftvvP0mRrLsfPuvkntvvP0mRrLsYSgvkjtvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qp9CgAA1wlWT2vTWwoL1cBxf2tZDvyLX0rTPLnUnvy1GLm3udwHbxn",
+      "num":"游戏",
+      "description":"最新版本:  1.4.2\n更新时间:  2019-08-09 13:15:03 (北京时间)\n\n1、新系统-我要变强：我要变强会根据魂师大人战队不同功能的养成程度进行评价，功能评价共6档：独步天下、超凡绝伦、出类拔萃、锋芒初露、平平无奇、急需提升；养成程度越高，评价越好噢~每个功能可点击加强按钮快速前往，方便魂师大人加强该功能哦~\n2、月卡&至尊月卡特权全面升级：为了让购买月卡的魂师大人获得更多福利，我们对两类月卡新增了各类特权哦！同时激活双月卡更有专属称号以及对应属性加成哦~心动不如行动哦~\n3、全新永久活动-首次累充：全新形式永久活动-首次累充闪亮登场！最高可获得S魂师觉醒武器8选1哦~本次更新后，该活动会全服同步~（PS：历史充值额度满足档位条件的玩家可直接领取对应奖励哦~）\n4、金属商店新增S暗器：新增阎王帖碎片，大家有更多选择了哦~\n5、魂灵战力优化：我们优化了魂灵战力的计算公式，此次更新后，大家可以看到自己战队战力再次突飞猛进了一截哦~\n6、冰火两仪眼一键投掷：冰火两仪眼新增一键投掷骰子的功能，帮助大家减负！大家可以点击“一键投掷”按钮，根据自身需求进行相关功能的设置哦~\n7、一键强化装备：为了让大家可以更加酣畅淋漓的强化装备，我们新增一键强化装备的功能，战队等级≥30级或VIP等级≥4可开启该功能哦~\n8、索托斗魂场自动战斗：大家可以在索托斗魂场中进行自动战斗了哦~排名先于自己的对手可以点击“自动战斗”按钮进行快速战斗，减负妥妥的！\n9、新服活动调整：开服首周的各类活动奖励更丰富哦~\n10、普通/精英副本新增关卡：新增56~60章副本关卡。\n11、宗门武魂争霸匹配优化：本次更新后，宗门武魂争霸匹配会更加合理，让大家更易匹配到实力接近的宗门，战斗更加公平~除此之外，每月新赛季开启时，段位继承平均会提升3个小段位，最高继承段位由之前的黄金3提升为白金5哦~\n12、副本章节场景和魂兽入侵界面优化\n13、优化魂灵战斗中大招光效：加强了战斗中魂灵大招准备完毕时的显示光效，更加醒目，让大家知晓此时魂灵大招已蓄势待发咯！"
+    },
+    {
+      "name":"征途2",
+      "url":"get/?url=0tpb5uo4CfzFLevnLxuu1uERrKt5verAbxoP1emRrLs3DgvkvtvvPeENrLsgPuvkftvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=90Zznv1qzzJq2iwn",
+      "num":"游戏",
+      "description":"最新版本:  1.0.1\n更新时间:  2019-07-09 15:54:13 (北京时间)\n\n最新功能\n一、【坐骑光环】坐骑未出战也可以选择使用对应的坐骑光环效果\n二、【回城】回城可以清除原地次数费用\n三、【复活魂石】\n⑴、复活魂石由每天使用20次修改为每次战斗3次使用上限，安全复活后重置使用次数\n⑵、功勋兑换中增加复活魂石的兑换，每天限购15个 \n四、【魂魄石】增加魂魄石批量分解功能\n五、【珍宝岛商店】珍宝岛商店增加流云强化图谱兑换\n六、【法宝】增加自动洗炼功能"
+    },
+    {
+      "name":"球球大作战",
+      "url":"get/?url=qprrfu2z1mqntru1unbrLtYSgvpTgBYWenRrLs0CgvkjtvvPerSrLsfPuvkbtvvP0mfvLsWuuvkftvvPKENrLs3TgvkntvvPKENrLs3TgvkntvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=KvAVvZyYWunUnvy1q0q1udrdvtn",
+      "num":"游戏",
+      "description":"最新版本:  11.2.0\n更新时间:  2019-07-28 22:23:06 (北京时间)\n\n1、8.3球宝日活动中心震撼上线，十大惊喜等你揭晓。\n2、版本优化，让你8.3畅快嗨。\n（1）猎魔优化：奇妙据点、行星传送门玩法显示更清晰。新增一键隐藏头像，热闹、清爽自由选择。\n（2）天梯锦标赛优化：观战频道可筛选，围观大神更方便。\n（3）匹配界面优化：界面更清晰，美洲地区玩家的位置能正确显示了。\n（4）动画优化：修复开启奇妙宝箱时界面偶尔会错位的问题。\n（5）其他优化。\n \n【球球大作战四周年全新版本回顾】\n黑洞军团卷土重来，誓要破坏波拉哩所有的创意作品，波拉哩创意之光岌岌可危，魔王再临，集结刻不容缓！\n1、猎魔2.0：\n（1）可以突破地域限制邀请好友，一起猎魔！寻找隐藏BOSS，全新圣衣、超多奖励等你来战！\n（2）挑战奇妙据点，夺回我们的创意作品。努力成为据点王，你的头像和最高分将在猎魔地图上闪耀！\n（3）行星传送门开启，新增小行星趣味冒险，随时间增加初始体重，给你后期无限可能；巨行星冒险也会在此等你来挑战！\n2、天梯锦标赛降临：战队赛和单人匹配多重选择，感受高水平竞技的快乐，快来开启属于你的荣耀之路！\n3、球宝集结令：邀请好友回归或召集新朋友和自己绑定，一起完成暑期挑战即可获得全新手绘风孢子、球宝创意皮肤、经典重塑皮肤、稀有圣衣材料等大量奖励！\n4、全新的奇妙宝箱新增多个种类，等你来发现！\n5、奇迹阁神秘登场，重复皮肤可用于合成为神秘宝藏，段位越高解锁的宝藏越丰富，拼实力的时刻到了！\n6、一些优化：\n（1）匹配界面样式优化。\n（2）安全最重要，二级密码权限提升：删除“我的照片”、星际大奖赛奖金兑换金蘑菇、开启星际宝箱时需要验证二级密码。\n（3）修复留言板无法删除留言的bug。\n（4）修复大奖赛匹配界面资源加载的bug。\n（5）其他优化。"
+    },
+    {
+      "name":"疯狂原始人-正版3D回合手游",
+      "url":"get/?url=adm6jwm5qLtYKernbtqQ5umnrvtRXMmmrtsvPenjvLsYuvvkneAuPunNrLsYuvvkrZzuP0DRrLsXuvvkzeBuP0qSrLsXuvvkTMte9envn1t0uvEozKv51KqwnKuczvAozKvtXKqkvLscPuvkbtvvP0qOrLsZuuvkftvvP0rSrLsgHgvkftvvPuENrLsdHgvkntvvP0rgvLsYSgvkntvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=0KMC1WuBVvtsdPvnLvNw1uKteLMsL1YB0fwzmztCmvdtLfwnMztw1muD0uJDHvtn",
+      "num":"游戏",
+      "description":"最新版本:  1.3.0\n更新时间:  2019-06-04 08:08:45 (北京时间)\n\n【新增】\n1、新增iOS专属端午节特惠礼包\n2、宠物觉醒七星进化与对应技能，强化战斗中宠物的使用策略性    \n3、跨服角斗场--单人跨服PK积分赛    \n4、新增“大地之主”组队Boss挑战，极高的战斗要求，挑战极强的追求    \n5、新增端午节儿童节活动\n6、新增钓鱼玩法    \n\n【优化】    \n1、优化成就系统，奖励更丰富\n2、优化UI界面    \n3、优化挖宝系统，增加概率BOSS"
+    },
+    {
+      "name":"轩辕传奇",
+      "url":"get/?url=amWONyXKdvovtru9enNPNtZuevnTgBYW0mNrLsXuuvkftvvP0DfvLsePuvkbtvvPumRrLsgPuvkrtvvPunfvLsfPuvkrtvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=asxfwnNLht1yLnmzdCYWKn",
+      "num":"游戏",
+      "description":"最新版本:  1.0.885.8\n更新时间:  2019-07-03 23:59:18 (北京时间)\n\n一、天赋降临--职业重塑，全新PK乐趣；\n二、转世飞升--突破极限，等级重生体验；\n三、遗民战境--速通挑战，全方位神体战斗技巧锤炼；\n四、天外山海王城战--天外山海期间，全新城战玩法，轩辕城主，虚位以待；\n五、开放观战系统--可通过点击观战按钮，查看正在进行的赛事，城战和部分副本，并进入观战；\n六、四象神灵--天命者飞升之后，可使用上古四象神灵获得强大战力，血战山海，问鼎轩辕；"
+    },
+    {
+      "name":"自由幻想",
+      "url":"get/?url=amWONyXKdvpPxve5KmJrKtX0evnTgBYWKEjvLs6DgvkjtvvP0qkvLs1KuvkftvvPeEjvLsWSgvkntvvPKqgvLsZCgvkrtvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=GEp9wn30My1G3u1utCLLKn",
+      "num":"游戏",
+      "description":"最新版本:  1.2.18\n更新时间:  2019-07-03 02:55:36 (北京时间)\n\n我们一岁啦，周年狂欢季，感谢有你！\n【最新动态】\n1、全服争霸赛激情来袭\n“心怀荣耀，即战无不胜！”，这是全服最高荣耀时刻，澎湃与热血铸就最强战队！\n2、开放新等级、新主线、新地图\n开放等级上限至149级，前世、今生、缘起、缘灭……全新主线等你解锁；喵~欢迎来到猫猫城、游船、热气球，有趣的地图玩法等你来发觉。\n3、周年庆狂欢活动开启\n白驹过隙，“时间的陪伴比什么都珍贵”，谢谢你在这里……"
+    },
+    {
+      "name":"三国杀名将传",
+      "url":"get/?url=amWONyXKdrpLxqe5KmrPMtX0evnTgBYW0DfvLsePuvkbtvvPKmNrLs3LuvkftvvPurOrLs3TgvkftvvP0DNrLsfXgvkjtvvPurkvLsdXgvkftvvPunNrLs0KuvkbtvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=NLht1C0qIvJtdPvnbjdC1KtDAvJsPXun",
+      "num":"游戏",
+      "description":"最新版本:  2.2.2\n更新时间:  2019-08-02 10:23:10 (北京时间)\n\n【金将涅槃】金将震撼降临，再掀三国风云！  \n【神兽升红】沧海青龙升红，神女震撼降临！  \n【神兵升金】神兵继续提升，获得御甲属性！  \n【铁血红鬃】灼烧战马出世，铁血战火重燃！\n\n其他优化：\n1.主线剧情延续，三国经典重现\n2.答题题库扩展，扩充知识储备\n3.界面细节优化 \n4.修复功能bug"
+    },
+    {
+      "name":"塞尔之光",
+      "url":"get/?url=amWONyXKJEnjtvu9emjPNt51evnTgBYWunNrLsXCgvkftvvP0qOrLs1KuvkbtvvPemRrLs3LuvkftvvPKrSrLs4vuvkftvvPKDbH0yOLtAIPwotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=GsxLvnm1gt1u1qIvtzhfwn",
+      "num":"游戏",
+      "description":"最新版本:  1.0.3\n更新时间:  2019-07-19 08:08:41 (北京时间)\n\n【全新内容】 \n1、种子岛 \n高自由度：无拘无束地亲手打造属于你自己的温馨家园； \n多元化玩法：装饰、种植、养殖、农场订单等，满足你对家园的一切幻想； \n2、伴侣系统：终于可以和我最爱的那个TA官宣了，不求往后余生，但求与你相伴！ \n3、“仲夏节”盛大开启，穿上清凉的泳装，放着最美的烟花，和朋友们一起来酷爽一夏吧！ \n4、星灵漫步 \n传说中100%回头率、看一眼就爱上的足迹特效，每一步都是最美的风景！ \n5、全新副本挑战 \n挑战副本新增虫巢1-3； \n星魂魔方新增副本挑战； \n6、40级团本新增简单难度，每位勇士都能拉上三五好友组队开荒10人团本； \n7、全新南瓜战宠，瘦小的身躯究竟藏着怎样惊人的能量呢？ \n8、新增3个橙2魂石，新增“无视防御”属性评分计算，你会追求怎样的属性搭配呢？ \n9、次元空间新增PK机制，最强BOSS花落谁家？实力与策略缺一不可！ \n\n【优化调整】 \n1、优化“我要变强”，能够更简单便捷地了解如何变得更强； \n2、公会新增公会改名功能； \n3、交易所增加罪恶值功能，持续打击非法异常交易； \n4、优化手机发热问题； \n5、优化遗迹夺宝击杀提示与3层BOSS邮件奖励； \n6、优化星魂魔方战斗前重置玩家血量、能量和技能CD； \n7、优化冒险小队功能体验； \n8、优化赏金任务可以自动进行任务； \n9、全新一轮职业平衡性调整； \n10、优化活动玩法时间； \n11、公会任务与公会捐献减少伴生品需求； \n12、优化塔罗挑战刷新数量； \n13、优化团本交互体验； \n14、优化装备进阶与挑战副本开启等级为50级； \n15、战场最大战斗时间由20分钟调整为10分钟。"
+    }
+  ]
+}

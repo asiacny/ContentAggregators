@@ -1,0 +1,606 @@
+{
+  "title":"AppStore收入排行榜(美区)",
+  "time":"2019-08-14 13:23:42",
+  "data":[
+    {
+      "name":"YouTube: Watch, Listen, Stream",
+      "url":"get/?url=qprrfu2z1mqbtwQ50mbrutWefvoTgBYWeDgDLw5j1mJrhnxPfmoHvyZfZqHPMuyL1mXmLwPzfsKftoxvMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=aDgDLw5j1mvD2DPjgBsnZyWHxrjn3zYKfmgjJvN9gvALMvizvm5C1v",
+      "num":"Photo & Video",
+      "description":"最新版本:  14.32\n更新时间:  2019-08-12 07:02:16 (北京时间)\n\nWe added shinier bells and whistles. Because who doesn’t like a good upgrade??"
+    },
+    {
+      "name":"Tinder",
+      "url":"get/?url=9efvqzNvZafErrut5fKEontuu50ASjdt5z1rAvhBhrMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=KNvhPvDSDKv",
+      "num":"Lifestyle",
+      "description":"最新版本:  10.17.0\n更新时间:  2019-07-25 07:03:37 (北京时间)\n\nPesky bugs have been exterminated. Continue as you were."
+    },
+    {
+      "name":"Netflix",
+      "url":"get/?url=WaJEIftou1umbrut1uLEnjttePfC5muzWHxBAbJvTjMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=90tqLbhETPfmw1gv",
+      "num":"Entertainment",
+      "description":"最新版本:  11.46.0\n更新时间:  2019-08-13 00:01:23 (北京时间)\n\nWant to watch Netflix on your phone while dad watches on the TV and grandma watches on her tablet? Live the dream. Just make sure you have the latest update.\n\nWe know you have choices. In this release, we made gallery improvements so it’s easier to find the perfect thing to watch."
+    },
+    {
+      "name":"Pandora: Music & Podcasts",
+      "url":"get/?url=adm6jwm5ONtZuevoPxqe5enjrKwWLtEJbJtyLLAsjJy3ftEzbNtyrgDXmvw5LZrAvNrhnMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=90ZDJbJtyLLAsjJyrjuAkDwtxfMEwHfvN9gvzLxohPvDgDuv",
+      "num":"Music",
+      "description":"最新版本:  1908.1\n更新时间:  2019-08-13 03:22:21 (北京时间)\n\nBug fixes and feature improvements to reduce crashes and improve your overall listening experience."
+    },
+    {
+      "name":"Candy Crush Saga",
+      "url":"get/?url=WaJEIftou1KEJrKt6DMEnftvePfC5mvwUzKmJr3zYmwmkntw0TgsAvNrYKLDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=90tuz5MrYu1zNjZyXO0mrD2AiPvDgjtu",
+      "num":"Games",
+      "description":"最新版本:  1.155.0\n更新时间:  2019-07-11 20:31:06 (北京时间)\n\nWe hope you’re having fun playing Candy Crush Saga! We update the game every week so don't forget to download the latest version to get all the sweet new features and levels!\nNew to the game? Don’t be shy, join the fun!\nComing back after a break? About time!\nLet’s play!"
+    },
+    {
+      "name":"Roblox",
+      "url":"get/?url=9efvqzNvZavEvrvtYefvpHxte50ASjdt0KZrILwoTnMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qtohjwA50wv",
+      "num":"Games",
+      "description":"最新版本:  2.396.327208\n更新时间:  2019-08-13 00:50:51 (北京时间)\n\nBug fixes and performance improvements"
+    },
+    {
+      "name":"Hulu: Watch TV Shows & Movies",
+      "url":"get/?url=qp9eKt5GZvK91z61embrvtXKLEoPxuxfMDnHLwWP1mIrxm5n2m5Cuy6ftAKbtmdfMAsHvwZeZuKnNvifMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qpnHLwWP1mI5KqPP0znndz2HMmvDwwgz1zNjtwWyKmwD2Bur2CwH0u",
+      "num":"Entertainment",
+      "description":"最新版本:  5.54.0\n更新时间:  2019-08-13 04:17:35 (北京时间)\n\nThis summer heat has got us doubling down on pest control. For this release, we squashed a fair amount of bugs that were interfering with our TV time –– so feel free to crank up the A/C and plop down on the couch with your Hulu favorites, sans bugs."
+    },
+    {
+      "name":"Pokémon GO",
+      "url":"get/?url=WaJEIftou5emnrvt1ufrovtqu10ASjdt2r2vmvxoxjwnfvLs61uvkjxohnMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qp4aJuNrJmIrhB2CNC5Cuv",
+      "num":"Games",
+      "description":"最新版本:  1.119.0\n更新时间:  2019-08-09 00:41:35 (北京时间)\n\nBug fixes"
+    },
+    {
+      "name":"Bumble - Meet New People",
+      "url":"get/?url=adm6jwm5ONt3ngvnbtue1KERrKwWLZuAnNqZigBcHftZyvBIrxuyPfBXCftSHxBzrNvULLDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=WgEhnMDwDuvNngwA9KqdrgBwDfvNbZqjXgETLfDw5wu",
+      "num":"Lifestyle",
+      "description":"最新版本:  5.126.0\n更新时间:  2019-08-12 22:50:59 (北京时间)\n\nLet's get real, no one likes bugs. Don't worry, we've fixed them."
+    },
+    {
+      "name":"Toon Blast",
+      "url":"get/?url=0tpb5uo4CfzFLKAnD3yQ10DzPNt4verAbxodrMEgDKyPftAIzxohrMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qp9eez6z0rInKqPjMD5CKv",
+      "num":"Games",
+      "description":"最新版本:  4367\n更新时间:  2019-08-12 16:05:47 (北京时间)\n\nIt's time for a power surging new update!\n\n- PLAY 50 NEW LEVELS! Warning! All systems are critical! Toon activity at unsafe levels detected. Emergency protocols are now active. Proceed to the immediate evacuation of the Blast Power facility!\n\nBe sure to update to the current version of Toon Blast for the newest content. In every 2 weeks, we bring 50 NEW LEVELS! Come and join the fun!"
+    },
+    {
+      "name":"HBO NOW: Stream TV & Movies",
+      "url":"get/?url=9efvqzNvZavEjrKtXKLAnH3yu90ASjdt6z1vHjtoxjgDzHez0bZvzXMsirMEXKhz2vZvmzNshfMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=6z1vHjtoxr1zznusxjLrjrNrxPvEsntvN9MEwbvnfLeukv0u",
+      "num":"Entertainment",
+      "description":"最新版本:  22.0.0\n更新时间:  2019-06-21 01:38:07 (北京时间)\n\nWe redesigned our app; check out the Home, Browse and Profile icons. You can also remotely sign out of one of more devices in Settings  Manage Devices."
+    },
+    {
+      "name":"Homescapes",
+      "url":"get/?url=0tpb5uo4CfzFDgvpftrQ1Kmvr1t4verAbxo5ngBcHvwQ5ewArxohfMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qp9C3ySjewzPMtyPfD5C0u",
+      "num":"Games",
+      "description":"最新版本:  2.8.0\n更新时间:  2019-07-15 17:02:31 (北京时间)\n\nHere comes a summer Homescapes update!\n\nWEDDING ANNIVERSARY\n• Organize an unforgettable day for Olivia and William! Magical event in early August.\n• Get stickers by beating levels and exchange them for thematic garden decorations!\n• Collect all of the decorations to get a wedding carriage and a new profile picture as a gift!\n\nNEW IN STORYLINE\n• First guests to stay at Austin’s house: welcome Robbie and his lovely daughter Chloe!\n• Build an adventure park and a summer school for kids!\n• Help the friends to set up a tent and cook dinner on a campfire!\n\nNEW IN MATCH-3\n• Flowers in Pots! Grow all the Flowers to remove them from the field."
+    },
+    {
+      "name":"Fortnite",
+      "url":"get/?url=qprrfu2z1mqPxve90mvPxt4LLAnHxuxfMDvDezWvZrKLxoTPLDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=9u1rKbxnhrwE50Mu",
+      "num":"Games",
+      "description":"最新版本:  10.00.2\n更新时间:  2019-08-09 05:30:57 (北京时间)\n\nNEW SEASON - Time is Twisted in Season X. Grab the new Battle Pass featuring 100 levels and over 100 new rewards.\n\nB.R.U.T.E. - Few suits make you feel as powerful as a mech suit does. Take control of this new two-person vehicle and crush your enemies in battle. \n\nAUTO-FIRE - We’ve re-tuned Auto-fire for every weapon with this update!"
+    },
+    {
+      "name":"Clash of Clans",
+      "url":"get/?url=90tqoLdoxr2xbr1t4TMEobZAQ1umrDvy21KBIHgEYKfDzjJy0DMmJHgEYKLDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=0ttUjgA4jtuNLLmID2zYmgA4jtu",
+      "num":"Games",
+      "description":"最新版本:  11.651.12\n更新时间:  2019-06-21 02:09:18 (北京时间)\n\nThe summer update is here!\n• Builder Hall 9 has arrived along with Lava Launcher, Hog Glider and the ability to get an additional Builder!\n• Introducing a new more competitive Legend League!\n• New Practice Mode for brushing up on attacking skills, new Home Village content and much more"
+    },
+    {
+      "name":"Golf Clash",
+      "url":"get/?url=0tpb5uo4CfzFvevpHxvQ1uERr0t3verAbxodfMEgDKyQftAAnxoYOLDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qp9euy6z0rIrKqPP1C5iJu",
+      "num":"Games",
+      "description":"最新版本:  2.34.1\n更新时间:  2019-07-04 16:15:57 (北京时间)\n\nWelcome to the latest and greatest version of Golf Clash. In this update you'll find the following improvements:\n- Introducing the brand new Social Hub, your new home for news, announcements and community updates!\n- Golf Clash has never looked so good thanks to our biggest ever graphical update, including new and improved grass textures, wind animations and much more!\n- Even more bug fixes and game improvements!\n\nFor more details please visit the Golf Clash FAQs or the in-game Social Hub."
+    },
+    {
+      "name":"Clash Royale",
+      "url":"get/?url=adm6jwm5q0t31KAnHxq61umbrvtRXMmmXgExLvn502y0DMmJHgEYKLDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=aB4Dvw1KtBvD2zYmgA4jtu",
+      "num":"Games",
+      "description":"最新版本:  2.9.0\n更新时间:  2019-08-01 18:29:16 (北京时间)\n\nVarious minor bug fixes and improvements.\n\nIntroducing... Pass Royale!\n• Earn a unique TOWER SKIN, Emote, perks and rewards with Pass Royale!\n• Perks include automatic chest unlocking, unlimited Special Challenge entries, and more!\n• Seasons are here! Each month brings exciting new global events to Clash Royale!\n• Unlock new Pass Royale rewards each Season. Tower Skins, cards, chests, and more!\n• New Card: Fisherman! Grapple enemies with this new Legendary troop."
+    },
+    {
+      "name":"Slotomania™ Vegas Casino Slots",
+      "url":"get/?url=0tpb5uo4CfzFfLAofttu5umJrKtWe1vHzxtirMD4jZy0HtBIbNtyLLAXK3yOr2vAjtmtLfC1Cvw0LZrKzhEYmMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=0ttirMD4jtvNHtBIbNtyLfrcL3yOr2vADLqP9wrlvwwWvZvzrxohrMD4jtv",
+      "num":"Games",
+      "description":"最新版本:  3.15.2\n更新时间:  2019-08-12 15:01:52 (北京时间)\n\nHi Slotomania Fans!\n\nHere's an update that includes bug fixes\n\nHave fun & good luck!"
+    },
+    {
+      "name":"Game of Thrones: Conquest™",
+      "url":"get/?url=WaJEIftoe1eENPwt4ngvoPxqu10ASjdtW4ewAfJrUjMDoDft6zvBIzNsifgmXKMw2fZuArNrYOLDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qp9C2BfT0tKPNvxrgE1iJyejuApPNvTjMDkHuyvjuAAzNqtPfDgjJu",
+      "num":"Games",
+      "description":"最新版本:  2.8.244810\n更新时间:  2019-08-06 23:41:29 (北京时间)\n\n•Stability enhancements:\n•Bug fixes to the March panel.\n•Fixed an issue with PVE combat.\n•Fixed an issue with the Attack panel."
+    },
+    {
+      "name":"YouTube Music",
+      "url":"get/?url=90tqoLdoxr2xrrLtWKevpbZyu10DfrKwWLtEzbNtyrgDXmLwPzfsKftoxvMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=0tp3LfCoHfzoj0uALMvizvm5C1v",
+      "num":"Music",
+      "description":"最新版本:  3.27.5\n更新时间:  2019-08-06 06:06:01 (北京时间)\n\nWe update our app all the time in order to make your YouTube Music experience better. We polished a few things, fixed bugs, and made some performance improvements."
+    },
+    {
+      "name":"Gardenscapes",
+      "url":"get/?url=adm6jwm5q1t4fevofZzu50DfrvtRXMmmPNvhngAojZy1z1rALNrYOLDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=GEwD0yO5KmJvNvhPvEgjJu",
+      "num":"Games",
+      "description":"最新版本:  3.6.0\n更新时间:  2019-08-05 17:01:38 (北京时间)\n\nA major Gardenscapes update!\n\nTaste of Summer\n- Decorate the garden for summer with the help of new character Mary in the new event in mid-August.\n- Assemble the whole decoration collection to win a summer mansion makeover!\n\nNew adventures in the garden\n- The Gardener contest must go on! Create a season-inspired garden area to show off your gardening skills.\n- Start preparing for a party to celebrate the restoration of the whole garden with your friends!\n- Find out what a new character—the tourist Matthias—is hiding.\n\nAlso\n- Get a great present to celebrate the game's birthday at the end of August!"
+    },
+    {
+      "name":"Candy Crush Soda Saga",
+      "url":"get/?url=0tuubLDwnduXmgrontre50Dvr0tRXMmmHgzxLLEXmvwRLJmJr3zYmwmkntw0TgsAvNrYKLDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=aAKDvwuj0uzTwoYu1zNjZyXO0mrD2AiPvDgjtu",
+      "num":"Games",
+      "description":"最新版本:  1.145.3\n更新时间:  2019-08-07 16:15:33 (北京时间)\n\nWelcome to Candy Crush Soda Saga! We update our game every week with 15 new levels, brimming with Soda and Candy! We’ve also squashed some pesky bugs and made sweet performance improvements.\n\nDownload the latest version to check it out!"
+    },
+    {
+      "name":"PUBG MOBILE",
+      "url":"get/?url=0tuubLDwndu1CgrpPxsu10DnPxt4f1vHzxvhjgCkjJy0ftEALMvinMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qpvvevkPemu5Kq5j1qwzuv",
+      "num":"Games",
+      "description":"最新版本:  0.13.0\n更新时间:  2019-06-12 11:10:14 (北京时间)\n\nBrand New Mode: Team Deathmatch!\nTeam up with your friends and jump into the fray of 4v4 battles.\nLog in now to explore the latest updates!\n\nWhat's new:\n\n- Added Team Deathmatch mode to EvoGround. This new mode features fast-paced firefights in both FPP and TPP. Players can also create their own rooms with room cards\n- Added control settings for FPP. Players can now have separate settings for TPP and FPP\n- Upgraded 3rd party app prevention system and enhanced detection of cheating behavior via Virtual App, emulators and modifiers\n- Added MVP showcase system at the end of each match. All players will receive a default MVP pose. The top 3 players in Classic mode or the MVP of the winning squad in TDM will be featured\n- In Vikendi, players will now leave footprints, trails and tire tracks on snow\n- Added a dedicated button for climbing that can be enabled in the settings\n- When killed by friendly fire, now players can decide if the teammate should lose merit or not\n- Added a Godzilla theme. Godzilla themed lobby background will be available together with many themed events and rewards after the update\n- Added new popularity gift and ranking reward. Every week, the top 100 players in the list may collect the title All-time Popularity or Recent Popularity\n- Added Charisma Ranking. The permanent outfits and firearm/vehicle finishes collected by a player will increase their Charisma\n- New Achievements:\nVictory Legion: Complete 1/5/10/20 matches with Dominating in Team Deathmatch\nAlpha & Omega: Get the first kill and final blow in a Team Deathmatch\nT-800: Achieve Terminator 1 time in Team Deathmatch\nEnvoy of War: Complete a series of missions in Team Deathmatch.\n\nOther Improvements\n- Survive Till Dawn and Darkest Night changes:\n1. The old zombies have been replaced by 4 types of new zombies\n2. Liquid Nitrogen Grenades now leave behind a cloud of freezing smoke on the ground for a long period after explosion, reducing the movement speed of any unit in the area\n3. Added new mode combat modifiers\n4. Certain zombies now have new abilities: Tanks will empower nearby allies; Skinners can slow nearby players\n5. A new factory has replaced the police station\n\n- Inventory improvements:\n1. Players can now combine items in batches\n2. Equipped items will be displayed on top\n3. Duplicated new items will no longer be indicated by a red dot and the \"new\" tag\n4. The Backpack and Helmet tabs have been moved to the Customization tab.\n\n- Arcade mode opening times have been adjusted. Mondays and Wednesdays: Sniper Training & War; Tuesdays and Thursdays: Mini-Zone & Quick Match; Fridays to Sundays: All Arcade modes are available. All times are in UTC\n- Protective items are now 25% more durable. Their effectiveness remains unchanged\n- Players can now bolt/reload a bolt action rifle while moving instead of completing the process while aiming down sights\n- Improved the animation in FPP when running while holding an SMG.\n- Vehicles now have improved feedback on explosions\n- Event Center now has improved interactions and better tutorials for the event missions\n- Crew Challenge Qualifying Round has been expanded. Now 6 qualifying matches will be held every day, up from 5. Each squad can participate up to 3 matches per day, up from 2. Each squad is allowed to participate a total of 18 qualifying matches, up from 12. And new items have been added to the Crew Shop\n- Players who have registered for Crew Challenge will now receive a notice 10 minutes before a match starts\n- Players can now collect all rewards from daily missions, progress missions and achievements all at once\n- Added 3 new Clan Insignias for Lv. 7, Lv. 9, and Lv. 10\n- Added a latency indicator to the main screen. Green, yellow, and red represents a good, average, or bad connection"
+    },
+    {
+      "name":"Toy Blast",
+      "url":"get/?url=qprrfu2z1mqbtue1enJPxt3TgrpTgBYWemoHvwZP0vmvtohrMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=W4ewznNsfLun5CKv",
+      "num":"Games",
+      "description":"最新版本:  6391\n更新时间:  2019-08-05 16:03:15 (北京时间)\n\nIt's time for a fashionable new update!\n\n- PLAY 50 NEW LEVELS! Looking for some stylish clothing and cool jewelry for your toys? Why not come and play these new levels? We will take you to this cool boutique that has just opened in toy town! Let's get trendy! \n \nBe sure to update to the current version of Toy Blast for the newest content. In every 2 weeks, we bring 50 NEW LEVELS! Come and join the fun!"
+    },
+    {
+      "name":"Minecraft",
+      "url":"get/?url=qprrfu2z1mqPxuu1KmfrLt1mgroTgBYWemADvw550vAvhBxjMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=WO1vzLNtxPvDSDfv",
+      "num":"Games",
+      "description":"最新版本:  1.12\n更新时间:  2019-07-09 22:58:52 (北京时间)\n\nWhat's new in 1.12:\nVarious bug fixes"
+    },
+    {
+      "name":"Amazon Music",
+      "url":"get/?url=0tuubLDwndu0KLAoftve90DfrLtRXMmmPgBYmwmXCft1LtBLHwmxLLDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=GASjZyXetrjvxoTvgAXCvu",
+      "num":"Music",
+      "description":"最新版本:  9.0.2\n更新时间:  2019-08-13 07:14:20 (北京时间)\n\nLoudness normalization, gapless playback, and new DRM security"
+    },
+    {
+      "name":"MARVEL Contest of Champions",
+      "url":"get/?url=qprrfu2z1mqDxwu5uEfrvtYSgrpTgBYWKE1iJyWjewIHgAYKfDzjJy0f1mJXMuUjMDoDftZzvBKLNrxjMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=6vJmIbNqyjgAOjtuNLLmIDwuZmgBs5My25urj1KvRz1ugvfv",
+      "num":"Games",
+      "description":"最新版本:  24.1\n更新时间:  2019-08-07 00:35:46 (北京时间)\n\nNEW QUESTS AND EVENTS \n\nX-MACHINA\nCEO of Da Costa International, Roberto Da Costa, needs your assistance. Join solar-powered mutant SUNSPOT (along with begrudging BFFS CABLE & DEADPOOL) as they attempt to solve one of the many mysteries of The Contest, the arrival of the otherworldly WARLOCK!\n\nSINISTER LABS\nMister Sinister has opened challenging and randomized Labs to test the mighty mutants of The Contest! Mixing mutants and crushing Champions can bring forth some unexpected results. Get rewarded as you try and take down randomly Buffed opponents in the Sinister Labs Event Quest.\n\nBACK ISSUES #3 - POLAR OPPOSITES \nIn a bid to free his mutant brethren, Magneto has begun to assault The Battlerealm! Help the Collector, and a surprising ally, stop him! - Return to a classic Quest from the early days of The Contest with this third edition of BACK ISSUES! This Quest will feature both CLASSIC and VARIANT difficulties. Choose Classic to experience the Quest as it was in 2015, and Variant to face off against highly challenging fights demanding specific Champions and strategic counters!\n\nNEW UPDATES\n\nSUMMONER’S SIGIL\nGain access to exclusive content, perks and more when you activate your monthly SUMMONER’S SIGIL! The benefits of your Summoner’s Sigil further increase as you achieve Story Quest milestones. Enjoy a free week trial to celebrate the update.\n\nUPDATED ORGANIZATION FOR EVENT QUESTS\nWe changed how Event Quests, Daily Quests, and Special Quests are displayed by giving each of them their own screen. The limit for active Quests will stay the same.\n\nBUG FIXES AND IMPROVEMENTS:\n• ÆGON: Clarified the description for Protection to indicate that it does not protect against Damage Over Time Effects.\n• BISHOP: Fixed an issue where Bishop’s Special 2 attack occasionally would not make contact.\n• CHAMPION (Act 6.2): Clarified description to indicate that Damage Over Time Effects can still damage Champion in his final phase.\n• CHAMPION (Act 6.2): Fixed an issue where Magik would become Stunned after using her Special 3 attack to Nullify Champion’s Buffs.\n• DOMINO: Fixed an issue where the Stun State from Domino’s Medium 1 attack was too short, making it possible for opponents to attempt to back away in the middle of the attack, but getting hit instead.\n• IRON MAN: Fixed an issue players occasionally encountered making it difficult to connect a Special 2 attack out of a 5-Hit Combo.\n• MEPHISTO: Fixed an issue where Mephisto’s Special 1 attack may miss after making contact with the first hit.\n• NAMOR: Fixed an issue where Namor was only reflecting damage from one source.\n• SPIDER-MAN (STEALTH SUIT): Clarified attack descriptions to include which attacks are Projectiles.\n\n• OTHER: Fixed an issue where the Camera would not zoom in at the beginning of a fight.\n\nAll this and more! Check out the full list of exciting updates on the MCoC blog: playcontestofchampions.com/news"
+    },
+    {
+      "name":"LinkedIn: Job & Career Finder",
+      "url":"get/?url=qp9eKt5GZvK9vqe50DRPwtWCgrpLxuxfMDjHLwRvZvH1wmPngBw12yO50vmLwoTfgD0CvyRzLmHvhBhjMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qpjHLwRvZvHDKqPngBw12yO5urj1wqPLLDWvus2qZvtTMvYewDSDev",
+      "num":"Social Networking",
+      "description":"最新版本:  9.1.142\n更新时间:  2019-08-08 01:24:42 (北京时间)\n\nWhen you’re in a conversation, speed and stability matter. The LinkedIn app is now more reliable than ever. This update contains bug fixes."
+    },
+    {
+      "name":"Matchington Mansion",
+      "url":"get/?url=0tpb5uo4CfzFLLAnDxv65umzrvt5verAbxoPjMDSjZy1z0vIrhnYigmK1MyWHMmzbJrxjMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qp9CMy2XMmJvNrxr1z0iJyWqwBIbhAYKfmgDfv",
+      "num":"Games",
+      "description":"最新版本:  1.48.3\n更新时间:  2019-08-10 04:07:50 (北京时间)\n\nTreat your sweet-tooth to some delicious cold ice cream, in the new limited-time room, the Ice Cream Shop! Stop by the Museum and use all new furniture to decorate it! Catch up on new story and try out our 30+ new levels! \n\n- 30+ New levels!\n- New room: Museum! (Unlocks after level 3828)\n- New event: Ice Cream Shop (8/23 - 26)\n- Bug fixes!"
+    },
+    {
+      "name":"Design Home",
+      "url":"get/?url=0tuubLDwndu4TMEnLxwu90Dfrut4f1vHzxvxjMDODft1r2vHPNvhPLDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qpvDLy2HwrjvhzxfMEwDKu",
+      "num":"Games",
+      "description":"最新版本:  1.33.011\n更新时间:  2019-08-06 02:34:34 (北京时间)\n\n- Lookbook UI changes \n- Technical fixes and performance improvements\n\nDon't forget that new real-world items from top brands and unique Design Challenges are added daily!"
+    },
+    {
+      "name":"Dropbox",
+      "url":"get/?url=WaJEIftoe1KEnrut6LLEoLxtePfC5muz2P0rJzNsiPLDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=90tqLzNshnMDkHKu",
+      "num":"Productivity",
+      "description":"最新版本:  154.2\n更新时间:  2019-08-07 02:16:27 (北京时间)\n\nWhat’s new:\n• This is the last release that will support iOS 10, and thus the last version that will run on 32-bit devices such as the iPhone 5, iPhone 5c, and fourth-generation iPad. To get the latest feature updates, performance improvements, and bug fixes, please upgrade to iOS 11.1 or later.  \n\nWe release updates regularly, and we’re always looking for ways to make things better. If you have any feedback or run into issues, come find us in our forums. We’re happy to help!"
+    },
+    {
+      "name":"Rise of Kingdoms",
+      "url":"get/?url=qp9eKt5GZvK91ze9enbPMt5ffvoPxrePfC5K3y0LZrA5wnxfMCXKMw2fZuAPhBTnMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=90ZDJrxohPLB1CvymjuAAzNqtPLES1wv",
+      "num":"Games",
+      "description":"最新版本:  1.0.2217\n更新时间:  2019-08-12 19:58:29 (北京时间)\n\n1. The all-new Sunset Canyon arena has arrived!\nSmoke rises in all directions and the bugles call for governors to assemble at Sunset Canyon. There they will battle for dominance and fight for glory!\n\nThis mighty competition will last 7 days, and all governors whose city halls have reached Level 10 and who have completed Kingdom Chronicles: Chapter “The First Encounter” may participate!\n\nIn the Sunset Canyon arena, governors can challenge one another to battle, arranging their troops to overcome enemies with strategic prowess.\nWhat will happen when an unbreakable defense comes up against an unstoppable offense? Who will be Champion of the Canyon? Join the battle and find out!\n\n2. Official start of the Osiris League\n\nWe’ve also added a league betting system, where governors can place wagers on their favorite alliances. Guess the winner correctly to receive great rewards! The league betting system will launch shortly after the start of the Osiris League.\n\n3. Qixi Festival Events\nQixi festival commemorates the story of the Cowherd and the Weaver, whose forbidden love moved the heavens themselves to reunite them one night each year. Celebrate this romantic occasion by releasing a paper lantern into the sky and participating in other exciting events. You’ll even have a chance to earn a limited-edition holiday theme and a new city decoration!\n\n4. The Lost Kingdom (Season 2)\nGet ready for a new and improved Lost Kingdom! A total of 272 kingdoms will compete in this epic event.\n\n5. Kingdom Immigration Timeline Adjustments\nTo ensure a level playing field across all kingdoms, we will be adjusting the length of time before kingdoms become developed and open to immigration.\n\n6. Other Changes:\n- “Open All” feature will now be available once governors have 10 or more chest keys.\n- Added animations for the following characters: Æthelflæd, Charlemagne, Alexander the Great, Tomyris, Edward of Woodstock, scouts, villagers, and barbarians.\n- Bug fix for Charlemagne’s “Happy Home” skill.\n- Optimizations to reduce lost connections and lag during Ark of Osiris battles.\n- Optimized “Hold &amp; Drag” operations from the march queue and added a toggle in Settings to prevent accidental dispatches.\n- Optimized preferential selection settings for multiple armies are grouped together.\n- Optimized the skill animations for Charles Martel and Richard I."
+    },
+    {
+      "name":"Coin Master",
+      "url":"get/?url=0tpb5uo4CfzFTMEnH3Ae9enzrutWe1vHzxsyPfmoHvw0ftAIbxoYKLDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qpjHLwW4ewz5KqPjgC5itu",
+      "num":"Games",
+      "description":"最新版本:  3.5.25\n更新时间:  2019-08-06 17:06:34 (北京时间)\n\nThanks for playing Coin Master!\n\nIn this version we've implemented updates to improve your overall experience.\n\nEnjoy a world of fun, thrills and huge rewards right at your fingertips. Be sure your game is up to date so you can truly experience all there is to offer.\n\nInvite your friends to play Coin Master & get your FREE REWARDS! We also recommend joining our community on Facebook, Twitter and Instagram for more fun & excitement.\n\nEnjoying Coin Master? Leave a review :)"
+    },
+    {
+      "name":"Episode - Choose Your Story",
+      "url":"get/?url=WaJEIftoe90mbrvtZSMAoftwePfC5mvz5LZrKPxmPnwm5Cvz0vLmJzxohfMAXmLwRLJmJbNqyPLDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=1O0mIbJtgLuEwnJyAj0uAPxoYi2Bovus0f0uATwoYmgCcHLu",
+      "num":"Games",
+      "description":"最新版本:  10.40\n更新时间:  2019-04-09 06:17:14 (北京时间)\n\nNew Episodes of COLLEGE-ISH! To get your crush to notice you, you enroll in college... while you're still in high school.  What will happen next?!\n \nMore FRIENDS OR LOVERS! Things get steamy when you & your BFF pretend to be in a relationship. But what happens when you start playing the role a little too well?\n \nComing Soon! The FINALE of PROSECUTIE! You just started law school & no one told you the substitute professor would be so sexy. Will you make him yours or will he turn your life upside down?"
+    },
+    {
+      "name":"Merge Dragons!",
+      "url":"get/?url=90tqoLdoxr2xrrKt1KevovZze1uEfrKwWLtEJvxoYOfAkHKw0vLmALNvxjMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=0tr5nwD5iJwOPessDwvYOvEwDfv",
+      "num":"Games",
+      "description":"最新版本:  3.26.1\n更新时间:  2019-07-26 22:45:50 (北京时间)\n\n- Where y'at? Hopefully good and ready for the return of our Carnival event. Grab your beads and coconuts, make some groceries and cover everything in Tony's: the Calypso Carnival is here!\n- Merge Combo is an all new camp event that will test your merging skills and give you some nifty rewards. PRO-TIP: If you turned off combos in your settings, turn them on."
+    },
+    {
+      "name":"DRAGON BALL LEGENDS",
+      "url":"get/?url=0tpb5uo4CfzFverojtsQ1uENrLt6verAbxo5n2A1CLwUz1rIr3DhjgAkDft1LJmAHMsiPLDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qp9CxvfvtvsHKvfr1z3vevcPurj9uoWiLqkzKu",
+      "num":"Games",
+      "description":"最新版本:  1.36.0\n更新时间:  2019-08-05 14:51:39 (北京时间)\n\n【Updates】\nThis app version's development environment has changed.\nYou will need to re-download the game data as a result of this update.\nA stable connection is recommended when downloading.\n\n【Issues Fixed】\n- Fixed various bugs\n* Check the in-game News for more information."
+    },
+    {
+      "name":"MLB Tap Sports Baseball 2019",
+      "url":"get/?url=0tpb5uo4CfzFTMAoHxw65ennrKtWuerAbxot9eEbPwt0D3rIHMsxPLEg1ww01esKLxohnMEXm0yOjfwmLgExjMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qp9e1t4fKAnD2DhjgAkDLw6zuBrDwtirwE5C0yuj0qJHMugL0q4vfv",
+      "num":"Games",
+      "description":"最新版本:  1.2.1\n更新时间:  2019-07-30 04:25:58 (北京时间)\n\n- Play like a pro and earn weekly achievements with the all new FIELD PASS!\n- Can’t get enough competition? Check out the new EXTRA BASES mode!\n- No more bad luck with Mystery Box GUARANTEES!\n- Add some flare to your life with new CHAT STICKERS\n- New powerful ALL-STAR BUFFS\n- New rare Batter and Pitcher SKILLS\n- Let ‘em know who’s boss with CvC SMACK TALK!\n- INVITE FRIENDS to earn exclusive rewards!\n- Spread the love by sending your friends GIFT BUNDLES\n- Get all your awesome free stuff in one place in the GIFTS Inbox"
+    },
+    {
+      "name":"Guns of Glory: MMO Empire War",
+      "url":"get/?url=0tpb5uo4CfzFffrnntuu5KErPNt5verAbxoPngAKHftSPewHDxmxPfD4CLy0fZuLLxohjMBXKMw2ftEJvNvZOLDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qpjHvwyj0uALhBhngDwvusqftvuD2BuvwE5CKyijuAAzNq5nwDwnJu",
+      "num":"Games",
+      "description":"最新版本:  3.6.2\n更新时间:  2019-08-06 15:15:46 (北京时间)\n\nFixed the Honor Challenge."
+    },
+    {
+      "name":"Township: Farm & City Building",
+      "url":"get/?url=qprrfu2z1mqfZye1unNPMt00KAoTgBYWKB1CvyRH3vHfJsxXunsHvyQfZuILNrTPfDbHvyV5KBIntohrMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=GB1CvyRH3vHfJsfLunsHvyejuAkDgmTngAAvus2eewH9MtUj2m5CKv",
+      "num":"Games",
+      "description":"最新版本:  6.8.1\n更新时间:  2019-07-18 00:27:14 (北京时间)\n\nA new event and a transport magnate competition\n \nBUBBLE GUM FESTIVAL\n* Help Eugene and Susie win bubble gum in the new event starting on August 1!\n* Fill townspeople's orders and get tokens to start the bubble gum machine.\n* Guide a gumball past spinning platforms without touching them to earn points and win awesome rewards!\n* Temporary goods at the factories, 8 thematic decorations at the store, and 2 new profile pictures.\n \nBECOME A TRANSPORT MAGNATE\n* Compete with other players to see whose town has the best transportation system! Follow the game news if you don't want to miss the start of the tournament!\n* Get points for regular in-game activities—sending off planes, trains, and helicopters.\n* Qualify for the tournament to compete for the top prizes!\n \nALSO FEATURING\n* Get your snowboard ready for the Snow Ride! The event starts on July 18.\n* Sandra's smoothie stand opens on August 15! Help her slice as much fruit as you can!\n* The new Music Voyage regatta season starts on July 23!\n* A new crop is available in Level 75! Grow Peanut Plants and use them to make products at the factories.\n* A new event and regatta reward: a coupon you can use to hire the Dealer for free!\n* A new community building—Computer Store—and a new type of house.\n* 2 new town expansions."
+    },
+    {
+      "name":"AFK Arena",
+      "url":"get/?url=amWONyXKJAnPxuu5uErrLtZ0evnTgBYWeA1CLw5z0vmjNwxLLDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=OvZvALNrfLetAvvu",
+      "num":"Games",
+      "description":"最新版本:  1.22.07\n更新时间:  2019-07-30 10:27:09 (北京时间)\n\n1. Added the Celestial heroes: Elijah & Lailah - Celestial Twins \n2. Added the Lightbearer hero: Rosaline - The Kind \n3. Added a new 'Signature Item' system. Heroes can now activate an exclusive signature item once they reach Mythic ascension. Signature items are powerful new items that can greatly strengthen the heroes that wield them. Resources used to activate and strengthen signature items can be found via AFK Rewards after completing Chapter 17."
+    },
+    {
+      "name":"DoubleDown Casino Slots Games",
+      "url":"get/?url=0tpb5uo4CfzFfLAnDxwQ1eEvr0tWe1vHzxtyPfDgjJw01esKzhEYmgD40MyW5ewzPwmPj2m5CKwSHxBzftohPLDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qpnHLw0zKmsDwtirMD4jtvNHtBIbNtyLfrcLMyZKZrsXgETLvm5CKu",
+      "num":"Games",
+      "description":"最新版本:  4.5.28\n更新时间:  2019-08-07 10:16:59 (北京时间)\n\nMinor bug fixes"
+    },
+    {
+      "name":"Lords Mobile: War Kingdom",
+      "url":"get/?url=WaJEIfto65uEnPMtZSgvnntqu10ASjdt0LZrA5wnxfMCXK2yOrgwmXgExfwA5CLy01esALxohjMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=90tuIzNuYOvDSjZuNLewzHLqP9eB4DvyPLZvuDwtiPvE5Cev",
+      "num":"Games",
+      "description":"最新版本:  2.1\n更新时间:  2019-07-20 00:04:36 (北京时间)\n\nIt's time to unleash your Familiars on the battlefield!\nAwaken them to their full potential and use their Talents to tip the scales in your favor!\n\n# Familiars are ready to join the battlefield!\nTo deploy them in battle, awaken your Familiars and unlock their Army Talent, and research technology to unlock Familiar Battle Slots!\n# New Research Tree: Familiar Battles (Unlocked at Academy Lv 21)\n# Added new items to the Gem Mall: Bright Talent Orb, Brilliant Talent Orb\n# The Limited Challenge returns! A new Hero requires your aid!\n# Various UI adjustments"
+    },
+    {
+      "name":"TIDAL Music - Streaming",
+      "url":"get/?url=0tuubLDwnduXmMAnPxuu9KEfr1tRXMmm5wnxfgDgDLw5j1mJrxtxfMEwHLy0D3vzTgBhrMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=0ZyTjgCXCvwSPesKrLqtX0znDvy6zfwuD2DvfvrSvKv",
+      "num":"Music",
+      "description":"最新版本:  2.7.8\n更新时间:  2019-07-31 14:31:11 (北京时间)\n\nMinor bugfixes."
+    },
+    {
+      "name":"World Series of Poker - WSOP",
+      "url":"get/?url=qp9eKt5GZvK9vqu1envPwtXSgvnntuxfMDbnJy6rgwmLNvYeMDcHftTLZvmPNvxfwEwjZy0f1rILxoYqMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qp9euvq5umwDgmdLuEwjty2jKrj1wohLKEwDvy5zLmvDwuhjwE5iJv",
+      "num":"Games",
+      "description":"最新版本:  6.13.5\n更新时间:  2019-08-05 22:39:25 (北京时间)\n\n● Bug Fixes and Improvements - We’ve folded more bugs to improve your poker experience."
+    },
+    {
+      "name":"Smule - The #1 Singing App",
+      "url":"get/?url=90tqoLdoxr2xbrvtX0evpvZAe1umrDvy2fesJHwm5PvDSjJw1XMmJrxruXeBODez0v1rIftmYmMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=9eesJjKq5PvDSjJw1XMmvDwr6L0zvDuyvj0umDwvhjwmXitv",
+      "num":"Music",
+      "description":"最新版本:  7.8.3\n更新时间:  2019-08-13 01:52:15 (北京时间)\n\nBehind the Scenes Improvements\nMore singing and fun - we made fixes to solve some crashes. Now, enjoy singing!"
+    },
+    {
+      "name":"iHeartRadio - Radio & Podcasts",
+      "url":"get/?url=qp9eKt5GZvK9vuu5eENPxtYeevpLxuxfMDnHez6zKmzTwohngD4CvyRzuBJrhoxf2Ag12yWOewzXgAxfMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=GEsnZyO50rAzNqgLuBbLNyWj1vznLqtX0z4CvyRzuBvbJsyLfBOvvy",
+      "num":"Music",
+      "description":"最新版本:  9.0.0\n更新时间:  2019-07-09 02:52:16 (北京时间)\n\n- Streamlined listening experience with your Recently Played now located in Your Library!\n- Enjoy listening to your favorite podcasts at 0.5x, 1x, 1.25x, 1.5x, and 2x speeds."
+    },
+    {
+      "name":"Match™ - #1 Dating App",
+      "url":"get/?url=qprrfu2z1mqLxr65unnr1tXeKEnTgBYW0DcHvw0nwBIbNuyL1AXmvt0DMmzbJrxjMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=CNqyf1zJ1MyWjfwzvKqt1KAbnftNL0sOLMAYKfmgDfv",
+      "num":"Social Networking",
+      "description":"最新版本:  19.09.01\n更新时间:  2019-08-08 00:25:22 (北京时间)\n\nOur latest release continues to bring enhancements that help you get more out of your membership: \n• Bug fixes and performance improvements"
+    },
+    {
+      "name":"Zoosk: Match, Talk, Date, Love",
+      "url":"get/?url=qp9eKt5GZvK9vsQ1umbPMt4TgroPxuxfMDv1gz2H3vmXMuyL1AXKxyZz0rKr3zYKfmgDLy0nNmJzxoTvMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=aBAnJynj0qmXMuyLvrcnetYH3vzvLqdX0BoDezOftrjzZCYmMD502v",
+      "num":"Social Networking",
+      "description":"最新版本:  8.17.8\n更新时间:  2018-12-18 02:14:42 (北京时间)\n\nThanks for updating your Zoosk app! We update our iOS app every two weeks in order to improve the speed and functionality of your dating experience. When new features are available in your area, we’ll notify you in the app."
+    },
+    {
+      "name":"RAID: Shadow Legends",
+      "url":"get/?url=0tpb5uo4CfzFLfvpntvQ5umfPNt6verAbxo5n2A1CLwUz1rIr3yZi2AgDuy6fZqAbNrTnMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qpnHKw1zLmAXgEfL0m5CKwOHMmvD2BejLsgTwv",
+      "num":"Games",
+      "description":"最新版本:  1.10.0\n更新时间:  2019-08-08 16:32:20 (北京时间)\n\nVersion 1.10 is here! New in this version:\n\n FEATURES: \n- New Faction - Dwarves! Ten mighty Dwarves join the fight, along with their own brand of Accessories!\n- Champion Skills rebalanced.\n- New Clan Boss difficulty.\n- New Clan Boss Chests.\n- Any Affinity Dungeon can be opened for 24 hours with Gems.\n\n CHANGES, FIXES, IMPROVEMENTS\n- Multiple Event Fixes.\n- Shaman, Jizoh, High Khatun, Yaga the Insatiable, and Dark Athel can no longer be summoned from Sacred Shards."
+    },
+    {
+      "name":"YouTube TV",
+      "url":"get/?url=0tpb5uo4CfzFLfrnLxqu5KEnr1t4verAbxoPrgmXmLwPzfsKftoxvMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qp9CMvvj0uALMvizvm5C1v",
+      "num":"Entertainment",
+      "description":"最新版本:  3.32\n更新时间:  2019-08-13 04:02:45 (北京时间)\n\nBug fixes and stability improvements."
+    },
+    {
+      "name":"SoundCloud - Music & Audio",
+      "url":"get/?url=adm6jwm5qvtXuKEnfttQ5KEnrKwWLtEIbNuxrgAXKxwW5ewKrxmdPvm5CKyQjvBIftoYmMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=9GZvHTMvyf1zznusQXMmJftmfLeDbnKwXKZrIrKuTjwm5itv",
+      "num":"Music",
+      "description":"最新版本:  5.60.0\n更新时间:  2019-08-05 19:42:59 (北京时间)\n\nWhat's new?\n\n- You can now edit your profile within the app\n- You can see timestamped comments on the track waveform\n\nLoving the app? Rate us to make it official. Have questions or suggestions? Find us on Twitter @SoundCloud or the SoundCloud Help Center. We're always listening."
+    },
+    {
+      "name":"Big Fish Casino: Slots & Games",
+      "url":"get/?url=qprrfu2z1mqvtuu5uEfPwt00evoTgBYWKEwDLyOr2vmPNuZi2CoHft2vZvHPNrYKfDNjZyWP1vm5gBTLLDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=GEwDLyOrwrj1wq5ngm5CKyujuApzxnxfMEgjtuNDMmJbNwfLKBS1wu",
+      "num":"Games",
+      "description":"最新版本:  11.2.3\n更新时间:  2019-08-02 05:53:14 (北京时间)\n\nHi, Big Fish Fans!\nCheck out our new update for amazing new slots, features, and bug fixes!\nHave fun and happy spinning!\nExperience an all-new way to win with Treasures! Earn exciting new rewards by playing in your favorite slots. Collect rare Avatar Frames to bling out your profile pic, epic Intros to announce your presence at the slots, and special gifts to reward your friends.\nChips come and go, but Treasures last forever!"
+    },
+    {
+      "name":"Wordscapes",
+      "url":"get/?url=0tpb5uo4CfzFLfvoHxs65emJrut5verAbxo5ngBcHvwQ5esALxoYqMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qp9C3ySjewzPMtiPvE5iJv",
+      "num":"Games",
+      "description":"最新版本:  1.1.7\n更新时间:  2019-08-06 04:49:20 (北京时间)\n\n► Improved battery life\n► Bug fixes"
+    },
+    {
+      "name":"Cashman Casino Vegas Slot Game",
+      "url":"get/?url=adm6jwm5Oxt4vLAnrtv61uEfrvtRXMmmXwmxLLBXmez2HNmJrxtyLLBw1gz0HtBIbNtyLLAXKMyOfZrHPNrYKLDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=aBXCvwij0qKzhEYu1znHvwUzvBwDgoTjgCoHvwejuAIHwmhfMEgjtu",
+      "num":"Games",
+      "description":"最新版本:  2.18.0\n更新时间:  2019-07-22 22:00:51 (北京时间)\n\nHey Mr. Cashman fans!\nAll NEW games - Update now for all NEW ways to play and the BEST new games!\nAs always for the best player experience we’ve squashed bugs and optimized your game.\nBecome a fan today using the following link to get bonuses and updates: \nhttps://www.facebook.com/cashmancasino/"
+    },
+    {
+      "name":"Bingo Blitz™ - Live Bingo Game",
+      "url":"get/?url=qprrfu2z1mqrtw65KmRr1t1KevoTgBYWeBXCvwUftEI5wnxfwAXmLwYW2rIr3BirgC41ww0HJmAvhBTLLDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=0tvxjgAKvus2rwBIbNsfLeBAHvynj0umDwslHwAYHezWHxBrDgoYOvDS1wu",
+      "num":"Games",
+      "description":"最新版本:  4.20\n更新时间:  2019-08-08 16:26:45 (北京时间)\n\nTake a daub on the wild side to Roar out B I N G O in the New Room, Tanzania!"
+    },
+    {
+      "name":"BIGO LIVE - Live Stream",
+      "url":"get/?url=adm6jwm5q0tWKKEoPxr650mbrvtRXMmmrNrxPvEsnZy0vvBKbhExXeBAHvyZftEI5gBTLLDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=0dmxLfBkHezuj0uAjdBhr1zWmusgPLvt1Kq5rfsSTwu",
+      "num":"Social Networking",
+      "description":"最新版本:  4.20.1\n更新时间:  2019-08-12 09:42:33 (北京时间)\n\nIt is recommended to upgrade to the latest version.\nImprovements for reliability and performance."
+    },
+    {
+      "name":"VSCO: Photo & Video Editor",
+      "url":"get/?url=90tqoLdoxr2xNPxt00evnD3ze9umrDvy2L0mIbdBhPfBXKNySj1vHjtm5jgm5Cuy3ftEIPMtUrMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=9K0mIbdBhPLrcLNySj1vHDLqPP0z4Cez2H2rvD2B6rfroXMv",
+      "num":"Photo & Video",
+      "description":"最新版本:  125.0\n更新时间:  2019-08-12 16:01:22 (北京时间)\n\nWhat’s new on VSCO\n\n— Fixes for top crashes\n— Smaller bug fixes and performance improvements\n\nThanks for creating with VSCO! We regularly release updates to improve your experience. Update to the latest version of VSCO for access to our newest presets, editing tools, and inspiring content.\n\nIf you'd like our help with any issues, please visit vs.co/help."
+    },
+    {
+      "name":"Jackpot Party - Casino Slots",
+      "url":"get/?url=qp9eKt5GZvK91yu1unbr0t1uLEoftuxfMDnHez2HNmJrhoTjgCoHvwQfZuLbJsyL1DXmez2j0mHPMrTfMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qp9C3yWKZrIrLq5jwDSjZyO5urjrxqtvgmkHvwrj0qKzNqZeMAg12u",
+      "num":"Games",
+      "description":"最新版本:  5009.01\n更新时间:  2019-08-06 04:24:06 (北京时间)\n\nJackpot Partiers!\nDo you find yourself wondering, “Can Jackpot Party Casino really get any better?”\nThis release proves that, yes, we can!\nIn this new and improved version, we’ve updated our mini game art to keep our game looking its best. \nPlus, Bingo is better than ever with the all-new Bingo Countdown! \nAnd, of course, we’ve added even MORE new slots for you to try out! \n\nDon’t miss out on BIG prizes, MAJOR news, and HUGE FUN! Join the JPSC Community today: \nhttps://www.facebook.com/JackpotPartyCasinoCommunity\nhttps://www.instagram.com/jackpotparty"
+    },
+    {
+      "name":"Hily: Smart Online Dating App",
+      "url":"get/?url=0tpb5uo4CfzFvLEovtwe5unbrLt5verAbxodn2DgDftUvZvHbJrhPfDv1MyWHxBIzxmdrwEgDLy6fZuLnhBhfMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qpbH0ycjuEAvhBhrgAsvusSvZvHnxnYq1zr52yOfJmvD2Buv2CSD0u",
+      "num":"Social Networking",
+      "description":"最新版本:  4.0\n更新时间:  2019-07-30 14:06:22 (北京时间)\n\n– Completely improved messaging section\n– Bitmoji + Hily = Love\nStart a conversation with BITMOJIS to express your emotions\n– Redesigned Events and Dialogues tab\n– Stories reactions: you can send your reactions to stories you like\n– You can add your Snapchat account to your profile\n– Improved general app's performance"
+    },
+    {
+      "name":"Calm",
+      "url":"get/?url=adm6jwm5qut4DgrnD3zu10mvrKwWLZuInNrYKLDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=0tprj2Cgjtu",
+      "num":"Health & Fitness",
+      "description":"最新版本:  4.11.3\n更新时间:  2019-07-03 23:13:14 (北京时间)\n\nThanks for using Calm! This update contains multiple bug fixes and performance improvements.\n\nBe sure to listen to our newest Sleep Stories including \"Beauty of the Outer Banks\" where you'll join Eric Braa for a soothing stroll along the tranquil coast of the Outer Banks. And bundle up for a magical world of ice and snow in a journey through the fairytale wonderland of \"The Snow Queen.\" And don't forget to listen to world-renowned actor Matthew McConaughey's dreamy story about the mysteries of the universe in \"Wonder.\"\n\nAs always, you can expect an original Daily Calm every day and new Sleep Stories every week.\n\nWhile you're waiting for this update to download, take a few deep breaths and notice what is happening at this moment."
+    },
+    {
+      "name":"TikTok - Make Your Day",
+      "url":"get/?url=0tpb5uo4CfzFfKAnP3Au9umvPxt0e1vHz3AyL1AXK2yXKZvLrxvYegAXCftYLZrKjhBhrMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=0tprvgAsvus5z1mIPLqtPLCgDfvNbZqjjxohzLCSDKv",
+      "num":"Entertainment",
+      "description":"最新版本:  12.6.0\n更新时间:  2019-08-13 16:20:46 (北京时间)\n\nTry our updated sound search: discovering tracks from your favorite artists is now even easier!"
+    },
+    {
+      "name":"Slots Casino - House of Fun™",
+      "url":"get/?url=WaJEIftou1KEnrKt6LLAortvePfC5KMyXO1vm1woxXeBoHfz2H2vmzxnxfMEgjtw01esKzhEYmMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qAt9gn1zLBsDwwYi2zvjZyXKZrtDgmdLKD1Cvy6zKmrDwtirMD4jtv",
+      "num":"Games",
+      "description":"最新版本:  3.37\n更新时间:  2019-07-31 00:08:53 (北京时间)\n\nWe’ve just added more FUN to HOUSE OF FUN with new games, amazing features, and updates to bring your HoF experience to another level! \nV 3.37\n- New slot machines: Beckoning Fortunes\n- Play our new, exclusive challenges for a great casino experience and huge coin fortunes up for grabs \n- Bug fixes, performance improvements and more surprises to enhance your House of Fun experience \nUpdate now and keep spinning! \nLike us? Please rate us! Your feedback is important!"
+    },
+    {
+      "name":"Empires & Puzzles: RPG Quest",
+      "url":"get/?url=qp9eKt5GZvK9vwQ5enfrKt0mgvnHxrePfC5mez6z1vKHxm5P1DkHft6z1rIzdCyr2DXK3ySPewHDxmxPLDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qp9eez6z1vKjLq5jvukzus20ewAnhCUvwmczusTfuEJXMsyf2DXCLu",
+      "num":"Games",
+      "description":"最新版本:  22.1.1\n更新时间:  2019-08-07 15:28:37 (北京时间)\n\nDefend your empire with new exciting features!\n\n• Various bug fixes and smaller improvements"
+    },
+    {
+      "name":"Chapters: Interactive Stories",
+      "url":"get/?url=0tpb5uo4CfzFTgvoP3AQ10DJPNt5verAbxo5ngBS12y2j1mJrxvTrgCsntwOPewAbtnxfgDn52ySjfsJHgAYKLDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qpnHLwWP0mIbJtgLeBAHvyW40vzLNvhrwDSvus20KBJXMuingAOjtu",
+      "num":"Games",
+      "description":"最新版本:  1.3.3\n更新时间:  2019-06-12 22:37:17 (北京时间)\n\nNew stories and weekly updates on Monday, Thursday, and Saturday from BESTSELLING AUTHORS and BLOCKBUSTER HITS in ROMANCE, DRAMA, & FANTASY!\n\nBEHIND CLOSED DOORS:\n-When you left for college, you thought it made sense to live with Jake, your childhood best friend, but Jake’s new girlfriend would rather see you dead than hanging around their friend group.\n-You’re on the verge of losing Jake forever when you meet one of his new friends, Zach Walker.\n-The more time you spend with Zach, the more you realize he might be a better roommate than Jake. A better friend. A better boyfriend?\n-Anything can happen when you’re living together. Anything can happen behind closed doors…\n\nBROKEN:\n- When you conquer the broken heart of a devastatingly handsome war hero, you make it your mission to piece him back together.\n- Can the healing power of love make you whole? Will it leave battle scars?\n- You may as well surrender. In love and war, no one gets away unscathed.\n\nTHE BETTER TO SEE YOU:\n- You’re no damsel in distress, but even you can’t say no to being protected by this infamous, brooding werewolf.\n- Suddenly, being trapped in a cabin doesn’t seem like such a bad thing. \n- With strong arms, the better to hold you. With sharp teeth, the better to taste you. And with piercing emerald eyes, the better to see you. Are you ready for him?\n\nAnd More..."
+    },
+    {
+      "name":"Fishdom",
+      "url":"get/?url=WaJEIftou9uENrLtZufrojtwePfC5mLy2j1rHPhBTPLDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=90tuIzNuhfMES1Mu",
+      "num":"Games",
+      "description":"最新版本:  4.1.5\n更新时间:  2019-07-15 20:44:17 (北京时间)\n\nDive into a sunny new Fishdom update!\n\nDAYS OF SUMMER\n- Visit the Summer Garden aquarium, your new holiday destination! The event starts on July 17!\n- Collect flowers and exchange them for colorful decorations and fish!\n- Set up the aquarium by the end of the event to win a special decoration!\n\nVOUCHER HEAP\n- Get more rewards for every task you complete starting on July 30!\n- Complete all the tasks to get the main prize: a heap of vouchers!\n\nFIRST TEAM EVENT\n- Join forces with your teammates in a new event starting on August 2!\n- Beat levels as a team and collect crowns to unlock the reward chest!\n\nALSO\n- A new Savanna aquarium and 17 thematic decorations!\n- New fish: Athlete Fish, Lemur King, Banded Cichlid, and Ram Cichlid.\n- A new element: Water Rocket. Fuel it up to remove an entire row of obstacles!\n\nWe hope you enjoy this update!\nHave fun playing!"
+    },
+    {
+      "name":"Choices: Stories You Play",
+      "url":"get/?url=WaJEIftou9emrrut41evnntqu10ASjdt1y0rIDxmtrMDSHft6z1vHLxohrMEXK3yS50vHzhAYKLDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=90tuLHgEhv1zvnJyAjuEJXgBTnMDsntvN9MEJXMtxfMDOjtu",
+      "num":"Games",
+      "description":"最新版本:  2.5.6\n更新时间:  2019-06-21 02:31:51 (北京时间)\n\nPREMIERING THIS UPDATE\n\nTHE ROYAL HEIR - Now that you and your true love have found your happily ever after... what comes next? Head back to Cordonia in this follow-up to The Royal Romance!\n\nSUNKISSED - When you return to your dad's old beach town with your family, can you hope to find summer love?\n\nNEW CHAPTERS EACH WEEK\n\nRED CARPET DIARIES: BOOK 3 - Head back to Hollywood and have it all: Fame, fortune, and the wedding of your dreams!\n\nPLATINUM - When pop superstar Avery Wilshere discovers your singing talent, you’re catapulted to instant fame! Are you ready to share your voice with the world?\n\nBLOODBOUND II - Six months later, passions run hot in New York as you grow closer with the vampires… but a sinister threat lingers in the shadows.\n\nTHE ELEMENTALISTS: BOOK 2 - You're back at Penderghast for another magickal year! But what will the winds of change bring?\n\nNIGHTBOUND - In the world of night, nothing is as it seems. Step into the shadows of New Orleans in this thrilling Bloodbound spin-off...\n\nWISHFUL THINKING - You're an aspiring reporter, struggling to get ahead... until a shocking turn of events changes your life!"
+    },
+    {
+      "name":"Crunchyroll",
+      "url":"get/?url=0tpb5uo4CfzFffvobttu1unRPwt6f1vHz3DhjMDkHvzV5uBIfJsZKLDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qp3DKy2PewL9MtTjwmkntu",
+      "num":"Entertainment",
+      "description":"最新版本:  3.5.0\n更新时间:  2019-07-20 06:49:30 (北京时间)\n\nBehind-the-scenes optimizations and bug fixes"
+    },
+    {
+      "name":"Last Shelter: Survival",
+      "url":"get/?url=adm6jwm5qvt4fernvtsQ1emnrvtRXMmmnNrTrgCA52yX4ewmLNvhr2CwDuy6fZqKPNrhjMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=0tpbjgAAHvyYOewKrLqP9uEwDezZz1rHrLqdrMEgDev",
+      "num":"Games",
+      "description":"最新版本:  1.250.133\n更新时间:  2019-07-20 12:20:20 (北京时间)\n\n1.Optimization - Alliance mail usage now limited to R4 and R5 members.\n\nFixes\n1. The pioneer set now displays normally in the report.\n2. Heroes obtained through fragments now tallies normally towards daily missions"
+    },
+    {
+      "name":"MARVEL Strike Force",
+      "url":"get/?url=0tpb5uo4CfzFTgroDxsu5unjr1t5verAbxotPLAknJyTfZuAjhBTngmoHftZzvBKLNrxjMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qp9eLwQP0mIDKqtPLCS12yW4Krj1KvRz1ugvfv",
+      "num":"Games",
+      "description":"最新版本:  3.4.0\n更新时间:  2019-08-07 01:09:30 (北京时间)\n\nMarvel's versatile powerhouse family and their War leader have moved into the neighborhood: The Fantastic Four & Namor!\n\nNew in this release:\n● Fantastic new playable characters: Mister Fantastic, Human Torch, the Thing, and Namor\n● Limited-time trait added for the Marvel 80th Anniversary celebration\n●Coming in this release: New Alliance toggle for demoting and removing inactive Alliance leaders, captains, and members.\n● Improved battle load times.\n\nBugs \n● Passive abilities that applied positive effects to self have been fixed to apply correct durations. \n● Iron Fist's ability description text corrected for style and accuracy - no functionality has been changed.\n● Music to your ears: 3rd party audio will no longer stop playing when the game is launched.\n● Characters KO'd from Bleed or a Counterattack were not reviving. This bug is now dead. \n● Fixed an issue with push notifications occasionally causing the game to crash when tapped.\n● Characters with Red Star Promotions available will now correctly appear at the top of the roster.\n● Targets were occasionally popping into position during M’Baku’s Ultimate attack chain. We put a stop to that.\n● Pretty fix: Alliance invitations from an Alliance with rich text in their names (colors) now properly display the name in the invitation.\n● Fixed: VFX for Ultron summons on iOS were not working correctly."
+    },
+    {
+      "name":"POP! Slots – Casino Slot Games",
+      "url":"get/?url=amWONyXKJAoPxue1enRrLtYeevnTgBYWKEwDLyOr2vmbtohjMEXKNy1XMmJHMtxXKEsnJyZ5ewmDxohnMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=0ttyPfDgjJuNf1mInNtgLKD1Cvy6zKmrDwtkDwAeL3yWKZrIrLqtLuu5uuv",
+      "num":"Games",
+      "description":"最新版本:  2.56.3\n更新时间:  2019-07-30 02:59:47 (北京时间)\n\nHi POP! Slots Fans!\n\nHere's a new update with fixes to improve your game experience!\nGood luck & happy spinning!"
+    },
+    {
+      "name":"MyFitnessPal",
+      "url":"get/?url=0tuubLDwndu0uKEoLxtQ1eErPxtRXMmmnNrhnMEoHLw1jfwH1gByjMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=WCgDuv65ewAvNuyf2rSHfv",
+      "num":"Health & Fitness",
+      "description":"最新版本:  19.8.0\n更新时间:  2019-08-13 00:23:59 (北京时间)\n\nWhether you want to log your lowest weight in years, your first run in weeks, or your heart healthy afternoon snack, we know you count on MyFitnessPal to be working smoothly.\n\nThat’s why this release is full of bug fixes, performance updates, and improved reliability so we can be there to support you during every moment of your health journey. \n\nWe hope you enjoy and happy tracking!"
+    },
+    {
+      "name":"Heart of Vegas – Slots Casino",
+      "url":"get/?url=qprrfu2z1mqvZyu10mnrLtXCMEoTgBYWKD1Cvy6zKmzrxtirMD4jZy01ewz5MvTrgDzjJy0fLBJHMvhfMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=0tp3jwDSjZyO5urjPNuZi2Cozusun0B0CwtyLLBw1MvNLLmIDwuUngAwD0u",
+      "num":"Games",
+      "description":"最新版本:  4.6.0\n更新时间:  2019-08-12 21:50:00 (北京时间)\n\nHello, Heart of Vegas Friends!\nWe've got a BRAND NEW look with even more bonuses for you!\nIn this release we have added some more of the biggest games from Aristocrat's all star slots lineup.\nThe original DRAGON LINK™ and LIGHTNING LINK™ games with Lightning-fast Jackpots, Free Games, and the Hold & Spin feature are sure to keep you on the edge of your seat.\n\nGet even MORE BONUSES when you Join Heart of Vegas Communities! Join us on Facebook: https://www.facebook.com/HeartofVegas"
+    },
+    {
+      "name":"WW (Weight Watchers)",
+      "url":"get/?url=qprrfu2z1mqbtru9enbPxt41KEnTgBYWKEkHLwV50rKHgzyXemOjJwWzLmKr3yZqMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qpRL3y5z1rHPMuyLfwcnezVr2vHXgzgT0zJfJv",
+      "num":"Health & Fitness",
+      "description":"最新版本:  7.20.0\n更新时间:  2019-08-09 07:41:32 (北京时间)\n\nExciting updates with this release: \n- Your Weight Chart is moving off your Journey tab to your Profile!\n- The posts you make on Connect Groups will now show on your Profile to members of that group, along with your regular Connect posts (but Group posts are only visible to members in the same group).\n- If you redeemed your Wins for a WellnessWins Reward, your Available Wins left to redeem will now show on top of the Journey tab instead of the Total Wins you've earned so far. That way, you'll know exactly how many Wins you have to keep redeeming, or to keep your eyes on the prize towards your next Reward!"
+    },
+    {
+      "name":"Best Fiends - Puzzle Adventure",
+      "url":"get/?url=amWONyXKdrpHxw61eEbr0tYCgrAbxotPvEwHez1zvBKTMrxXeB41wz2yfsJrxtiPvDwDvyTfZqKPNvTLLDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=aBkHfzWuZvAjJuxf1zvDKy2ahwKfLqtX0znHKw1z1vHDKqdrMEw1wu",
+      "num":"Games",
+      "description":"最新版本:  7.1.0\n更新时间:  2019-08-08 21:30:41 (北京时间)\n\nCLASS IS NOW IN SESSION!\n-Start the school year at The University of Minutia with new student Bookworm Brittle!\n-Help her with her studies across 13 Episodes and this super student will permanently join your team!\n\nTIME TO TAKE ACTION!\n-Join the Firefighter Mission and help Vega collect Fire Helmets across 40 challenges.\n-Collect all the Fire Helmets and earn the powerful Firefighter Vega!\n\nA WHOLE NEW LAND TO EXPLORE!\n-Check out the sights and sounds of the New Mite City!\n-Weave through the bustling big city with 20 new levels every weekend!"
+    },
+    {
+      "name":"CSR Racing 2",
+      "url":"get/?url=0tuubLDwndu3fLAontuu90mNr0tRXMmmLhm5PvDSjtwOPewmLNtZKLDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qEbLNw1XMmzHMsgL0uoftu",
+      "num":"Games",
+      "description":"最新版本:  2.6.2\n更新时间:  2019-08-06 17:38:45 (北京时间)\n\n﻿Exclusive release: Pagani Huayra Roadster BC\nCSR2 brings an unforgettable presentation of one of the most important hypercars ever made, the Pagani Huayra Roadster BC. For the first time in history a car manufacturer will digitally unveil a new model in-game! Jump in now to get an exclusive look and use AR to take your Pagani out into the real world!\n\nNew Events: Pagani World Premiere\nCelebrate the unveil of the Pagani Huayra Roadster BC in style with the Pagani World Premiere event! Take part in a thrilling 80 race ladder and a time attack leaderboard to earn the unique Pagani Zonda HP Barchetta.\n\nNew Cars:\nPagani Huayra BC Roadster ‘Launch Edition’\nPagani Huayra Roadster BC 'Drago Viola Edition’\nPagani Zonda HP Barchetta\n\nThis update includes:\n•Bug fixes and improvements"
+    },
+    {
+      "name":"ESPN: Live Sports & Scores",
+      "url":"get/?url=90tqoLdoxr2xrr0t4TMAobZyu1KErDvy21ewALxoYKLEXK3yWO0mIDNtyXeBAHvyZftAIDNtyPLDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=90ewALxoYKfvcLMsN1esKLxohngvcnLwYW2ruD2BQrvuozLu",
+      "num":"Sports",
+      "description":"最新版本:  6.8.1\n更新时间:  2019-08-09 20:28:41 (北京时间)\n\n[+] Bug fixes and optimizations."
+    },
+    {
+      "name":"Headspace: Meditation & Sleep",
+      "url":"get/?url=qp9eKt5GZvK91ze10DvrKt41evpbtuxfMDbHLwSHNmJrhnYigCsHvwWW2rAXwmxXeBoDvw35esAHMvhfMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qpbHLwSHNmvDwwdLuD5CvyWy0rKbNuxPLtcL2tS50vzDNtiPfAwD0u",
+      "num":"Health & Fitness",
+      "description":"最新版本:  3.72.0\n更新时间:  2019-08-13 00:31:02 (北京时间)\n\nThanks for using Headspace! This update includes bug fixes and performance improvements.\n\nAs always, if you run into any troubles, let us know at help@headspace.com"
+    },
+    {
+      "name":"STARZ",
+      "url":"get/?url=90tqoLdoxr2xzr1t3vKAnLxqu5umrDvy29MBJHMuZmMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=0ZBSvLqsftv",
+      "num":"Entertainment",
+      "description":"最新版本:  3.13.4\n更新时间:  2019-07-16 23:26:41 (北京时间)\n\nBug fixes and enhancements."
+    },
+    {
+      "name":"POF Dating",
+      "url":"get/?url=amWONyXKJEnbtse9KEzr1t00erAbxo5PvDSDezOj1vm1wohnMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qp9CNw1X2rKHMufL0r5uuv",
+      "num":"Social Networking",
+      "description":"最新版本:  11.10\n更新时间:  2019-08-07 00:30:44 (北京时间)\n\n- Enjoy POF with fewer bugs and improved stability"
+    },
+    {
+      "name":"Yahtzee® with Buddies Dice",
+      "url":"get/?url=qp9eKt5GZvK9vt65eEJPMt1KfrnLxrePfC5mLwQX2rArxtyPfCsDKwXO0vm9Muyf2mXmLwSbhsK9MrxvMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=S50vHvKq5ngBSDKwRzLBrD2zhrgCKHus1T0yAXgCir2BgD1v",
+      "num":"Games",
+      "description":"最新版本:  6.6.2\n更新时间:  2019-07-25 02:17:29 (北京时间)\n\nIntroducing Dice World! Check out Yahtzee's reinvented solo adventure with brand new boosts and obstacles. Challenge the Dice Masters and join the Dice World Race to win great rewards!"
+    },
+    {
+      "name":"Angry Birds 2",
+      "url":"get/?url=adm6jwm5ONt4vKEobtqe1enNrKwWLtAnrxtiPvES1ww0TMBJ5wnxLLDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=0tpN10znHKw5XwBrD2AUnMB1Cvu",
+      "num":"Games",
+      "description":"最新版本:  2.31\n更新时间:  2019-08-06 19:52:36 (北京时间)\n\nThe flock is getting ready for The Angry Birds Movie 2.\n- Enemies become frenemies. For the first time ever, a pig is joining the flock as a playable character! Unlock Leonard as an \"Extra Bird\" and defeat Zeta, the icy villain from the movie!\n- New hat event. Brrr - It’s cold on Eagle Island! Collect the winter gear featured in the movie to play a special hat event."
+    },
+    {
+      "name":"Candy Crush Friends Saga",
+      "url":"get/?url=WaJEIfto61uERPNtYCgvoLxsu10ASjdtOr2vzPxm5n2A1CLwWPKBAr3zYmwmkntw0TgsAvNrYKLDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=GgzxLfvcL3yRvZvAbNsUj1zNjZyXO0mrD2AiPvDgjtu",
+      "num":"Games",
+      "description":"最新版本:  1.18.10\n更新时间:  2019-08-09 14:41:39 (北京时间)\n\nWe've squashed bugs and made improvements that make matching Candies in the Candy Kingdom even better!"
+    },
+    {
+      "name":"Clash of Kings - CoK",
+      "url":"get/?url=qprrfu2z1mqrtsu9emJPwtXefvpTgBYWKC5itw010mAvhBYegDzjJy0DMmJHgEYKLDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qpZbJyej0umDwtZOvDSjZuNLLmID2zYmgA4jtu",
+      "num":"Games",
+      "description":"最新版本:  4.45.1\n更新时间:  2019-08-10 22:00:10 (北京时间)\n\n\"Event Preview:1.「CoK 5th Anniversary」 EventClash of Kings welcomed the birthday of 5 years old. The carnival and celebration are coming. There's also limited skin waiting for you!—— Anniversary Journey:Lords can share their Anniversary Journey each day to get the limited 5th Anniversary skin! Sign in to get it!If the castles, which use the new skins, are near to each other, then they can be connected with lines. Go to connect with your friends.—— Gold Fountain:Lords can get fountain shards via gathering resources, wishing well, killing monsters and other daily activities. Use fountain shards to complete the puzzle to join the division of gold! All-server carnival!2. New naval warfare feature——「Mysterious Seas」Mysterious Seas, the new naval warfare feature, will be issued. Go to open your Kingdom Teleport Gate!Event instruction:Players from 8 Kingdoms will fight on the same battlefield. The battlefield includes pre-battle stages and the battle stage.1） Pre-battle stage: new monsters and mass resources. Complete gathering and killing monster events to obtain Kingdom BUFF2） Battle stage:——Battle stage includes the battle for the altars ( the buildings that provide BUFF) and the battle for the Throne. Battle for the altar will be opened twice a day, 4 altars will be available each time.——After the battle for the Throne begins, the King of the Kingdom, which successfully occupied the Throne, will be the King of the Sea for the battlefield.Event requirements:1） The Kingdom has been opened for a certain period2） In the Kingdom Expeditionary, Kingdom Teleport Gate is opened successfullyIn the event, you can enter the Mysterious Sea via the Teleport Gate after your castle reached Lv. 26Optimizations and adjustments of the functions:1. Optimized the Royal Arena——After challenge successfully, added tips to notice players that they get Arena Coins——Added red-spot notice when the ranking rewards are available——The Arena Coin of the target player for the challenge won't be displayed——When you return from the hero list, the interface won't be refreshed. The hero list will be the same as the list that you left last time——Max March Size is a fixed value; the items won't increase the march size in the Arena——Adjusted the orders of the items in the Arena Store——Fixed that bug that some players cannot join the Arena——Fixed the bug that some players cannot collect ranking rewards2. Fixed the display error when Lord reached max level\""
+    },
+    {
+      "name":"Spotify: Discover new music",
+      "url":"get/?url=qp9eKt5GZvK9vqe9umrr0tYeLAnPxuxfMDnDvy6zfwIr3yyPvDXK2ySP1mIPMtyf2AXmvzTX2rKzNqZmMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=QXMmJftmhL0mw1MyNLewAjtoYKLESDKuN9gvL1gBhrMDcntv",
+      "num":"Music",
+      "description":"最新版本:  8.5.18\n更新时间:  2019-08-09 16:21:02 (北京时间)\n\nWe’re always making changes and improvements to Spotify. To make sure you don’t miss a thing, just keep your Updates turned on.\n\nBug fixes and improvements in this version include:\n- Fixed UI and stability issues"
+    },
+    {
+      "name":"Vikings: War of Clans",
+      "url":"get/?url=0tpb5uo4CfzF1KEoHxqu1enzPMt1e1vHzxtUjgA4jtw0LLmIrxsyL1mXK3yUvZvHjhBTrMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=GE1CvwZ5urj1wohLuEgjJvN9MEJ5wnxfMCS1Mv",
+      "num":"Games",
+      "description":"最新版本:  4.3.1\n更新时间:  2019-08-07 15:02:07 (北京时间)\n\nUpdate in the North!\n\nGeneral game optimization has been carried out and performance has been improved.\n\nHurry to update and join the battle!"
+    },
+    {
+      "name":"Star Wars™: Galaxy of Heroes",
+      "url":"get/?url=qp9eKt5GZvK91zu5KEjPwt3vKAnvtuxfMDnHLw2PewA9wmPPLDXmvz0y0rIHgzxXKEkHvwZetAJHMuZmMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=GEwjJy5z1rtDwwYi2zRHuzOH3vzHKqP9uAt9gn6PewzHLqPngAsntv",
+      "num":"Games",
+      "description":"最新版本:  0.16.3\n更新时间:  2019-08-09 09:00:24 (北京时间)\n\nWelcome to Grand Arena Championships! This exciting addition to the game is a multi-week series of Grand Arena events that will test your collection and your ability to outwit opponents. In them, you will:\n\n•Fight through a series of Grand Arena matches for new rewards and bragging rights\n•Rack up Championship Score and earn a promotion to higher Leagues and tougher opponents\n•Complete Feats – Special time-limited challenges that test your ability to master the entire game, both in and out of Grand Arena\n•Track your progress against friends on a series of brand-new leaderboards!\n\nDo you have what it takes to be among the very best Galaxy of Heroes players in the world?"
+    },
+    {
+      "name":"DoubleU Casino: Vegas Slots",
+      "url":"get/?url=qp9eKt5GZvK9vte50mJPwtZKerojtuxfMDnHez2HNmJrxtyLLBw1gz0HtBIbNtyLLAXmfzSHxBzftohPLDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=6j1mInNtgLKEgjJwSPLrjzdoTjgCoHvwej0uwXgETLvm5CKu",
+      "num":"Games",
+      "description":"最新版本:  6.2.2\n更新时间:  2019-08-07 09:23:26 (北京时间)\n\nDUC Fans! You have to check out our brand-new slot game, Menacing Minotaur!\nPayline Payout Doubled when Minotaur Wild Hits!\n\nWishing you lots of luck!\n\n~Jiny & Kevin"
+    },
+    {
+      "name":"IMVU: 3D Avatar Creator & Chat",
+      "url":"get/?url=qprrfu2z1mqbtue9umrPNt1uevpTgBYWemgDuyQftAJzNuyLfBkntw0LewzbJrTrgAXmKw6bZuKjtmxfMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=amgDuyejuAkDwsZigmgDLw55urjLNrhrgAAHvuNffmnD2Buz1vXu1u",
+      "num":"Social Networking",
+      "description":"最新版本:  v5.2.1\n更新时间:  2019-08-10 06:01:45 (北京时间)\n\n• Have more control over your Live Room by creating a Guest List - choose who can join your room as a Presenter, and who can join as a Viewer.\n• Get only the push notifications you want with brand new Notifications controls in Settings.\n• Stability Improvements\n• Questions? Need help? Visit our Community Center: im.vu/help769"
+    },
+    {
+      "name":"Brawl Stars",
+      "url":"get/?url=0tuubLDwnduZeerpjtre1unjPwt4f1vHzxtUngAsnZy0DNmKHMsULLDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qpn52yOj1mvD2DYqgAk5wu",
+      "num":"Games",
+      "description":"最新版本:  19.105\n更新时间:  2019-06-28 14:36:52 (北京时间)\n\nNew Brawler: Tick! \n- Available for FREE in the Trophy Road at 4,000 Trophies! \n- Tick is a metal ball of barely controlled excitement and energy – explosive energy! \n- He lobs mines, and his Super makes his head detach, seek a target and explode! \n\nNew Features \n- Star Powers: Collect new exciting Star Powers for each Brawler! \n- Star Points: New Currency for advancing in the game, adding new purchasable rewards \n\nOther \n- New Skins \n- New Maps \n- … and more!"
+    },
+    {
+      "name":"Huuuge Casino™ Vegas 777 Slots",
+      "url":"get/?url=0tuubLDwndu61evoLxw61enjrut4f1vHzxtirMD4jZy0nMEondm5ngAKDLwYetEIvhBYmgAoDftSr2vKfJvifMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=0ttirMD4jtvNnMEontq5ngAKDLwxjuAVv0sTiwDSjZyO5urjXgzxrwmwH0u",
+      "num":"Games",
+      "description":"最新版本:  4.5.1453\n更新时间:  2019-08-05 17:01:28 (北京时间)\n\nHey Huuuge fans!\n\nWe're coming to you with a brand new update, this time, we've made the following changes:\n- Bug fixes for commonly reported issues - thank you for your feedback!\n- Groundwork for several new Slots which you'll be able to experience soon!\n\nThat's all for this time! Thanks for your continued support and be sure to stay tuned for more updates!"
+    },
+    {
+      "name":"8 Ball Pool™",
+      "url":"get/?url=0tpb5uo4CfzFvKEnrtwe9eEnrKtXe1vHz3DYiMDcHftZH3vzLwmd9KDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=0tslHwA6jJy2jKrjnhExL1qcn0t",
+      "num":"Games",
+      "description":"最新版本:  4.5.2\n更新时间:  2019-07-25 17:49:50 (北京时间)\n\nClubs just got better! New improved Club suggestions - find the right crowd for you!\nCheck out new, better gifts to send to your club friends!\n\nExpress yourself in the match with Emojis! \nSay hi, or throw your opponent off their game with an all new FREE set of Emojis!\n\nBug fixing and general improvements"
+    },
+    {
+      "name":"Jackpot Magic Slots™ & Casino",
+      "url":"get/?url=qprrfu2z1mqjtsu1uErPwt3TgrnHxuxfMD40MyW5ewzPwm5ngm5CKy6ftEzbhzxLfDXmez2j0mHPMrTfMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=0tp3jwDSjZyO5urj1wqP9wrl1YyWKZrIrLq5LfCKDvwoj0qKzNqZeMAg12u",
+      "num":"Games",
+      "description":"最新版本:  11.2.3\n更新时间:  2019-08-02 05:52:46 (北京时间)\n\nExperience an all-new way to win with Treasures! Earn exciting new rewards by playing in your favorite slots. Chips come and go, but Treasures last forever!\nPlus, enter the world of Wild Flames in our newest slot. Happily ever after is just a spin away."
+    },
+    {
+      "name":"Celebrity Voice Changer - Face",
+      "url":"get/?url=0tpb5uo4CfzFDgrpbtqu10mfrvt4verAbxotPLAg1Mw0LewA5wnxL1BoDftS50vHzNwyXunsHvy5P0vAnNvYKLDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=aBoDvwhj0umDwsyPLB1CvwV5urjXMtxfMDAzus1ifwHLNsxP1Cwjtu",
+      "num":"Entertainment",
+      "description":"最新版本:  2.0.12\n更新时间:  2019-07-11 02:52:40 (北京时间)\n\nBug fixes."
+    },
+    {
+      "name":"BetterMe: Weight Loss Workouts",
+      "url":"get/?url=0tuubLDwnduY0KAnjtuu5emzPwt4f1vHzxtirwm5ity5LJmKrxtZmMD4DftWGMmAbNvYqgDvDLy5z1rKbJvTLLDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=GEsHfz2rxBJzhzgLKEonJynj0qK9gzxfgBKzus2u1vuLNvhrgmw1wu",
+      "num":"Health & Fitness",
+      "description":"最新版本:  2.12.5\n更新时间:  2019-08-02 01:16:38 (北京时间)\n\nWe updated our app to make it even better, faster, and more effective. Begin your journey to your dream body with BetterMe!"
+    },
+    {
+      "name":"Diner DASH Adventures",
+      "url":"get/?url=adm6jwm5qKtYmgvnP3ze1ennrvtRXMmmPNvTnwms5MySPfsAHwmdfMEgDKw0LewAvhBhPLDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=GEw12yXiLBIXMwiPLqcn0uuzursDwsyPvDSDKu",
+      "num":"Games",
+      "description":"最新版本:  1.1.1\n更新时间:  2019-07-25 06:03:37 (北京时间)\n\nWhat's that? Is that… yes, it's a Cruise Ship!\n \n• Play Hotel DASH at a brand new Cruise Ship venue!\n• Send your guests to the Ship's relaxing Spa and hoppin' Nightclub!\n• Fix up the Cruise Ship, beautiful Plotte Point cliffs, and more!\n• Grandma Florence returns! With a mysterious new companion...\n• Serve up tasty treats like Tropical Fruit Cups, Margherita Pizza, Pineapple Punch and more!\n• Bug fixes (yay!) plus gameplay and stability improvements!"
+    },
+    {
+      "name":"Clover Dating App",
+      "url":"get/?url=qp9eKt5GZvK91y65unbr1t1uKEontuxfMDbH0yOftEAvhBhrgAsDft5zvBKzhEYKLDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=9eesJjKq5PvDSDezOjvrjLNvTrMD4jtu",
+      "num":"Social Networking",
+      "description":"最新版本:  6.4\n更新时间:  2019-07-22 23:55:47 (北京时间)\n\nPost and share gifs in chat and mixers."
+    },
+    {
+      "name":"Last Day on Earth: Survival",
+      "url":"get/?url=qprrfu2z1mqbZAe1uEnr1t4fLAnHxuxfMD3DvwYWwBKLNvZmgDNDez5z0vArhnYigDRHvwRfZqKPNrhjMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=ZzuBKbNwUnwmozus2C2rKLNrxj1z0iJyNTgwzvKqdrMEgDev",
+      "num":"Games",
+      "description":"最新版本:  1.14\n更新时间:  2019-08-11 17:42:07 (北京时间)\n\n– Season 1 begins right now!\n– With the beginning of the season you’ve received access to weekly quests and unique rewards: new skins for Chopper, Corgis, and other valuable items. \n– We’ve changed the bike upgrade system and added some new models.\n– Crashed ship brought new zombies.\n– New storyline - find out the secret of Darren Wells."
+    },
+    {
+      "name":"Harry Potter: Hogwarts Mystery",
+      "url":"get/?url=0tuubLDwnduYuKEojtvQ1KEnPxt4f1vHz3AUngBsnZy1eZvmPNuUngAKnJw2H2vmLNvhrgm5C0y0TMBJLNrhfMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qnkHLwW4ewL5Kq5ngmkHvwZqMmILKqP9uEwDezWKZrvD2AUnwEgD0u",
+      "num":"Games",
+      "description":"最新版本:  1.19.0\n更新时间:  2019-08-08 03:21:41 (北京时间)\n\n- Check out new makeup and facial hair avatar customizations for players Year 5 and older!\n- Look out for a Special Adventure with a mysterious student from Beauxbatons!\n- Fixed errors in some Classes"
+    },
+    {
+      "name":"King of Avalon: Dragon Warfare",
+      "url":"get/?url=0tuubLDwndu1efrpDxtu9emNrut4f1vHzxvTngAA12yOrgwmvxoYOfAkHKw0rJmInNrTrgAXKMw2ftEAvhBYeMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=aBkHvwTPewzHLqPjMDKDvw5jvrjzdnYi2Cg1gzcjuAAzNq5PvDSjZu",
+      "num":"Games",
+      "description":"最新版本:  6.4.2\n更新时间:  2019-08-06 11:10:45 (北京时间)\n\nFixed some bugs and made an optimization."
+    },
+    {
+      "name":"Life360: Find Family & Friends",
+      "url":"get/?url=qprrfu2z1mqDxs610Dnr0tWCMEnTgBYWKEs1MySXwBJ1wmtv2CSDLyOP1vmTwnxfwBXmutY0evA1gBhjMDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=GEs1MySXwBJDKqPP0zRHKyWfZvzDKqdPvDS1MuN9grnjttuPvBSDev",
+      "num":"Social Networking",
+      "description":"最新版本:  19.2.0\n更新时间:  2019-07-30 04:54:57 (北京时间)\n\nThanks for using Life360! We're always making changes and improvements behind the scenes; to ensure that you do not miss anything, please keep your updates turned on.\n- More accurate ETA to your circle member's location.\n- Miscellaneous bug fixes and performance improvements."
+    },
+    {
+      "name":"Caesars Casino Official Slots",
+      "url":"get/?url=0tpb5uo4CfzFDgvnD3yu90DnrutYe1vHzxtirMD4jZy0D3vzbNtxfwBAjJy0HtBIbNtyLLAXK3y5zKmJXMrYKLDbH0yOLtEJftotjMDo1gtSH3rJDNrTXKEcH0yOLtEmzttingmsHuy&group=itunes_free&title=qpnHez2HNmvD2DxLfCoDvyTPLmuDgoTjgCoHvwejuEJLNrYmgBgjtu",
+      "num":"Games",
+      "description":"最新版本:  3.14.4\n更新时间:  2019-08-08 16:56:02 (北京时间)\n\nCaesars Casino introduces the Emperor’s Journey! Help young Caesar rise to power and lead the Roman Empire to greatness! To do so it is vital that young Caesar attain the 4 pillars; love, power, wisdom and riches. Allow the Centaur to guide you throughout your journey, but remember faith is written in sand not stone!"
+    }
+  ]
+}

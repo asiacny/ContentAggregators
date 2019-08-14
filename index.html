@@ -1,0 +1,530 @@
+<!doctype html>
+<html lang=zh-CN>
+<head>
+    <meta charset=UTF-8>
+    <meta http-equiv=X-UA-Compatible content="IE=edge">
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="Expires" content="0">
+    <meta http-equiv="Cache" content="no-cache">
+    <meta name=viewport content="width=device-width,initial-scale=1">
+    <title>热榜聚合</title>
+    <link rel=apple-touch-icon sizes=180x180 href=img/apple-touch-icon.png>
+    <link rel=icon type=image/png sizes=32x32 href=img/favicon-32x32.png>
+    <link rel=icon type=image/png sizes=16x16 href=img/favicon-16x16.png>
+    <link rel=manifest href=img/site.webmanifest>
+    <link rel=mask-icon href=img/safari-pinned-tab.svg color=#5bbad5>
+    <link rel="shortcut icon" href=img/favicon.ico>
+    <meta name=msapplication-TileColor content=#da532c>
+    <meta name=theme-color content=#ffffff>
+    <link rel="stylesheet prefetch" href="https://cdn.bootcss.com/bulma/0.7.5/css/bulma.min.css">
+    <link rel="stylesheet prefetch" href="main.css?20190814">
+    <script src="https://cdn.bootcss.com/jquery/3.4.1/jquery.min.js"></script>
+    <script src="data.js?20190814"></script>
+</head>
+<body>
+    <nav class=navbar>
+        <div class=container>
+            <div class=navbar-brand><a class=navbar-item href="https://make.mk">
+                <img alt="make.mk" src="logo.png"></a>
+            </div>
+            <div id=navbarMenu class=navbar-menu>
+                <div class=navbar-end> <a href="https://make.mk" class="navbar-item is-active" target="_blank"> 主站 </a>  <a href="https://www.make.mk" class=navbar-item target="_blank"> CDN镜像站 </a>  <a href="https://ml.mk" class=navbar-item target="_blank"> 零宽短网址与二维码生成(开源) </a>  
+                    <div class="navbar-item has-dropdown is-hoverable"> <a class=navbar-link> 更多 </a> 
+                        <div class=navbar-dropdown> <a href="https://github.com/asiacny/ContentAggregators" class=navbar-item target="_blank"> 本站源码 </a>  <a href="https://ml.mk" class=navbar-item target="_blank"> 预留 </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </nav>
+    <section class=section>
+        <div class=container>
+            <div id=flow> <span class=flow-1></span>  <span class=flow-2></span>  <span class=flow-3></span> 
+            </div>
+            <div class="row columns">
+                <div class="column is-one-third">
+                    <div class="card large">
+                        <header id="baidu_head" class=card-header>
+                            <p class=card-header-title><span class=icon><img src=img/bai-du.png width=24 height=24 /></span><a title="点击刷新 (服务器每10分钟采集一次)" style="color:#363636;">百度热点</a></p><a class="custom-card-toggle" style="color:#bdbdbd;" id="baidu_now_title" onclick="refresh('baidu_now')">实时</a><a class="custom-card-toggle" style="color:#bdbdbd;" id="baidu_today_title" onclick="refresh('baidu_today')">今日</a><a class="custom-card-toggle" style="color:#bdbdbd;" id="baidu_week_title" onclick="refresh('baidu_week')">七日</a><a class="custom-card-toggle" style="color:#bdbdbd;" id="tieba_title" onclick="refresh('tieba')">贴吧</a><font id="baidu_num" size="1" style="color:#bdbdbd;padding:0.5rem;font-weight:bolder;">搜索指数</font>
+                        </header>
+                        <div class=card-content>
+                            <div class="content scroll-box">
+                                <ol id="baidu_content">
+                                    <p id="baidu_loading">载入中......</p>
+                                </ol>
+                            </div>
+                        </div>
+						<footer class="custom-card-footer">
+                            <p id="baidu_time" title="更新时间" style="color:#363636;">更新时间</p>
+						</footer>
+                    </div>
+                </div>
+                <div class="column is-one-third">
+                    <div class="card large">
+                        <header id="weibo_head" class=card-header>
+                            <p class=card-header-title><span class=icon><img src=img/weibo.png width=24 height=24 /></span><a title="点击刷新 (服务器每10分钟采集一次)" style="color:#363636;">微博热搜榜</a></p><font size="1"  id="weibo_num" style="color:#bdbdbd;padding:0.5rem;font-weight:bolder;">搜索量</font>
+                        </header>
+                        <div class=card-content>
+                            <div class="content scroll-box">
+                                <ol id="weibo_content">
+                                    <p id="weibo_loading">载入中......</p>
+                                </ol>
+                            </div>
+                        </div>
+						<footer class="custom-card-footer">
+                            <p id="weibo_time" title="更新时间" style="color:#363636;">更新时间</p>
+						</footer>
+                    </div>
+                </div>
+                <div class="column is-one-third">
+                    <div class="card large">
+                        <header id="weixin_head" class=card-header>
+                            <p class=card-header-title><span class=icon><img src=img/weixin.png width=24 height=24 /></span><a title="点击刷新 (服务器每10分钟采集一次)" style="color:#363636;">微信公众号</a></p><a class="custom-card-toggle" style="color:#bdbdbd;" id="weixin_title" onclick="refresh('weixin')">搜索热词</a><a class="custom-card-toggle" style="color:#bdbdbd;" id="weixin_hot_title" onclick="refresh('weixin_hot')">热门文章</a><font size="1" id="weixin_num" style="color:#bdbdbd;padding:0.5rem;font-weight:bolder;">热度</font>
+                        </header>
+                        <div class=card-content>
+                            <div class="content scroll-box">
+                                <ol id="weixin_content">
+                                    <p id="weixin_loading">载入中......</p>
+                                </ol>
+                            </div>
+                        </div>
+						<footer class="custom-card-footer">
+                            <p id="weixin_time" title="更新时间" style="color:#363636;">更新时间</p>
+						</footer>
+                    </div>
+                </div>
+            </div>
+            <div class="row columns">
+                <div class="column is-one-third">
+                    <div class="card large">
+                        <header id="v2ex_head" class=card-header>
+                            <p class=card-header-title><span class=icon><img src=img/v2ex.png width=24 height=24 /></span><a title="点击刷新 (服务器每10分钟采集一次)" style="color:#363636;">V2EX热帖</a></p>
+                        </header>
+                        <div class=card-content>
+                            <div class="content scroll-box">
+                                <ol id="v2ex_content">
+                                    <p id="v2ex_loading">载入中......</p>
+                                </ol>
+                            </div>
+                        </div>
+						<footer class="custom-card-footer">
+                            <p id="v2ex_time" title="更新时间" style="color:#363636;">更新时间</p>
+						</footer>
+                    </div>
+                </div>
+                <div class="column is-one-third">
+                    <div class="card large">
+                        <header id="jandan_head" class=card-header>
+                            <p class=card-header-title><span class=icon><img src=img/jandan.png width=24 height=24 /></span><a title="点击刷新 (服务器每10分钟采集一次)" style="color:#363636;">煎蛋网</a></p>
+                        </header>
+                        <div class=card-content>
+                            <div class="content scroll-box">
+                                <ol id="jandan_content">
+                                    <p id="jandan_loading">载入中......</p>
+                                </ol>
+                            </div>
+                        </div>
+						<footer class="custom-card-footer">
+                            <p id="jandan_time" title="更新时间" style="color:#363636;">更新时间</p>
+						</footer>
+                    </div>
+                </div>
+                <div class="column is-one-third">
+                    <div class="card large">
+                        <header id="zhihu_head" class=card-header>
+                            <p class=card-header-title><span class=icon><img src=img/zhihu.png width=24 height=24 /></span><a title="点击刷新 (服务器每10分钟采集一次)" style="color:#363636;">知乎</a></p><a class="custom-card-toggle" style="color:#bdbdbd;" id="zhihu_good_title" onclick="refresh('zhihu_good')">精选</a><a class="custom-card-toggle" style="color:#bdbdbd;" id="zhihu_hot_title" onclick="refresh('zhihu_hot')">热榜</a><a class="custom-card-toggle" style="color:#bdbdbd;" id="zhihu_daily_title" onclick="refresh('zhihu_daily')">日报</a>
+                        </header>
+                        <div class=card-content>
+                            <div class="content scroll-box">
+                                <ol id="zhihu_content">
+                                    <p id="zhihu_loading">载入中......</p>
+                                </ol>
+                            </div>
+                        </div>
+						<footer class="custom-card-footer">
+                            <p id="zhihu_time" title="更新时间" style="color:#363636;">更新时间</p>
+						</footer>
+                    </div>
+                </div>
+            </div>
+            <div class="row columns">
+                <div class="column is-one-third">
+                    <div class="card large">
+                        <header id="hostloc_head" class=card-header>
+                            <p class=card-header-title><span class=icon><img src=img/hostlog.png width=24 height=24 /></span><a title="点击刷新 (服务器每10分钟采集一次)" style="color:#363636;">全球主机交流论坛</a></p>
+                        </header>
+                        <div class=card-content>
+                            <div class="content scroll-box">
+                                <ol id="hostloc_content">
+                                    <p id="hostloc_loading">载入中......</p>
+									</ol>
+                            </div>
+                        </div>
+						<footer class="custom-card-footer">
+                            <p id="hostloc_time" title="更新时间" style="color:#363636;">更新时间</p>
+						</footer>
+                    </div>
+                </div>
+                <div class="column is-one-third">
+                    <div class="card large">
+                        <header id="smzdm_article_head" class=card-header>
+                            <p class=card-header-title><span class=icon><img src=img/smzdm.png width=24 height=24 /></span><a title="点击刷新 (服务器每10分钟采集一次)" style="color:#363636;">什么值得买-热门文章</a></p><a class="custom-card-toggle" style="color:#bdbdbd;" id="smzdm_article_today_title" onclick="refresh('smzdm_article_today')">日榜</a><a class="custom-card-toggle" style="color:#bdbdbd;" id="smzdm_article_week_title" onclick="refresh('smzdm_article_week')">周榜</a><a class="custom-card-toggle" style="color:#bdbdbd;" id="smzdm_article_month_title" onclick="refresh('smzdm_article_month')">月榜</a>
+                        </header>
+                        <div class=card-content>
+                            <div class="content scroll-box">
+                                <ol id="smzdm_article_content">
+                                    <p id="smzdm_article_loading">载入中......</p>
+                                </ol>
+                            </div>
+                        </div>
+						<footer class="custom-card-footer">
+                            <p id="smzdm_article_time" title="更新时间" style="color:#363636;">更新时间</p>
+						</footer>
+                    </div>
+                </div>
+                <div class="column is-one-third">
+                    <div class="card large">
+                        <header id="douban_head" class=card-header>
+                            <p class=card-header-title><span class=icon><img src=img/douban.png width=24 height=24 /></span><a title="点击刷新 (服务器每10分钟采集一次)" style="color:#363636;">豆瓣精选</a></p>
+                        </header>
+                        <div class=card-content>
+                            <div class="content scroll-box">
+                                <ol id="douban_content">
+                                    <p id="douban_loading">载入中......</p>
+                                </ol>
+                            </div>
+                        </div>
+						<footer class="custom-card-footer">
+                            <p id="douban_time" title="更新时间" style="color:#363636;">更新时间</p>
+						</footer>
+                    </div>
+                </div>
+            </div>
+            <div class="row columns">
+                <div class="column is-one-third">
+                    <div class="card large">
+                        <header id="hacpai_head" class=card-header>
+                            <p class=card-header-title><span class=icon><img src=img/hacpai.png width=24 height=24 /></span><a title="点击刷新 (服务器每10分钟采集一次)" style="color:#363636;">黑客派</a></p><a class="custom-card-toggle" style="color:#bdbdbd;" id="hacpai_play_title" onclick="refresh('hacpai_play')">好玩</a><a class="custom-card-toggle" style="color:#bdbdbd;" id="hacpai_hot_title" onclick="refresh('hacpai_hot')">热议</a>
+                        </header>
+                        <div class=card-content>
+                            <div class="content scroll-box">
+                                <ol id="hacpai_content">
+                                    <p id="hacpai_play_loading">载入中......</p>
+                                </ol>
+                            </div>
+                        </div>
+						<footer class="custom-card-footer">
+                            <p id="hacpai_time" title="更新时间" style="color:#363636;">更新时间</p>
+						</footer>
+                    </div>
+                </div>
+                <div class="column is-one-third">
+                    <div class="card large">
+                        <header id="guokr_head" class=card-header>
+                            <p class=card-header-title><span class=icon><img src=img/guokr.png width=24 height=24 /></span><a title="点击刷新 (服务器每10分钟采集一次)" style="color:#363636;">果壳</a></p>
+                        </header>
+                        <div class=card-content>
+                            <div class="content scroll-box">
+                                <ol id="guokr_content">
+                                    <p id="guokr_loading">载入中......</p>
+                                </ol>
+                            </div>
+                        </div>
+						<footer class="custom-card-footer">
+                            <p id="guokr_time" title="更新时间" style="color:#363636;">更新时间</p>
+						</footer>
+                    </div>
+                </div>
+                <div class="column is-one-third">
+                    <div class="card large">
+                        <header id="chouti_head" class=card-header>
+                            <p class=card-header-title><span class=icon><img src=img/chou-ti.png width=24 height=24 /></span><a title="点击刷新 (服务器每10分钟采集一次)" style="color:#363636;">抽屉新热榜</a></p>
+                        </header>
+                        <div class=card-content>
+                            <div class="content scroll-box">
+                                <ol id="chouti_content">
+                                    <p id="chouti_loading">载入中......</p>
+                                </ol>
+                            </div>
+                        </div>
+						<footer class="custom-card-footer">
+                            <p id="chouti_time" title="更新时间" style="color:#363636;">更新时间</p>
+						</footer>
+                    </div>
+                </div>
+            </div>
+            <div class="row columns">
+                <div class="column is-one-third">
+                    <div class="card large">
+                        <header id="cnbeta_head" class=card-header>
+                            <p class=card-header-title><span class=icon><img src=img/cnbeta.png width=24 height=24 /></span><a title="点击刷新 (服务器每10分钟采集一次)" style="color:#363636;">cnBeta</a></p>
+                        </header>
+                        <div class=card-content>
+                            <div class="content scroll-box">
+                                <ol id="cnbeta_content">
+                                    <p id="cnbeta_loading">载入中......</p>
+                                </ol>
+                            </div>
+                        </div>
+						<footer class="custom-card-footer">
+                            <p id="cnbeta_time" title="更新时间" style="color:#363636;">更新时间</p>
+						</footer>
+                    </div>
+                </div>
+                <div class="column is-one-third">
+                    <div class="card large">
+                        <header id="mop_head" class=card-header>
+                            <p class=card-header-title><span class=icon><img src=img/mop.png width=24 height=24 /></span><a title="点击刷新 (服务器每10分钟采集一次)" style="color:#363636;">猫扑-热帖</a></p>
+                        </header>
+                        <div class=card-content>
+                            <div class="content scroll-box">
+                                <ol id="mop_content">
+                                    <p id="mop_loading">载入中......</p>
+                                </ol>
+                            </div>
+                        </div>
+						<footer class="custom-card-footer">
+                            <p id="mop_time" title="更新时间" style="color:#363636;">更新时间</p>
+						</footer>
+                    </div>
+                </div>
+                <div class="column is-one-third">
+                    <div class="card large">
+                        <header id="solidot_head" class=card-header>
+                            <p class=card-header-title><span class=icon><img src=img/solidot.png width=24 height=24 /></span><a title="点击刷新 (服务器每10分钟采集一次)" style="color:#363636;">奇客的资讯</a></p>
+                        </header>
+                        <div class=card-content>
+                            <div class="content scroll-box">
+                                <ol id="solidot_content">
+                                    <p id="solidot_loading">载入中......</p>
+                                </ol>
+                            </div>
+                        </div>
+						<footer class="custom-card-footer">
+                            <p id="solidot_time" title="更新时间" style="color:#363636;">更新时间</p>
+						</footer>
+                    </div>
+                </div>
+            </div>
+            <div class="row columns">
+                <div class="column is-one-third">
+                    <div class="card large">
+                        <header id="cctv_head" class=card-header>
+                            <p class=card-header-title><span class=icon><img src=img/cctv.png width=24 height=24 /></span><a title="点击刷新 (服务器每10分钟采集一次)" style="color:#363636;">央视要闻</a></p>
+                        </header>
+                        <div class=card-content>
+                            <div class="content scroll-box">
+                                <ol id="cctv_content">
+                                    <p id="cctv_loading">载入中......</p>
+                                </ol>
+                            </div>
+                        </div>
+						<footer class="custom-card-footer">
+                            <p id="cctv_time" title="更新时间" style="color:#363636;">更新时间</p>
+						</footer>
+                    </div>
+                </div>
+                <div class="column is-one-third">
+                    <div class="card large">
+                        <header id="toutiao_head" class=card-header>
+                            <p class=card-header-title><span class=icon><img src=img/toutiao.png width=24 height=24 /></span><a title="点击刷新 (服务器每10分钟采集一次)" style="color:#363636;">头条推荐</a></p>
+                        </header>
+                        <div class=card-content>
+                            <div class="content scroll-box">
+                                <ol id="toutiao_content">
+                                    <p id="toutiao_loading">载入中......</p>
+                                </ol>
+                            </div>
+                        </div>
+						<footer class="custom-card-footer">
+                            <p id="toutiao_time" title="更新时间" style="color:#363636;">更新时间</p>
+						</footer>
+                    </div>
+                </div>
+                <div class="column is-one-third">
+                    <div class="card large">
+                        <header id="tianya_head" class=card-header>
+                            <p class=card-header-title><span class=icon><img src=img/tianya.png width=24 height=24 /></span><a title="点击刷新 (服务器每10分钟采集一次)" style="color:#363636;">天涯热帖榜</a></p>
+                        </header>
+                        <div class=card-content>
+                            <div class="content scroll-box">
+                                <ol id="tianya_content">
+                                    <p id="tianya_loading">载入中......</p>
+                                </ol>
+                            </div>
+                        </div>
+						<footer class="custom-card-footer">
+                            <p id="tianya_time" title="更新时间" style="color:#363636;">更新时间</p>
+						</footer>
+                    </div>
+                </div>
+            </div>
+            <div class="row columns">
+                <div class="column is-one-third">
+                    <div class="card large">
+                        <header id="ithome_head" class=card-header>
+                            <p class=card-header-title><span class=icon><img src=img/ithome.png width=24 height=24 /></span><a title="点击刷新 (服务器每10分钟采集一次)" style="color:#363636;">IT之家</a></p>
+                        </header>
+                        <div class=card-content>
+                            <div class="content scroll-box">
+                                <ol id="ithome_content">
+                                    <p id="ithome_loading">载入中......</p>
+                                </ol>
+                            </div>
+                        </div>
+						<footer class="custom-card-footer">
+                            <p id="ithome_time" title="更新时间" style="color:#363636;">更新时间</p>
+						</footer>
+                    </div>
+                </div>
+                <div class="column is-one-third">
+                    <div class="card large">
+                        <header id="zaobao_head" class=card-header>
+                            <p class=card-header-title><span class=icon><img src=img/lian-he-zao-bao.png width=24 height=24 /></span><a title="点击刷新 (服务器每10分钟采集一次)" style="color:#363636;">联合早报-中港台</a></p>
+                        </header>
+                        <div class=card-content>
+                            <div class="content scroll-box">
+                                <ol id="zaobao_content">
+                                    <p id="zaobao_loading">载入中......</p>
+                                </ol>
+                            </div>
+                        </div>
+						<footer class="custom-card-footer">
+                            <p id="zaobao_time" title="更新时间" style="color:#363636;">更新时间</p>
+						</footer>
+                    </div>
+                </div>
+                <div class="column is-one-third">
+                    <div class="card large">
+                        <header id="thepaper_head" class=card-header>
+                            <p class=card-header-title><span class=icon><img src=img/peng-pai-xin-wen.png width=24 height=24 /></span><a title="点击刷新 (服务器每10分钟采集一次)" style="color:#363636;">澎湃新闻</a></p>
+                        </header>
+                        <div class=card-content>
+                            <div class="content scroll-box">
+                                <ol id="thepaper_content">
+                                    <p id="thepaper_loading">载入中......</p>
+                                </ol>
+                            </div>
+                        </div>
+						<footer class="custom-card-footer">
+                            <p id="thepaper_time" title="更新时间" style="color:#363636;">更新时间</p>
+						</footer>
+                    </div>
+                </div>
+            </div>
+            <div class="row columns">
+                <div class="column is-one-third">
+                    <div class="card large">
+                        <header id="huxiu_head" class=card-header>
+                            <p class=card-header-title><span class=icon><img src=img/hu-bu.png width=24 height=24 /></span><a title="点击刷新 (服务器每10分钟采集一次)" style="color:#363636;">虎嗅网</a></p>
+                        </header>
+                        <div class=card-content>
+                            <div class="content scroll-box">
+                                <ol id="huxiu_content">
+                                    <p id="huxiu_loading">载入中......</p>
+                                </ol>
+                            </div>
+                        </div>
+						<footer class="custom-card-footer">
+                            <p id="huxiu_time" title="更新时间" style="color:#363636;">更新时间</p>
+						</footer>
+                    </div>
+                </div>
+                <div class="column is-one-third">
+                    <div class="card large">
+                        <header id="nytimes_head" class=card-header>
+                            <p class=card-header-title><span class=icon><img src=img/niu-yue-shi-bao.png width=24 height=24 /></span><a title="点击刷新 (服务器每10分钟采集一次)" style="color:#363636;">纽约时报中文网-国际简报</a></p>
+                        </header>
+                        <div class=card-content>
+                            <div class="content scroll-box">
+                                <ol id="nytimes_content">
+                                    <p id="nytimes_loading">载入中......</p>
+                                </ol>
+                            </div>
+                        </div>
+						<footer class="custom-card-footer">
+                            <p id="nytimes_time" title="更新时间" style="color:#363636;">更新时间</p>
+						</footer>
+                    </div>
+                </div>
+                <div class="column is-one-third">
+                    <div class="card large">
+                        <header id="bjnews_head" class=card-header>
+                            <p class=card-header-title><span class=icon><img src=img/bjnews.png width=24 height=24 /></span><a title="点击刷新 (服务器每10分钟采集一次)" style="color:#363636;">新京报</a></p>
+                        </header>
+                        <div class=card-content>
+                            <div class="content scroll-box">
+                                <ol id="bjnews_content">
+                                    <p id="bjnews_loading">载入中......</p>
+                                </ol>
+                            </div>
+                        </div>
+						<footer class="custom-card-footer">
+                            <p id="bjnews_time" title="更新时间" style="color:#363636;">更新时间</p>
+						</footer>
+                    </div>
+                </div>
+            </div>
+            <div class="row columns">
+                <div class="column is-one-third">
+                    <div class="card large">
+                        <header id="sinatech_head" class=card-header>
+                            <p class=card-header-title><span class=icon><img src=img/sina.png width=24 height=24 /></span><a title="点击刷新 (服务器每10分钟采集一次)" style="color:#363636;">新浪科技</a></p>
+                        </header>
+                        <div class=card-content>
+                            <div class="content scroll-box">
+                                <ol id="sinatech_content">
+                                    <p id="sinatech_loading">载入中......</p>
+                                </ol>
+                            </div>
+                        </div>
+						<footer class="custom-card-footer">
+                            <p id="sinatech_time" title="更新时间" style="color:#363636;">更新时间</p>
+						</footer>
+                    </div>
+                </div>
+                <div class="column is-one-third">
+                    <div class="card large">
+                        <header id="itunes_cn_head" class=card-header>
+                            <p class=card-header-title><span class=icon><img src=img/itunes.png width=24 height=24 /></span><a title="点击刷新 (服务器每10分钟采集一次)" style="color:#363636;">AppStore国区排行</a></p><a class="custom-card-toggle" style="color:#bdbdbd;" id="itunes_free_cn_title" onclick="refresh('itunes_free_cn')" title="ios端给游戏做了单独分类,此处用的官方接口为所有app排名,右侧有类目名可方便筛选">免费榜</a><a class="custom-card-toggle" style="color:#bdbdbd;" id="itunes_paid_cn_title" onclick="refresh('itunes_paid_cn')" title="ios端给游戏做了单独分类,此处用的官方接口为所有app排名,右侧有类目名可方便筛选">付费榜</a><a class="custom-card-toggle" style="color:#bdbdbd;" id="itunes_revenue_cn_title" onclick="refresh('itunes_revenue_cn')" title="ios端给游戏做了单独分类,此处用的官方接口为所有app排名,右侧有类目名可方便筛选">收入榜</a>
+                        </header>
+                        <div class=card-content>
+                            <div class="content scroll-box">
+                                <ol id="itunes_cn_content">
+                                    <p>载入中......</p>
+                                </ol>
+                            </div>
+                        </div>
+						<footer class="custom-card-footer">
+                            <p id="itunes_cn_time" title="更新时间" style="color:#363636;">更新时间</p>
+						</footer>
+                    </div>
+                </div>
+                <div class="column is-one-third">
+                    <div class="card large">
+                        <header id="itunes_us_head" class=card-header>
+                            <p class=card-header-title><span class=icon><img src=img/itunes.png width=24 height=24 /></span><a title="点击刷新 (服务器每10分钟采集一次)" style="color:#363636;">AppStore美区排行</a></p><a class="custom-card-toggle" style="color:#bdbdbd;" id="itunes_free_us_title" onclick="refresh('itunes_free_us')" title="ios端给游戏做了单独分类,此处用的官方接口为所有app排名,右侧有类目名可方便筛选">免费榜</a><a class="custom-card-toggle" style="color:#bdbdbd;" id="itunes_paid_us_title" onclick="refresh('itunes_paid_us')" title="ios端给游戏做了单独分类,此处用的官方接口为所有app排名,右侧有类目名可方便筛选">付费榜</a><a class="custom-card-toggle" style="color:#bdbdbd;" id="itunes_revenue_us_title" onclick="refresh('itunes_revenue_us')" title="ios端给游戏做了单独分类,此处用的官方接口为所有app排名,右侧有类目名可方便筛选">收入榜</a>
+                        </header>
+                        <div class=card-content>
+                            <div class="content scroll-box">
+                                <ol id="itunes_us_content">
+                                    <p>载入中......</p>
+                                </ol>
+                            </div>
+                        </div>
+						<footer class="custom-card-footer">
+                            <p id="itunes_us_time" title="更新时间" style="color:#363636;">更新时间</p>
+						</footer>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+        <div class=container>
+            <div class="content has-text-centered"> 
+                <p>———— 我是有底线的 ————</p>
+            </div>
+        </div>
+</body>
+</html>
